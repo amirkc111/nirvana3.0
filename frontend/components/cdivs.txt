@@ -1,0 +1,178 @@
+330:                        <div className="absolute inset-0 animate-spin rounded-full border-b-2 border-purple-500"></div>
+332:                    </div>
+338:                        ></div>
+339:                    </div>
+341:                </div>
+342:            </div>
+350:                    <div className="text-red-500 text-5xl mb-4">⚠️</div>
+370:                    </div>
+371:                </div>
+372:            </div>
+404:                    </div>
+424:                        </div>
+444:                    </div>
+445:                </div>
+463:                                    <div className="absolute bottom-0 left-0 right-0 h-1.5 bg-purple-500 shadow-[0_0_15px_rgba(168,85,247,0.8)] rounded-t-full"></div>
+467:                    </div>
+468:                </div>
+484:                                    </div>
+485:                                </div>
+494:                                    </div>
+495:                                </div>
+496:                            </div>
+505:                                    </div>
+510:                                            <div className="absolute -right-4 -top-4 w-20 h-20 bg-blue-500/10 blur-3xl rounded-full group-hover:bg-blue-500/20 transition-colors"></div>
+515:                                                    <div className="h-full bg-blue-400" style={{ width: `${((Number(analysis.ascendant.degree || 0) % 30) / 30) * 100}%` }}></div>
+516:                                                </div>
+518:                                            </div>
+519:                                        </div>
+522:                                            <div className="absolute -right-4 -top-4 w-20 h-20 bg-purple-500/10 blur-3xl rounded-full group-hover:bg-purple-500/20 transition-colors"></div>
+527:                                                    <div className="h-full bg-purple-400" style={{ width: `${((analysis.planets.Moon.degree % 30) / 30) * 100}%` }}></div>
+528:                                                </div>
+530:                                            </div>
+531:                                        </div>
+532:                                    </div>
+544:                                                </div>
+566:                                                                </div>
+568:                                                            </div>
+570:                                                    </div>
+571:                                                </div>
+572:                                            </div>
+573:                                        </div>
+585:                                            </div>
+608:                                                            </div>
+610:                                                        </div>
+612:                                                </div>
+613:                                            </div>
+614:                                        </div>
+615:                                    </div>
+616:                                </div>
+626:                                            <div className="absolute inset-0 bg-gradient-to-br from-purple-500/5 to-transparent"></div>
+630:                                            </div>
+637:                                            </div>
+644:                                                    </div>
+649:                                                        ></div>
+650:                                                    </div>
+652:                                                </div>
+659:                                                    <div className="absolute inset-0 bg-white/20 blur-xl opacity-0 group-hover:opacity-100 transition-opacity"></div>
+662:                                        </div>
+667:                                                    <div className="absolute top-0 right-0 w-24 h-24 bg-purple-500/5 blur-3xl -mr-12 -mt-12 group-hover:bg-purple-500/10 transition-colors"></div>
+675:                                                </div>
+677:                                        </div>
+679:                                </div>
+680:                            </div>
+681:                        </div>
+693:                            <div style={{ display: 'none' }}>DEBUG-RENDER: Shadbala={analysis?.shadbala ? 'Yes' : 'No'}</div>
+716:                                        </div>
+717:                                    </div>
+720:                                        <div className={`w-1.5 h-1.5 rounded-full animate-pulse ${dynamicDasha?.status === 'accurate' ? 'bg-green-500 shadow-[0_0_8px_rgba(34,197,94,0.6)]' : 'bg-red-500'}`}></div>
+724:                                    </div>
+725:                                </div>
+740:                                </div>
+741:                            </div>
+746:                                    <div className="w-20 h-20 bg-blue-500/10 rounded-full flex items-center justify-center text-4xl">📅</div>
+752:                                    </div>
+753:                                </div>
+760:                                            <div className="absolute -right-10 -top-10 w-40 h-40 bg-purple-500/10 blur-[80px] rounded-full"></div>
+773:                                                        </div>
+775:                                                </div>
+780:                                                    </div>
+781:                                                    <div className="h-8 w-[1px] bg-white/10"></div>
+785:                                                    </div>
+786:                                                </div>
+787:                                            </div>
+788:                                        </div>
+792:                                            <div className="absolute -right-10 -top-10 w-40 h-40 bg-blue-500/10 blur-[80px] rounded-full"></div>
+802:                                                    </div>
+803:                                                    <div className="h-8 w-[1px] bg-white/10"></div>
+807:                                                    </div>
+808:                                                </div>
+809:                                            </div>
+810:                                        </div>
+814:                                            <div className="absolute -right-10 -top-10 w-40 h-40 bg-indigo-500/10 blur-[80px] rounded-full"></div>
+824:                                                    </div>
+825:                                                    <div className="h-8 w-[1px] bg-white/10"></div>
+829:                                                    </div>
+830:                                                </div>
+831:                                            </div>
+832:                                        </div>
+833:                                    </div>
+846:                                                </div>
+851:                                                </div>
+856:                                                </div>
+863:                                                </div>
+864:                                            </div>
+865:                                        </div>
+866:                                    </div>
+874:                                            </div>
+875:                                            <div className="text-[10px] text-gray-400 font-medium">{t('clickForDetails')}</div>
+905:                                                                            </div>
+907:                                                                        </div>
+918:                                                                        </div>
+936:                                                                                        <div className={`w-1.5 h-1.5 rounded-full ${isAdActive ? 'bg-blue-500' : 'bg-gray-700'}`}></div>
+938:                                                                                    </div>
+949:                                                                                    </div>
+963:                                                                                            {isPdActive && <div className="w-1 h-1 bg-indigo-500 rounded-full ml-auto animate-pulse"></div>}
+976:                                        </div>
+977:                                    </div>
+981:                        </div>
+1005:                                            </div>
+1023:                                            </div>
+1024:                                        </div>
+1026:                                </div>
+1027:                            </div>
+1048:                                            </div>
+1066:                                            </div>
+1078:                                                </div>
+1080:                                        </div>
+1082:                                </div>
+1083:                            </div>
+1112:                                    </div>
+1113:                                </div>
+1114:                            </div>
+1160:                                    </div>
+1161:                                </div>
+1162:                            </div>
+1163:                        </div>
+1192:                                </div>
+1193:                            </div>
+1194:                        </div>
+1247:                                            </div>
+1260:                                                </div>
+1267:                                                        </div>
+1268:                                                    </div>
+1272:                                                </div>
+1273:                                            </div>
+1278:                                                    <div className="absolute top-0 right-0 bg-indigo-500 text-[8px] font-black text-white px-2 py-0.5 rounded-bl-lg">EASY UNDERSTANDING</div>
+1287:                                                </div>
+1302:                                                        </div>
+1306:                                                        </div>
+1307:                                                    </div>
+1308:                                                </div>
+1316:                                                    </div>
+1325:                                                    </div>
+1335:                                                </div>
+1336:                                            </div>
+1337:                                        </div>
+1340:                            </div>
+1341:                        </div>
+1350:                            </div>
+1356:                                            <div className="w-2 h-2 rounded-full bg-purple-500"></div>
+1371:                                    </div>
+1373:                            </div>
+1374:                        </div>
+1376:                </div>
+1377:            </div>
+1390:                            <div className="absolute inset-0 bg-gradient-to-b from-purple-500/5 to-transparent pointer-events-none"></div>
+1398:                                        <div className="h-1 w-12 bg-purple-500 rounded-full mt-2"></div>
+1399:                                    </div>
+1408:                                </div>
+1416:                                    </div>
+1424:                                        </div>
+1433:                                        </div>
+1442:                                        </div>
+1444:                                </div>
+1453:                                </div>
+1454:                            </div>
+1455:                        </div>
+1456:                    </div>

@@ -1,0 +1,67 @@
+version: '3.8'
+
+services:
+  panchang-api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    image: imbibetech/nirvana-backend
+    container_name: nirvana-panchang-api
+    ports:
+      - "5002:5002"
+    restart: always
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:5002/api/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  backend-cv:
+    build:
+      context: ./backend-cv
+      dockerfile: Dockerfile
+    image: imbibetech/nirvana-cv
+    container_name: nirvana-cv
+    ports:
+      - "5001:5001"
+    restart: always
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:5001/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        NEXT_PUBLIC_SUPABASE_URL: "https://fkckiknrclhadiosowwp.supabase.co"
+        NEXT_PUBLIC_SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZrY2tpa25yY2xoYWRpb3Nvd3dwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjY1MTQyMzQsImV4cCI6MjA4MjA5MDIzNH0.UjcSZsaOBKFwHcLdKgthv0oOIUVPnRNkH0brjOO1sU0"
+    image: imbibetech/nirvana-frontend
+    container_name: nirvana-frontend
+    ports:
+      - "3002:3002"
+    environment:
+      - PANCHANG_API_URL=http://panchang-api:5002
+      - BACKEND_CV_URL=http://backend-cv:5001
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZrY2tpa25yY2xoYWRpb3Nvd3dwIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2NjUxNDIzNCwiZXhwIjoyMDgyMDkwMjM0fQ.TuxWt-Fh7uo3WKyYpnuMzc0PUyiJjVRuj2cRe0s8DbI
+      - PORT=3002
+    depends_on:
+      - panchang-api
+      - backend-cv
+    restart: always
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: nirvana-ai
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    entrypoint: [ "/bin/sh", "-c", "/bin/ollama serve & sleep 10 && /bin/ollama pull llama3.2:latest && /bin/ollama pull llava:latest && wait" ]
+    restart: always
+
+volumes:
+  ollama_data:

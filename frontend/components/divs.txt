@@ -1,0 +1,179 @@
+327:            <div className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-[100]">
+328:                <div className={`${currentTheme.colors.surface} rounded-2xl p-8 max-w-md w-full mx-4 shadow-2xl border ${currentTheme.colors.border} text-center`}>
+329:                    <div className="relative h-16 w-16 mx-auto mb-6 flex items-center justify-center">
+330:                        <div className="absolute inset-0 animate-spin rounded-full border-b-2 border-purple-500"></div>
+334:                    <div className="w-full bg-gray-700/30 h-1.5 rounded-full mb-4 overflow-hidden">
+335:                        <div
+348:            <div className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-[100] p-4">
+349:                <div className={`${currentTheme.colors.surface} rounded-2xl p-8 max-w-md w-full shadow-2xl border border-red-500/30 text-center`}>
+350:                    <div className="text-red-500 text-5xl mb-4">⚠️</div>
+357:                    <div className="flex flex-col gap-3">
+395:        <div className={`fixed inset-0 bg-black/60 backdrop-blur-md flex items-center justify-center z-[100] ${isMaximized ? 'p-0' : 'p-4 lg:p-8'}`}>
+396:            <div className={`${currentTheme.colors.surface} ${isMaximized ? 'w-full h-full max-h-none rounded-none border-none' : 'max-w-6xl w-full max-h-[90vh] rounded-2xl border'} overflow-hidden flex flex-col shadow-2xl ${currentTheme.colors.border}`}>
+399:                <div className={`p-5 border-b ${currentTheme.colors.border} flex flex-shrink-0 items-center justify-between bg-gradient-to-r from-purple-900/20 via-purple-900/5 to-transparent z-20`}>
+400:                    <div>
+405:                    <div className="flex items-center gap-3">
+407:                        <div className="flex items-center bg-black/40 backdrop-blur-md p-1 rounded-full border border-white/10 shadow-inner">
+448:                <div className={`flex flex-shrink-0 overflow-x-auto border-b ${currentTheme.colors.border} bg-black/60 z-10`}>
+449:                    <div className="flex px-4 gap-4">
+463:                                    <div className="absolute bottom-0 left-0 right-0 h-1.5 bg-purple-500 shadow-[0_0_15px_rgba(168,85,247,0.8)] rounded-t-full"></div>
+471:                <div className="flex-1 overflow-y-auto p-6 space-y-8 bg-black/10">
+474:                        <div className="space-y-12">
+476:                            <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
+478:                                <div className="space-y-6 text-center">
+482:                                    <div className="w-full">
+488:                                <div className="space-y-6 text-center">
+492:                                    <div className="w-full">
+499:                            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+501:                                <div className="lg:col-span-1 space-y-8">
+502:                                    <div className="flex items-center justify-between mb-2">
+508:                                    <div className="grid grid-cols-2 gap-4">
+509:                                        <div className={`p-6 rounded-2xl bg-gradient-to-br from-blue-600/20 via-blue-900/10 to-transparent border ${currentTheme.colors.border} shadow-2xl backdrop-blur-md relative overflow-hidden group`}>
+510:                                            <div className="absolute -right-4 -top-4 w-20 h-20 bg-blue-500/10 blur-3xl rounded-full group-hover:bg-blue-500/20 transition-colors"></div>
+513:                                            <div className="mt-4 flex items-center gap-2">
+514:                                                <div className="h-1 flex-1 bg-blue-500/20 rounded-full overflow-hidden">
+515:                                                    <div className="h-full bg-blue-400" style={{ width: `${((Number(analysis.ascendant.degree || 0) % 30) / 30) * 100}%` }}></div>
+521:                                        <div className={`p-6 rounded-2xl bg-gradient-to-br from-purple-600/20 via-purple-900/10 to-transparent border ${currentTheme.colors.border} shadow-2xl backdrop-blur-md relative overflow-hidden group`}>
+522:                                            <div className="absolute -right-4 -top-4 w-20 h-20 bg-purple-500/10 blur-3xl rounded-full group-hover:bg-purple-500/20 transition-colors"></div>
+525:                                            <div className="mt-4 flex items-center gap-2">
+526:                                                <div className="h-1 flex-1 bg-purple-500/20 rounded-full overflow-hidden">
+527:                                                    <div className="h-full bg-purple-400" style={{ width: `${((analysis.planets.Moon.degree % 30) / 30) * 100}%` }}></div>
+536:                                        <div className={`rounded-2xl ${currentTheme.colors.surface} border ${currentTheme.colors.border} shadow-2xl backdrop-blur-xl bg-black/40 overflow-hidden transition-all duration-300 mb-6`}>
+541:                                                <div className="flex items-center gap-3">
+548:                                            <div className={`grid transition-all duration-500 ease-in-out ${showVedicIndicators ? 'grid-rows-[1fr] opacity-100' : 'grid-rows-[0fr] opacity-0'}`}>
+549:                                                <div className="overflow-hidden">
+550:                                                    <div className="p-8 grid grid-cols-2 gap-y-8 gap-x-6">
+562:                                                            <div key={i} className="space-y-1.5 group cursor-default">
+563:                                                                <div className="flex items-center gap-2 opacity-60 group-hover:opacity-100 transition-opacity">
+577:                                    <div className={`rounded-2xl ${currentTheme.colors.surface} border ${currentTheme.colors.border} shadow-2xl backdrop-blur-xl bg-black/40 overflow-hidden transition-all duration-300`}>
+582:                                            <div className="flex items-center gap-3">
+589:                                        <div className={`grid transition-all duration-500 ease-in-out ${showBirthDetails ? 'grid-rows-[1fr] opacity-100' : 'grid-rows-[0fr] opacity-0'}`}>
+590:                                            <div className="overflow-hidden">
+591:                                                <div className="p-8 grid grid-cols-1 sm:grid-cols-2 gap-y-8 gap-x-6">
+604:                                                        <div key={i} className="space-y-1.5 group cursor-default">
+605:                                                            <div className="flex items-center gap-2 opacity-60 group-hover:opacity-100 transition-opacity">
+619:                                <div className="lg:col-span-2 space-y-6">
+625:                                        <div className={`p-10 rounded-2xl bg-white/[0.03] border-2 border-dashed ${currentTheme.colors.border} flex flex-col items-center justify-center text-center space-y-6 relative overflow-hidden transition-all hover:bg-white/[0.05]`}>
+626:                                            <div className="absolute inset-0 bg-gradient-to-br from-purple-500/5 to-transparent"></div>
+628:                                            <div className="w-20 h-20 bg-purple-500/10 rounded-full flex items-center justify-center text-4xl animate-pulse relative z-10">
+632:                                            <div className="space-y-2 relative z-10">
+640:                                                <div className="w-full max-w-xs space-y-4 relative z-10">
+641:                                                    <div className="flex items-center justify-between text-[10px] font-black uppercase tracking-widest px-1">
+645:                                                    <div className="w-full bg-white/5 h-2 rounded-full overflow-hidden border border-white/5 p-[2px]">
+646:                                                        <div
+659:                                                    <div className="absolute inset-0 bg-white/20 blur-xl opacity-0 group-hover:opacity-100 transition-opacity"></div>
+664:                                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 animate-in fade-in slide-in-from-bottom-4 duration-700">
+666:                                                <div key={key} className={`p-6 rounded-2xl bg-white/[0.03] border ${currentTheme.colors.border} hover:bg-white/[0.07] transition-all group relative overflow-hidden`}>
+667:                                                    <div className="absolute top-0 right-0 w-24 h-24 bg-purple-500/5 blur-3xl -mr-12 -mt-12 group-hover:bg-purple-500/10 transition-colors"></div>
+693:                            <div style={{ display: 'none' }}>DEBUG-RENDER: Shadbala={analysis?.shadbala ? 'Yes' : 'No'}</div>
+700:                        <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
+702:                            <div className="flex flex-col md:flex-row gap-4 items-center justify-between p-6 rounded-2xl bg-white/5 border border-white/10 backdrop-blur-md">
+703:                                <div className="flex items-center gap-6">
+704:                                    <div className="flex items-center gap-3">
+706:                                        <div className="flex bg-black/40 p-1 rounded-xl border border-white/5">
+719:                                    <div className={`px-4 py-1.5 rounded-xl border flex items-center gap-2 ${dynamicDasha?.status === 'accurate' ? 'bg-green-500/10 border-green-500/20 text-green-400' : 'bg-red-500/10 border-red-500/20 text-red-400'}`}>
+720:                                        <div className={`w-1.5 h-1.5 rounded-full animate-pulse ${dynamicDasha?.status === 'accurate' ? 'bg-green-500 shadow-[0_0_8px_rgba(34,197,94,0.6)]' : 'bg-red-500'}`}></div>
+726:                                <div className="flex items-center gap-3">
+745:                                <div className={`p-10 rounded-2xl bg-white/[0.03] border-2 border-dashed ${currentTheme.colors.border} flex flex-col items-center justify-center text-center space-y-6`}>
+746:                                    <div className="w-20 h-20 bg-blue-500/10 rounded-full flex items-center justify-center text-4xl">📅</div>
+747:                                    <div className="space-y-2">
+757:                                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+759:                                        <div className={`p-8 rounded-2xl bg-gradient-to-br from-purple-600/20 via-blue-900/10 to-transparent border ${currentTheme.colors.border} shadow-2xl backdrop-blur-xl relative overflow-hidden group`}>
+760:                                            <div className="absolute -right-10 -top-10 w-40 h-40 bg-purple-500/10 blur-[80px] rounded-full"></div>
+761:                                            <div className="relative z-10">
+763:                                                <div className="flex items-end justify-between mb-2">
+768:                                                        <div className="flex flex-col items-end">
+776:                                                <div className="flex items-center gap-4 text-xs font-bold text-gray-400 mt-6">
+777:                                                    <div className="flex flex-col">
+781:                                                    <div className="h-8 w-[1px] bg-white/10"></div>
+782:                                                    <div className="flex flex-col">
+791:                                        <div className={`p-8 rounded-2xl bg-gradient-to-br from-blue-600/20 via-indigo-900/10 to-transparent border ${currentTheme.colors.border} shadow-2xl backdrop-blur-xl relative overflow-hidden group`}>
+792:                                            <div className="absolute -right-10 -top-10 w-40 h-40 bg-blue-500/10 blur-[80px] rounded-full"></div>
+793:                                            <div className="relative z-10">
+798:                                                <div className="flex items-center gap-4 text-xs font-bold text-gray-400 mt-6">
+799:                                                    <div className="flex flex-col">
+803:                                                    <div className="h-8 w-[1px] bg-white/10"></div>
+804:                                                    <div className="flex flex-col">
+813:                                        <div className={`p-8 rounded-2xl bg-gradient-to-br from-indigo-600/20 via-slate-900/10 to-transparent border ${currentTheme.colors.border} shadow-2xl backdrop-blur-xl relative overflow-hidden group`}>
+814:                                            <div className="absolute -right-10 -top-10 w-40 h-40 bg-indigo-500/10 blur-[80px] rounded-full"></div>
+815:                                            <div className="relative z-10">
+820:                                                <div className="flex items-center gap-4 text-xs font-bold text-gray-400 mt-6">
+821:                                                    <div className="flex flex-col">
+825:                                                    <div className="h-8 w-[1px] bg-white/10"></div>
+826:                                                    <div className="flex flex-col">
+836:                                    <div className="mb-8">
+837:                                        <div className={`p-6 rounded-2xl border ${currentTheme.colors.border} bg-white/5`}>
+841:                                            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+842:                                                <div className="p-4 rounded-2xl bg-black/20">
+847:                                                <div className="p-4 rounded-2xl bg-black/20">
+852:                                                <div className="p-4 rounded-2xl bg-black/20">
+857:                                                <div className="p-4 rounded-2xl bg-black/20">
+870:                                    <div>
+872:                                            <div className="flex items-center gap-2">
+875:                                            <div className="text-[10px] text-gray-400 font-medium">{t('clickForDetails')}</div>
+878:                                        <div className="overflow-x-auto rounded-2xl border border-white/10 bg-white/5 backdrop-blur-md">
+902:                                                                        <div className="flex items-center gap-3">
+903:                                                                            <div className={`w-8 h-8 rounded-xl flex items-center justify-center text-sm font-black ${isActive ? 'bg-purple-500 text-white shadow-lg' : 'bg-white/10 text-gray-400'}`}>
+913:                                                                        <div className="flex items-center justify-end gap-3">
+935:                                                                                    <div className="flex items-center gap-2">
+936:                                                                                        <div className={`w-1.5 h-1.5 rounded-full ${isAdActive ? 'bg-blue-500' : 'bg-gray-700'}`}></div>
+944:                                                                                    <div className="flex items-center justify-end gap-3">
+963:                                                                                            {isPdActive && <div className="w-1 h-1 bg-indigo-500 rounded-full ml-auto animate-pulse"></div>}
+985:                        <div className="space-y-8">
+987:                            <div>
+991:                                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+993:                                        <div key={idx} className={`p-6 rounded-2xl border transition-all ${yoga.status === 'Present'
+997:                                            <div className="flex items-center justify-between mb-2">
+1006:                                            <div className="mt-2 p-3 bg-black/20 rounded-2xl border border-white/5 space-y-2">
+1030:                            <div>
+1034:                                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+1036:                                        <div key={idx} className={`p-6 rounded-2xl border transition-all ${dosha.status === 'Present'
+1040:                                            <div className="flex items-center justify-between mb-2">
+1049:                                            <div className="mt-2 p-3 bg-black/20 rounded-2xl border border-white/5 space-y-2">
+1068:                                                <div className="mt-4 flex flex-wrap gap-2">
+1086:                            <div>
+1090:                                <div className={`rounded-2xl ${currentTheme.colors.surface} border ${currentTheme.colors.border} overflow-hidden shadow-2xl backdrop-blur-md bg-black/40`}>
+1091:                                    <div className="overflow-x-auto scrollbar-thin scrollbar-thumb-blue-500/20">
+1117:                            <div className="mt-8">
+1121:                                <div className={`rounded-2xl ${currentTheme.colors.surface} border ${currentTheme.colors.border} overflow-hidden shadow-2xl backdrop-blur-md bg-black/40`}>
+1122:                                    <div className="overflow-x-auto scrollbar-thin scrollbar-thumb-purple-500/20">
+1167:                        <div className="space-y-8">
+1169:                            <div className={`p-8 rounded-2xl ${currentTheme.colors.surface} border ${currentTheme.colors.border} shadow-2xl backdrop-blur-xl bg-black/40`}>
+1170:                                <div className="w-full">
+1198:                        <div className="space-y-6">
+1200:                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+1244:                                        <div key={planet} className={`relative p-6 rounded-2xl ${currentTheme.colors.surface} border ${currentTheme.colors.border} shadow-lg flex flex-col gap-4 overflow-hidden group hover:border-purple-500/50 transition-all`}>
+1245:                                            <div className="absolute bottom-0 right-0 p-4 opacity-10 group-hover:opacity-20 transition-opacity translate-y-4 translate-x-4 pointer-events-none">
+1249:                                            <div className="flex items-center gap-3 z-10">
+1250:                                                <div className={`w-12 h-12 rounded-2xl flex items-center justify-center text-lg shadow-inner font-black
+1261:                                                <div className="flex-1">
+1262:                                                    <div className="flex items-center justify-between">
+1264:                                                        <div className="flex gap-1">
+1275:                                            <div className="space-y-4 z-10">
+1277:                                                <div className="bg-gradient-to-br from-indigo-500/20 to-purple-500/20 p-4 rounded-xl border border-indigo-500/30 relative overflow-hidden">
+1278:                                                    <div className="absolute top-0 right-0 bg-indigo-500 text-[8px] font-black text-white px-2 py-0.5 rounded-bl-lg">EASY UNDERSTANDING</div>
+1290:                                                <div className="bg-purple-900/20 p-4 rounded-xl border border-purple-500/30">
+1298:                                                    <div className="mt-3 pt-3 border-t border-purple-500/20 grid grid-cols-2 gap-2 text-[9px]">
+1299:                                                        <div>
+1303:                                                        <div>
+1311:                                                    <div className="bg-green-500/5 p-3 rounded-xl border border-green-500/10">
+1320:                                                    <div className="bg-red-500/5 p-3 rounded-xl border border-red-500/10">
+1328:                                                <div className="pt-2 border-t border-white/5">
+1345:                        <div className="space-y-8">
+1347:                            <div className="p-6 rounded-2xl bg-gradient-to-r from-purple-500/10 to-blue-500/10 border border-white/10">
+1352:                            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+1354:                                    <div key={idx} className={`p-6 rounded-2xl ${currentTheme.colors.surface} border ${currentTheme.colors.border} shadow-lg`}>
+1356:                                            <div className="w-2 h-2 rounded-full bg-purple-500"></div>
+1382:                    <div
+1386:                        <div
+1390:                            <div className="absolute inset-0 bg-gradient-to-b from-purple-500/5 to-transparent pointer-events-none"></div>
+1392:                            <div className="p-8 relative z-10">
+1393:                                <div className="flex justify-between items-start mb-6">
+1394:                                    <div>
+1398:                                        <div className="h-1 w-12 bg-purple-500 rounded-full mt-2"></div>
+1410:                                <div className="space-y-6 max-h-[60vh] overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-purple-500/20">
+1411:                                    <div>
+1419:                                        <div className="p-5 rounded-2xl bg-white/[0.03] border border-white/10">
+1428:                                        <div className="p-5 rounded-xl bg-purple-500/5 border border-purple-500/20">
+1437:                                        <div>
+1446:                                <div className="mt-8">

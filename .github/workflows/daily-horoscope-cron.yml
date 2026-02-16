@@ -1,0 +1,16 @@
+name: Trigger Daily Horoscope Cron
+
+on:
+  schedule:
+    # Runs at 06:00 UTC every day
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allows manual triggering from GitHub UI
+
+jobs:
+  trigger-cron:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call API Endpoint
+        run: |
+          curl -X GET ${{ secrets.NEXT_PUBLIC_APP_URL }}/api/cron/daily-horoscope \
+          -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}"

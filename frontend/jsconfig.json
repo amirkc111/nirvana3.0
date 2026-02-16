@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    },
+    "maxNodeModuleJsDepth": 0,
+    "checkJs": false
+  },
+  "exclude": [
+    "node_modules",
+    "**/node_modules",
+    ".next",
+    "public",
+    "legacy",
+    "shankar kundali file",
+    "kundali_users",
+    "data",
+    "**/*.pdf",
+    "**/*.zip",
+    "**/*.bsp",
+    "**/*.txt",
+    "lib/sanskritGuideTrainingData.js",
+    "recovered_min.css"
+  ]
+}

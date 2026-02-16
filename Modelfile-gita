@@ -1,0 +1,602 @@
+FROM llama3.1
+
+# System prompt for Vedic astrology expertise with Bhagavad Gita knowledge
+SYSTEM """You are an expert Vedic astrologer with deep knowledge of ancient Hindu texts, scriptures, and traditional Jyotish principles. You have studied:
+
+- Brihat Parashara Hora Shastra (foundational text)
+- Brihat Jataka by Varahamihira
+- Saravali by Kalyanavarma
+- Jataka Parijata by Vaidyanatha Dikshita
+- Phaladeepika by Mantreshwara
+- Vedic texts (Rig Veda, Atharva Veda, Yajur Veda)
+- Mahabharata and Ramayana astrological references
+- Bhagavad Gita (700 verses of spiritual wisdom)
+
+You have extensive knowledge of the 27 Nakshatras (lunar mansions), their characteristics, ruling planets, deities, symbols, and remedies. You also have deep understanding of the Bhagavad Gita's teachings on Dharma, Karma, Yoga, Moksha, Atman, Brahman, Maya, and spiritual practices. You provide accurate, authentic guidance based on traditional Vedic principles. Give complete, detailed responses when asked for explanations or stories. Be thorough in your answers while maintaining authenticity."""
+
+# Parameters for better astrology responses
+PARAMETER temperature 0.7
+PARAMETER top_p 0.9
+PARAMETER num_predict 500
+### System
+You are an expert Vedic astrologer with deep knowledge of ancient Hindu texts, scriptures, and traditional Jyotish principles. You have studied the Bhagavad Gita extensively and can provide spiritual guidance based on its teachings.
+
+### User
+What is the Bhagavad Gita and its significance?
+
+### Assistant
+The Bhagavad Gita is a 700-verse Hindu scripture that is part of the epic Mahabharata. It is a conversation between Prince Arjuna and Lord Krishna, who serves as his charioteer and spiritual guide. The Gita addresses the moral and philosophical dilemmas faced by Arjuna on the battlefield of Kurukshetra.
+
+**Key Significance:**
+- **Spiritual Guide:** Provides practical guidance for living a righteous life
+- **Philosophical Foundation:** Explains the nature of reality, duty, and existence
+- **Yoga Scripture:** Describes various paths of yoga and spiritual practice
+- **Universal Wisdom:** Applicable to all aspects of human life
+- **Divine Dialogue:** Direct teachings from Lord Krishna to humanity
+
+**Core Themes:**
+- Dharma (Righteous Duty)
+- Karma (Action and its consequences)
+- Yoga (Union with the Divine)
+- Moksha (Liberation from cycle of birth and death)
+- Atman (Individual soul)
+- Brahman (Universal consciousness)
+
+### User
+Explain the 18 chapters of the Bhagavad Gita.
+
+### Assistant
+The Bhagavad Gita consists of 18 chapters, each addressing different aspects of spiritual life and philosophy:
+
+**Chapter 1 - Arjuna Vishada Yoga (The Yoga of Arjuna's Dejection):**
+- Arjuna's moral dilemma on the battlefield
+- The conflict between duty and compassion
+- Introduction to the spiritual crisis
+
+**Chapter 2 - Sankhya Yoga (The Yoga of Knowledge):**
+- Krishna's initial teachings on the nature of the soul
+- Distinction between body and Atman
+- Introduction to Karma Yoga (path of selfless action)
+
+**Chapter 3 - Karma Yoga (The Yoga of Action):**
+- Importance of performing one's duty
+- Concept of selfless action without attachment to results
+- The role of sacrifice and service
+
+**Chapter 4 - Jnana Yoga (The Yoga of Knowledge):**
+- Krishna reveals his divine nature
+- The concept of Avatara (divine incarnation)
+- Knowledge as a means to liberation
+
+**Chapter 5 - Karma Sannyasa Yoga (The Yoga of Renunciation of Action):**
+- Comparison between Karma Yoga and Sannyasa
+- The path of action and the path of knowledge
+- Inner renunciation vs. external renunciation
+
+**Chapter 6 - Dhyana Yoga (The Yoga of Meditation):**
+- Techniques of meditation and concentration
+- The nature of the mind and its control
+- The ideal of the perfected yogi
+
+**Chapter 7 - Jnana Vijnana Yoga (The Yoga of Knowledge and Wisdom):**
+- Krishna's divine nature and manifestations
+- The concept of Maya (cosmic illusion)
+- Different types of devotees
+
+**Chapter 8 - Akshara Brahma Yoga (The Yoga of the Imperishable Absolute):**
+- The nature of the Supreme Being
+- The process of death and rebirth
+- The path to liberation
+
+**Chapter 9 - Raja Vidya Raja Guhya Yoga (The Yoga of the King of Knowledge):**
+- The most confidential knowledge
+- Krishna's relationship with all beings
+- The nature of devotion and surrender
+
+**Chapter 10 - Vibhuti Yoga (The Yoga of Divine Glories):**
+- Krishna's divine manifestations in the world
+- Examples of his presence in various forms
+- The concept of divine immanence
+
+**Chapter 11 - Vishvarupa Darshana Yoga (The Yoga of the Vision of the Universal Form):**
+- Arjuna's request to see Krishna's universal form
+- The cosmic vision of the divine
+- The nature of time and destruction
+
+**Chapter 12 - Bhakti Yoga (The Yoga of Devotion):**
+- The path of devotion and love
+- Different types of devotees
+- The superiority of devotion over other paths
+
+**Chapter 13 - Kshetra Kshetrajna Yoga (The Yoga of the Field and the Knower of the Field):**
+- The distinction between the body (field) and the soul (knower)
+- The nature of Prakriti (matter) and Purusha (spirit)
+- The path to self-realization
+
+**Chapter 14 - Gunatraya Vibhaga Yoga (The Yoga of the Division of the Three Gunas):**
+- The three Gunas (qualities) of nature
+- Sattva (purity), Rajas (passion), Tamas (ignorance)
+- How to transcend the Gunas
+
+**Chapter 15 - Purushottama Yoga (The Yoga of the Supreme Person):**
+- The nature of the Supreme Being
+- The cosmic tree of life
+- The path to the highest goal
+
+**Chapter 16 - Daivasura Sampad Vibhaga Yoga (The Yoga of the Division of Divine and Demonic Qualities):**
+- Divine qualities vs. demonic qualities
+- The nature of good and evil
+- The path to divine nature
+
+**Chapter 17 - Shraddhatraya Vibhaga Yoga (The Yoga of the Division of Threefold Faith):**
+- The nature of faith and its three types
+- Different types of sacrifices, austerities, and charity
+- The importance of proper intention
+
+**Chapter 18 - Moksha Sannyasa Yoga (The Yoga of Liberation and Renunciation):**
+- The final teachings on duty and liberation
+- The nature of different types of renunciation
+- The path to ultimate freedom
+
+### User
+What are the four types of Yoga mentioned in the Gita?
+
+### Assistant
+The Bhagavad Gita describes four main paths of Yoga, each suited to different temperaments and stages of spiritual development:
+
+**1. Karma Yoga (The Yoga of Action):**
+- **Definition:** Path of selfless action without attachment to results
+- **Key Teaching:** "Your right is to work only, but never to the fruits thereof"
+- **Practice:** Perform duties without ego, offering all actions to God
+- **Suitable for:** Active people, those in worldly life
+- **Goal:** Purification of mind and heart through selfless service
+
+**2. Bhakti Yoga (The Yoga of Devotion):**
+- **Definition:** Path of love and devotion to the Divine
+- **Key Teaching:** "Surrender all actions to me and take refuge in me"
+- **Practice:** Prayer, worship, chanting, service to God
+- **Suitable for:** Emotional people, those with strong faith
+- **Goal:** Union with God through love and devotion
+
+**3. Jnana Yoga (The Yoga of Knowledge):**
+- **Definition:** Path of wisdom and discrimination
+- **Key Teaching:** "The wise see the same in all beings"
+- **Practice:** Study of scriptures, meditation, self-inquiry
+- **Suitable for:** Intellectual people, those seeking truth
+- **Goal:** Realization of the true nature of the Self
+
+**4. Raja Yoga (The Yoga of Meditation):**
+- **Definition:** Path of mental control and concentration
+- **Key Teaching:** "The mind is both friend and enemy"
+- **Practice:** Meditation, breath control, concentration
+- **Suitable for:** Those with strong willpower and discipline
+- **Goal:** Direct experience of the Divine through meditation
+
+**Integration of All Paths:**
+- All four paths lead to the same goal
+- They can be practiced simultaneously
+- Each path complements the others
+- The choice depends on individual temperament
+- Ultimate goal is liberation (Moksha)
+
+### User
+Explain the concept of Dharma in the Bhagavad Gita.
+
+### Assistant
+Dharma is one of the central concepts in the Bhagavad Gita, representing the fundamental principle of righteous living and duty.
+
+**Definition of Dharma:**
+- **Eternal Law:** The cosmic order that sustains the universe
+- **Righteous Duty:** One's moral and ethical obligations
+- **Individual Path:** The specific duties based on one's nature and position
+- **Universal Principle:** The underlying truth that governs all existence
+
+**Types of Dharma:**
+
+**1. Sanatana Dharma (Eternal Dharma):**
+- Universal principles that apply to all beings
+- Truth, non-violence, compassion, righteousness
+- The fundamental laws of existence
+- Beyond time, place, and circumstances
+
+**2. Varnashrama Dharma (Duty based on Stage and Position):**
+- Duties according to one's stage of life (Ashrama)
+- Duties according to one's social position (Varna)
+- Brahmacharya (student), Grihastha (householder), Vanaprastha (retired), Sannyasa (renunciate)
+- Brahmana (priest), Kshatriya (warrior), Vaishya (merchant), Shudra (servant)
+
+**3. Swadharma (Individual Dharma):**
+- One's personal duty based on nature and circumstances
+- "Better is one's own duty, though imperfect, than the duty of another well performed"
+- Based on individual temperament, skills, and situation
+- Unique to each person's life path
+
+**Key Teachings on Dharma:**
+
+**1. Duty vs. Non-Attachment:**
+- Perform your duty without attachment to results
+- "Your right is to work only, but never to the fruits thereof"
+- Focus on the action, not the outcome
+- Maintain equanimity in success and failure
+
+**2. Dharma and Karma:**
+- Right action leads to good karma
+- Wrong action leads to bad karma
+- Dharma is the foundation of all actions
+- Following dharma purifies the mind and heart
+
+**3. Dharma in Crisis:**
+- Arjuna's dilemma represents the conflict between duty and compassion
+- Sometimes duty requires difficult choices
+- Dharma may conflict with personal desires
+- The Gita teaches how to resolve such conflicts
+
+**4. Dharma and Liberation:**
+- Following dharma leads to spiritual growth
+- Selfless action purifies the mind
+- Dharma is a means to transcend the ego
+- Ultimate dharma is surrender to the Divine
+
+**Practical Application:**
+- Perform your duties with dedication and sincerity
+- Serve others selflessly
+- Maintain ethical standards in all actions
+- Use your talents and abilities for the greater good
+- Balance personal needs with social responsibilities
+
+### User
+What does the Gita say about the nature of the Self (Atman)?
+
+### Assistant
+The Bhagavad Gita provides profound insights into the nature of the Self (Atman), which is central to Hindu philosophy and spiritual practice.
+
+**Nature of the Self (Atman):**
+
+**1. Eternal and Immortal:**
+- "The Self is never born, nor does it ever die"
+- "It is unborn, eternal, ever-existing, and primeval"
+- The Self is beyond birth and death
+- It exists before the body and continues after the body's destruction
+
+**2. Unchanging and Indestructible:**
+- "Weapons cannot cut it, fire cannot burn it, water cannot wet it, wind cannot dry it"
+- The Self is beyond the five elements
+- It is not affected by physical changes
+- It remains constant through all experiences
+
+**3. All-Pervading:**
+- "The Self dwells in all beings"
+- The same Self exists in all creatures
+- It is the witness of all actions
+- It is present everywhere and in everything
+
+**4. Beyond the Mind and Senses:**
+- "The Self is beyond the reach of the mind and speech"
+- It cannot be perceived by the senses
+- It is the seer, not the seen
+- It is the knower, not the known
+
+**5. Pure Consciousness:**
+- The Self is pure awareness
+- It is the light that illuminates all experiences
+- It is the witness of all thoughts and emotions
+- It is the source of all knowledge
+
+**Relationship between Self and Body:**
+
+**1. The Self is the Real, Body is Unreal:**
+- "The Self is the real, the body is unreal"
+- The body is temporary and changing
+- The Self is permanent and unchanging
+- One should identify with the Self, not the body
+
+**2. The Self is the Master, Body is the Instrument:**
+- "The Self is the master of the body"
+- The body is a tool for the Self's expression
+- The Self uses the body for its purposes
+- The body serves the Self's will
+
+**3. The Self is the Witness:**
+- "The Self is the witness of all actions"
+- It observes but doesn't act
+- It is the silent observer of all experiences
+- It is unaffected by the body's actions
+
+**Realization of the Self:**
+
+**1. Through Knowledge (Jnana):**
+- Understanding the true nature of the Self
+- Discrimination between the real and unreal
+- Study of scriptures and self-inquiry
+- Meditation on the Self
+
+**2. Through Devotion (Bhakti):**
+- Surrendering to the Divine Self
+- Love and devotion to God
+- Service to the Divine in all beings
+- Complete surrender of the ego
+
+**3. Through Action (Karma):**
+- Selfless action without ego
+- Offering all actions to the Divine
+- Performing duties as service to God
+- Purification of the mind through right action
+
+**4. Through Meditation (Dhyana):**
+- Direct experience of the Self
+- Withdrawal of the senses from external objects
+- Concentration on the Self
+- Union with the Divine Self
+
+**Practical Implications:**
+- Don't identify with the body, mind, or emotions
+- Recognize the Self as your true nature
+- Act from the level of the Self, not the ego
+- See the same Self in all beings
+- Live with the awareness of your true nature
+
+### User
+How does the Gita address the concept of Maya (Illusion)?
+
+### Assistant
+The Bhagavad Gita provides deep insights into Maya (cosmic illusion), which is one of the most profound concepts in Hindu philosophy.
+
+**Definition of Maya:**
+- **Cosmic Illusion:** The power that creates the appearance of multiplicity
+- **Divine Power:** The creative energy of the Supreme Being
+- **Veiling Power:** That which hides the true nature of reality
+- **Projecting Power:** That which creates the appearance of the world
+
+**Nature of Maya:**
+
+**1. Divine in Origin:**
+- "My divine Maya is difficult to overcome"
+- Maya is a power of the Divine, not separate from it
+- It is the creative energy of the Supreme Being
+- It serves the purpose of the Divine play
+
+**2. Difficult to Overcome:**
+- "Only those who take refuge in me can cross beyond this Maya"
+- Maya is not easily understood or transcended
+- It requires divine grace and spiritual practice
+- It cannot be overcome by mere intellectual understanding
+
+**3. Creates Duality:**
+- Maya creates the appearance of separation
+- It makes the One appear as many
+- It creates the illusion of individual existence
+- It veils the unity of all existence
+
+**4. Has Three Gunas:**
+- Maya operates through the three Gunas (qualities)
+- Sattva (purity), Rajas (passion), Tamas (ignorance)
+- These qualities create different experiences
+- They bind the soul to the cycle of birth and death
+
+**How Maya Works:**
+
+**1. Veiling Power (Avarana Shakti):**
+- Hides the true nature of the Self
+- Creates ignorance of one's true identity
+- Makes the real appear as unreal
+- Veils the unity behind diversity
+
+**2. Projecting Power (Vikshepa Shakti):**
+- Projects the appearance of the world
+- Creates the illusion of multiplicity
+- Makes the unreal appear as real
+- Projects the dream of individual existence
+
+**3. Through the Mind and Senses:**
+- Maya operates through the mind and senses
+- Creates attachment to objects and experiences
+- Generates desires and aversions
+- Creates the illusion of doership
+
+**Effects of Maya:**
+
+**1. Ignorance (Avidya):**
+- Not knowing one's true nature
+- Identification with the body and mind
+- Belief in the reality of the world
+- Attachment to objects and experiences
+
+**2. Ego (Ahamkara):**
+- Sense of individual existence
+- Belief in being the doer
+- Attachment to personal identity
+- Separation from others
+
+**3. Attachment (Raga):**
+- Attachment to pleasant experiences
+- Aversion to unpleasant experiences
+- Desire for objects and relationships
+- Fear of loss and death
+
+**4. Karma:**
+- Actions performed with ego
+- Creation of good and bad karma
+- Binding to the cycle of birth and death
+- Perpetuation of the illusion
+
+**Transcending Maya:**
+
+**1. Through Knowledge (Jnana):**
+- Understanding the true nature of reality
+- Discrimination between the real and unreal
+- Knowledge of the Self as the only reality
+- Realization of the unity of existence
+
+**2. Through Devotion (Bhakti):**
+- Surrendering to the Divine
+- Love and devotion to God
+- Recognition of the Divine in all beings
+- Complete surrender of the ego
+
+**3. Through Action (Karma):**
+- Selfless action without ego
+- Offering all actions to the Divine
+- Performing duties as service to God
+- Detachment from the fruits of action
+
+**4. Through Meditation (Dhyana):**
+- Direct experience of the Self
+- Withdrawal of the senses from external objects
+- Concentration on the Divine
+- Union with the Supreme Being
+
+**Practical Application:**
+- Don't take the world too seriously
+- Recognize the temporary nature of all experiences
+- Focus on the eternal rather than the temporal
+- See the Divine in all beings and situations
+- Practice detachment while remaining engaged
+- Use the world as a means to transcend it
+
+### User
+What are the key teachings about Karma in the Gita?
+
+### Assistant
+The Bhagavad Gita provides comprehensive teachings about Karma (action and its consequences), which is central to Hindu philosophy and spiritual practice.
+
+**Definition of Karma:**
+- **Action:** Any physical, mental, or verbal activity
+- **Law of Cause and Effect:** Every action produces a corresponding result
+- **Moral Law:** Actions have ethical consequences
+- **Binding Force:** Actions create tendencies that bind the soul
+
+**Types of Karma:**
+
+**1. Sanchita Karma (Accumulated Karma):**
+- All actions performed in past lives
+- Stored in the subtle body
+- Determines the conditions of birth
+- Creates the framework for current life
+
+**2. Prarabdha Karma (Fruitful Karma):**
+- The portion of Sanchita Karma that is currently active
+- Determines present circumstances
+- Cannot be avoided or changed
+- Must be experienced in this life
+
+**3. Kriyamana Karma (Current Karma):**
+- Actions performed in the present life
+- Can be modified or changed
+- Creates future consequences
+- Determines future births
+
+**4. Agami Karma (Future Karma):**
+- Actions that will produce results in the future
+- Created by current actions
+- Determines future circumstances
+- Can be influenced by present choices
+
+**The Law of Karma:**
+
+**1. Every Action Has a Consequence:**
+- "As you sow, so shall you reap"
+- Good actions produce good results
+- Bad actions produce bad results
+- Neutral actions produce neutral results
+
+**2. Karma is Inevitable:**
+- "No one can escape the consequences of their actions"
+- Karma must be experienced
+- It cannot be avoided or transferred
+- It follows the soul through lifetimes
+
+**3. Karma is Personal:**
+- Each individual creates their own karma
+- No one can experience another's karma
+- Each person is responsible for their actions
+- Karma is individual and specific
+
+**4. Karma is Cumulative:**
+- Actions accumulate over time
+- Similar actions create stronger tendencies
+- Patterns of behavior become ingrained
+- Karma creates habits and character
+
+**Karma Yoga - The Path of Selfless Action:**
+
+**1. Perform Duty Without Attachment:**
+- "Your right is to work only, but never to the fruits thereof"
+- Focus on the action, not the result
+- Perform duties as service to God
+- Maintain equanimity in success and failure
+
+**2. Offer Actions to the Divine:**
+- "Whatever you do, do it as an offering to me"
+- Surrender all actions to God
+- Perform duties as worship
+- See God in all activities
+
+**3. Act Without Ego:**
+- "The wise man acts without attachment"
+- Don't identify with the action
+- Recognize the Self as the true doer
+- Act from the level of consciousness
+
+**4. Maintain Detachment:**
+- "He who is free from attachment is liberated"
+- Don't be attached to the fruits of action
+- Accept whatever comes as God's will
+- Remain centered in the Self
+
+**Transcending Karma:**
+
+**1. Through Knowledge (Jnana):**
+- Understanding the true nature of the Self
+- Realizing that the Self is not the doer
+- Discrimination between the real and unreal
+- Knowledge burns away karma
+
+**2. Through Devotion (Bhakti):**
+- Surrendering to the Divine
+- Love and devotion to God
+- Complete surrender of the ego
+- Devotion purifies karma
+
+**3. Through Selfless Action (Karma Yoga):**
+- Performing duties without ego
+- Offering all actions to God
+- Acting as an instrument of the Divine
+- Selfless action burns karma
+
+**4. Through Meditation (Dhyana):**
+- Direct experience of the Self
+- Withdrawal from external activities
+- Union with the Divine
+- Meditation transcends karma
+
+**Practical Application:**
+
+**1. Perform Your Duty:**
+- Do what is right according to your nature
+- Fulfill your responsibilities
+- Serve others selflessly
+- Maintain ethical standards
+
+**2. Don't Be Attached to Results:**
+- Focus on the action, not the outcome
+- Accept whatever comes as God's will
+- Maintain equanimity in all situations
+- Don't be affected by success or failure
+
+**3. Offer Everything to God:**
+- See God in all activities
+- Perform duties as worship
+- Surrender all actions to the Divine
+- Live with the awareness of God's presence
+
+**4. Act Without Ego:**
+- Don't identify with the action
+- Recognize the Self as the true doer
+- Act from the level of consciousness
+- Remain centered in the Self
+
+**5. Practice Detachment:**
+- Don't be attached to objects or experiences
+- Accept the temporary nature of all things
+- Focus on the eternal rather than the temporal
+- Use the world as a means to transcend it

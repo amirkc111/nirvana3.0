@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  panchang-api:
+    # No 'build' context - uses pre-built image from Docker Hub
+    image: imbibetech/nirvana-backend:latest
+    container_name: nirvana-panchang-api
+    ports:
+      - "3003:5002"
+    restart: always
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:5002/api/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  frontend:
+    # No 'build' context - uses pre-built image from Docker Hub
+    image: imbibetech/nirvana-frontend:latest
+    container_name: nirvana-frontend
+    ports:
+      - "3002:3002"
+    environment:
+      - PANCHANG_API_URL=http://panchang-api:5002
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - PORT=3002
+      - NEXT_PUBLIC_PANCHANG_API_PORT=3003
+      - NEXT_PUBLIC_SUPABASE_URL=https://fkckiknrclhadiosowwp.supabase.co
+      - NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZrY2tpa25yY2xoYWRpb3Nvd3dwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjY1MTQyMzQsImV4cCI6MjA4MjA5MDIzNH0.UjcSZsaOBKFwHcLdKgthv0oOIUVPnRNkH0brjOO1sU0
+      - SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZrY2tpa25yY2xoYWRpb3Nvd3dwIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2NjUxNDIzNCwiZXhwIjoyMDgyMDkwMjM0fQ.TuxWt-Fh7uo3WKyYpnuMzc0PUyiJjVRuj2cRe0s8DbI
+      - GROQ_API_KEY=gsk_3X... # PLACEHOLDER - REPLACE WITH REAL KEY
+    depends_on:
+      - panchang-api
+      - ollama
+    restart: always
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: nirvana-ai
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    # Auto-Pulls models on startup (Llama 3.2 is 3x faster than 3.1)
+    entrypoint: [ "/bin/sh", "-c", "/bin/ollama serve & sleep 10 && /bin/ollama pull llama3.2:latest && /bin/ollama pull llava:latest && wait" ]
+    restart: always
+
+volumes:
+  ollama_data:

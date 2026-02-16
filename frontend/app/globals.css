@@ -1,0 +1,301 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+    --font-geist-sans: "Geist Sans", "Helvetica Neue", Arial, sans-serif;
+    --font-geist-mono: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+@layer base {
+    @property --tw-translate-x {
+        syntax: "*";
+        inherits: false;
+        initial-value: 0;
+    }
+
+    @property --tw-translate-y {
+        syntax: "*";
+        inherits: false;
+        initial-value: 0;
+    }
+
+    @property --tw-translate-z {
+        syntax: "*";
+        inherits: false;
+        initial-value: 0;
+    }
+
+    @property --tw-scale-x {
+        syntax: "*";
+        inherits: false;
+        initial-value: 1;
+    }
+
+    @property --tw-scale-y {
+        syntax: "*";
+        inherits: false;
+        initial-value: 1;
+    }
+
+    @property --tw-scale-z {
+        syntax: "*";
+        inherits: false;
+        initial-value: 1;
+    }
+
+    @property --tw-rotate-x {
+        syntax: "*";
+        inherits: false;
+    }
+
+    @property --tw-rotate-y {
+        syntax: "*";
+        inherits: false;
+    }
+
+    @property --tw-rotate-z {
+        syntax: "*";
+        inherits: false;
+    }
+
+    @property --tw-skew-x {
+        syntax: "*";
+        inherits: false;
+    }
+
+    @property --tw-skew-y {
+        syntax: "*";
+        inherits: false;
+    }
+
+    :root {
+        --background: #0b0b12;
+        --foreground: #f3f3f6;
+        --brand: rgba(120, 119, 198, 0.3);
+        --brand-soft: rgba(120, 119, 198, 0.1);
+        --theme-primary: #9333ea, #db2777;
+        --theme-secondary: #db2777, #9333ea;
+        --color-white: #ffffff;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --background: #0b0b12;
+            --foreground: #f3f3f6;
+        }
+    }
+
+    body {
+        min-height: 100vh;
+        color: var(--foreground);
+        background-color: var(--background);
+        font-family: var(--font-geist-sans);
+    }
+
+    .cosmic-theme-wrapper {
+        min-height: 100vh;
+        /* Full Background Restoration: Gradients + Image */
+        background-image:
+            radial-gradient(1000px 600px at 70% 20%, var(--brand), transparent 60%),
+            radial-gradient(800px 500px at 20% 70%, var(--brand-soft), transparent 60%),
+            url('/bg1.jpg');
+
+        background-position: 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    html {
+        background: #0b0b12;
+    }
+
+    /* Aggressive Global Scrollbar Reset */
+    * {
+        scrollbar-width: none !important;
+        -ms-overflow-style: none !important;
+    }
+
+    ::-webkit-scrollbar {
+        width: 0 !important;
+        height: 0 !important;
+        display: none !important;
+        background: transparent !important;
+    }
+}
+
+@layer utilities {
+    .btn-brand {
+        height: calc(var(--spacing) * 11);
+        padding-inline: calc(var(--spacing) * 5);
+        font-size: var(--text-sm);
+        font-weight: 600;
+        color: var(--color-white);
+        background: linear-gradient(135deg, var(--theme-primary));
+        border-radius: 9999px;
+        align-items: center;
+        display: inline-flex;
+        transition: all 0.3s ease;
+    }
+
+    .btn-brand:hover {
+        background: linear-gradient(135deg, var(--theme-secondary));
+    }
+
+    .btn-brand-alt {
+        height: calc(var(--spacing) * 11);
+        padding-inline: calc(var(--spacing) * 5);
+        font-size: var(--text-sm);
+        font-weight: 600;
+        color: var(--color-white);
+        background: linear-gradient(135deg, var(--theme-secondary));
+        border-radius: 9999px;
+        align-items: center;
+        display: inline-flex;
+        transition: all 0.3s ease;
+    }
+
+    .btn-brand-alt:hover {
+        background: linear-gradient(135deg, var(--theme-primary));
+    }
+
+    .animate-fade-in {
+        animation: fadeIn 0.5s ease-in-out;
+    }
+
+    .animate-slide-up {
+        animation: slideUp 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .animate-scale-fade {
+        animation: scaleFade 0.8s ease-out forwards;
+    }
+
+    .animate-slideInUp {
+        animation: slideInUp 0.3s ease-out;
+    }
+
+    .animate-slideInRight {
+        animation: slideInRight 0.3s ease-out;
+    }
+}
+
+@keyframes slideInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(100%);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px) scale(0.9);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+@keyframes fadeInScale {
+    0% {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@keyframes slideInRight {
+    0% {
+        opacity: 0;
+        transform: translate(100%);
+    }
+
+    to {
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(1turn);
+    }
+}
+
+@keyframes pulse {
+    50% {
+        opacity: .5;
+    }
+}
+
+@keyframes bounce {
+
+    0%,
+    to {
+        transform: translateY(-25%);
+        animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+    }
+
+    50% {
+        transform: none;
+        animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    }
+}
+
+@utility scrollbar-hide {
+    &::-webkit-scrollbar {
+        display: none !important;
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    scrollbar-width: none !important;
+    -ms-overflow-style: none !important;
+}
+
+/* Specific enforcement for common overflow classes */
+.overflow-x-auto,
+.overflow-y-auto,
+.overflow-auto {
+    scrollbar-width: none !important;
+    -ms-overflow-style: none !important;
+}
+
+.overflow-x-auto::-webkit-scrollbar,
+.overflow-y-auto::-webkit-scrollbar,
+.overflow-auto::-webkit-scrollbar {
+    display: none !important;
+}
+
+@media (max-width: 768px) {
+    .force-mobile-scroll {
+        height: 300px !important;
+        max-height: 300px !important;
+        overflow-y: auto !important;
+        display: block !important;
+    }
+}
