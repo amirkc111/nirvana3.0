@@ -1,0 +1,87 @@
+{
+    "libraryName": "Veducation Sanatan Shastra Library",
+    "url": "https://www.veducation.world/library",
+    "description": "Comprehensive library of 1000+ Sanatan Shastras (Vedas, Puranas, Upanishads, Jyotish, etc.)",
+    "categories": [
+        {
+            "name": "Jyotish (Astrology)",
+            "path": "/library/Vedic-Studies-अन्य-वेदांग/astrology",
+            "books": [
+                {
+                    "title": "सचित्र ज्योतिष (Sachitra Jyotish)",
+                    "author": "Kunjilal Dube",
+                    "language": "Hindi"
+                },
+                {
+                    "title": "बृहद पाराशर होरा शास्त्र (Brihad Parashara Hora Shastra)",
+                    "author": "Savitri Thakur",
+                    "language": "Hindi/Sanskrit"
+                },
+                {
+                    "title": "ज्योतिष संहिता (Jyotish Samhita)",
+                    "author": "Swami Bhaskaranand",
+                    "language": "Hindi"
+                },
+                {
+                    "title": "अंक विद्या (Ank Vidya)",
+                    "language": "Hindi"
+                },
+                {
+                    "title": "Kalchakra Dasha",
+                    "author": "Narasimha Rao",
+                    "language": "English"
+                },
+                {
+                    "title": "Prashna Jyotish",
+                    "language": "English"
+                },
+                {
+                    "title": "Yantra",
+                    "author": "Marcus Schmieke",
+                    "language": "English"
+                },
+                {
+                    "title": "Simplified Scientific Astrology",
+                    "language": "English"
+                },
+                {
+                    "title": "Heliocentric Astrology",
+                    "language": "English"
+                }
+            ]
+        },
+        {
+            "name": "Purāṇa",
+            "books": [
+                "Shiva Purana",
+                "Skanda Purana",
+                "Markandeya Purana",
+                "Padma Purana"
+            ]
+        },
+        {
+            "name": "Upaniṣad",
+            "books": [
+                "Isho",
+                "Kena",
+                "Katha",
+                "Mundaka",
+                "Mandukya",
+                "Aitareya",
+                "Taittiriya",
+                "Chhandogya",
+                "Brihadaranyaka"
+            ]
+        },
+        {
+            "name": "Veda",
+            "books": [
+                "Rigveda",
+                "Yajurveda",
+                "Samaveda",
+                "Atharvaveda"
+            ]
+        }
+    ],
+    "usageNotes": "Content is image-based. Use links to refer users to authentic scans. For text-search, rely on GRETIL or SanskritDocuments.org metadata."
+}
