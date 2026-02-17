@@ -49,6 +49,10 @@ next-env.d.ts
 
 # Legacy code
 /legacy/
+/shankar kundali file/
+/kundali_users/
+/backups/
+/tts-env/
 
 # Python cache
 __pycache__/
@@ -56,3 +60,8 @@ __pycache__/
 *.pyo
 *.pyd
 .Python
+
+# Nested node_modules
+**/node_modules/
+**/dist/
+**/.next/
