@@ -22,7 +22,7 @@ jobs:
           password: ${{ secrets.DOCKER_HUB_TOKEN }}
 
       - name: Build and push Frontend
-        uses: docker/build-push-action@v4
+        uses: docker/build-push-action@v6
         with:
           context: ./frontend
           push: true
@@ -35,7 +35,7 @@ jobs:
           cache-to: type=gha,mode=max
 
       - name: Build and push Panchang API (Backend)
-        uses: docker/build-push-action@v4
+        uses: docker/build-push-action@v6
         with:
           context: ./backend
           push: true
