@@ -1,0 +1,11 @@
+Interpret this Kundali JSON. Produce a blended output (classical terms + simple explanation).
+Output structure:
+1) One-line summary (Nepali + English)
+2) Lagna analysis (3-4 bullets)
+3) Planetary highlights (short bullets)
+4) House-wise quick notes (1 line per house)
+5) Key Yogas / combinations (if any)
+6) Suggested remedies (short, safe)
+7) Suggested next steps (e.g., request D9, dashas, or transits)
+
+Data (below) — do not alter input positions, use them as authoritative:

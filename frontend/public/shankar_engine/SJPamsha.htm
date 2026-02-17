@@ -1,0 +1,247 @@
+<HTML>
+
+<HEAD>
+	<TITLE></TITLE>
+	<script src=jyotish.js id=loadjyotishscript>
+	</script>
+	<script src=sjp.js></script>
+	<script language=javascript>
+		//------------Globals and Functions---------------------------------
+		onerror = handleErr;
+		var DEBUG = true;
+		var chart = [
+			{ 'text': 'Asc/Lagna   ', 'long': 0.000001, 'retro': " - ", 'speed': 0, 'id': 0, 'bhava': 0, 'tx': 'Lg' },
+			{ 'text': 'Sun/Surya   ', 'long': 0.000001, 'retro': "", 'speed': 0, 'id': 1, 'bhava': 0, 'tx': 'Su' },
+			{ 'text': 'Moon/Chandra', 'long': 0.000001, 'retro': "", 'speed': 0, 'id': 2, 'bhava': 0, 'tx': 'Mo' },
+			{ 'text': 'Mars/Mangal ', 'long': 0.000001, 'retro': "", 'speed': 0, 'id': 3, 'bhava': 0, 'tx': 'Ma' },
+			{ 'text': 'Merc/Buddha ', 'long': 0.000001, 'retro': "", 'speed': 0, 'id': 4, 'bhava': 0, 'tx': 'Me' },
+			{ 'text': 'Jupiter/Guru', 'long': 0.000001, 'retro': "", 'speed': 0, 'id': 5, 'bhava': 0, 'tx': 'Ju' },
+			{ 'text': 'Venus/Shukra', 'long': 0.000001, 'retro': "", 'speed': 0, 'id': 6, 'bhava': 0, 'tx': 'Ve' },
+			{ 'text': 'Saturn/Shani', 'long': 0.000001, 'retro': "", 'speed': 0, 'id': 7, 'bhava': 0, 'tx': 'Sa' },
+			{ 'text': 'Rahu        ', 'long': 0.000001, 'retro': "", 'speed': 0, 'id': 8, 'bhava': 0, 'tx': 'Ra' },
+			{ 'text': 'Ketu        ', 'long': 0.000001, 'retro': "", 'speed': 0, 'id': 9, 'bhava': 0, 'tx': 'Ke' }
+		];
+		var aDivisionals;
+		var params;
+		function handleErr(msg, url, l) {
+			txt = "There was an error on this page.\n\n";
+			txt += "Error: " + msg + "\n";
+			txt += "URL: " + url + "\n";
+			txt += "Line: " + l + "\n\n";
+			txt += "Click OK to continue.\n\n";
+			alert(txt);
+			return true;
+		}
+		function debug() {
+			if (!DEBUG) return;
+			k = "";
+			for (i = 0; i < arguments.length; ++i)k += "--\n" + arguments[i];
+			alert(k);
+			return
+		}
+		//-----------------------------------------------------------
+	</script>
+</HEAD>
+
+<BODY id=contents>
+	<div id=charts></div>
+	<div id=form>
+		<form id=forminput method=get>
+			<table id=formtable cellspacing=0 cellpadding=0 border=0>
+				<tr>
+					<td><b>Division</b></td>
+					<td><select id=Division name=Division>
+							<option selected>Rashi</option>
+							<option>Navamsa</option>
+							<option>Dreshkana</option>
+							<option>D3-Somanatha</option>
+							<option>D3-Jagannatha</option>
+							<option>Chaturtamsa</option>
+							<option>Saptamsa</option>
+							<option>Dasamsa</option>
+							<option>Dwadasamsa</option>
+							<option>Shodashamsa</option>
+							<option>Vimsamsa</option>
+							<option>ChaturVimshamsha</option>
+							<option>Bhamsa-Nakshatramsa</option>
+							<option>Trimshamsha</option>
+							<option>KhaVedamsa</option>
+							<option>AkshaVedamsa</option>
+							<option>Shastiamsha</option>
+							<option>Dasamsa-EvenReverse</option>
+							<option>ChaturVimshamsha-EvenReverse</option>
+						</select></td>
+				</tr>
+				<tr>
+					<td colspan=2 align=center><input type=button id=AddChart name=AddChart value=AddChart
+							onclick=Refresh()></td>
+				</tr>
+				<tr>
+					<td><br /> </td>
+				</tr>
+				<tr>
+					<td>Lagna</td>
+					<td><input id=Lagna name="Lagna" type=text value=138.01></td>
+				</tr>
+				<tr>
+					<td>Sun</td>
+					<td><input id=Sun name="Sun" type=text value=92.38></td>
+				</tr>
+				<tr>
+					<td>Moon</td>
+					<td><input id=Moon name="Moon" type=text value=53></td>
+				</tr>
+				<tr>
+					<td>Mars</td>
+					<td><input id=Mars name="Mars" type=text value=298.1></td>
+				</tr>
+				<tr>
+					<td>Merc</td>
+					<td><input id=Merc name="Merc" type=text value=117.1></td>
+				</tr>
+				<tr>
+					<td>Jup</td>
+					<td><input id=Jup name="Jup" type=text value=213.18></td>
+				</tr>
+				<tr>
+					<td>Ven</td>
+					<td><input id=Ven name="Ven" type=text value=81.51></td>
+				</tr>
+				<tr>
+					<td>Sat</td>
+					<td><input id=Sat name="Sat" type=text value=39.86></td>
+				</tr>
+				<tr>
+					<td>Rahu</td>
+					<td><input id=Rahu name="Rahu" type=text value=291.95></td>
+				</tr>
+				<tr>
+					<td>Ketu</td>
+					<td><input id=Ketu name="Ketu" type=text value=111.95></td>
+				</tr>
+
+				<tr>
+					<td colspan=2 align=center><input type="submit" id=Submit name="submit" value=Re-Calculate></td>
+				</tr>
+			</table>
+		</form>
+	</div>
+	<style>
+		body {
+			background-color: transparent;
+			color: #eee;
+			font-family: sans-serif;
+			margin: 0;
+			padding: 10px;
+		}
+
+		table {
+			border-color: rgba(255, 255, 255, 0.2) !important;
+			width: 100%;
+		}
+
+		td {
+			color: #eee;
+			border-color: rgba(255, 255, 255, 0.2) !important;
+		}
+
+		#charts {
+			display: flex;
+			justify-content: center;
+		}
+
+		#form {
+			display: none;
+		}
+	</style>
+	<script>
+		//Begin Init Block-----------------------------------------------------------
+		window.onload = function () {
+			try {
+				var submit = LoadURLParams();
+				if (params['Lagna']) submit = true; // Force submit if data present
+				window.status = "Set values.";
+				if (submit == true) {
+					// Slight delay to ensure DOM is fully ready for innerHTML ops
+					setTimeout(renderChart, 100);
+				}
+			} catch (e) {
+				console.error("Initialization error:", e);
+				document.getElementById("charts").innerHTML = "Error loading chart: " + e.message;
+			}
+		};
+
+		//End init block-----------------------------------------------------------
+		//-------------------------Functions-------------------------
+		function renderChart() {
+			try {
+				if (!getChart) {
+					console.error("getChart function missing");
+					return;
+				}
+				console.log("Rendering Chart with Params:", params);
+				chart[0].long = parseFloat(params['Lagna']) || 0;
+				chart[1].long = parseFloat(params['Sun']) || 0;
+				chart[2].long = parseFloat(params['Moon']) || 0;
+				chart[3].long = parseFloat(params['Mars']) || 0;
+				chart[4].long = parseFloat(params['Merc']) || 0;
+				chart[5].long = parseFloat(params['Jup']) || 0;
+				chart[6].long = parseFloat(params['Ven']) || 0;
+				chart[7].long = parseFloat(params['Sat']) || 0;
+				chart[8].long = parseFloat(params['Rahu']) || 0;
+				chart[9].long = parseFloat(params['Ketu']) || 0;
+				console.log("Populated Chart Data:", JSON.parse(JSON.stringify(chart)));
+
+				var editlink = '<a href=' + window.location.href.replace("&submit=Calculate", "") + ' style="display:none"><strong>Change the Data</strong></a>';
+				var chartHTML = getChart(chart, params['Division'] || 'Rashi', params['Division'] || 'Rashi', 5, false);
+
+				var chartContainer = document.getElementById("charts");
+				if (chartContainer) {
+					chartContainer.innerHTML = '<div id=charts>' + editlink + chartHTML + '</div>';
+				}
+			} catch (e) {
+				console.error("Calculation error:", e);
+				document.getElementById("charts").innerHTML = "Error calculating chart: " + e.message;
+			}
+		}
+		/////////////////
+		function Refresh() {
+			if (document.getElementById("Division").selectedIndex > -1) {
+				params['Division'] = document.getElementById("Division").options[document.getElementById("Division").selectedIndex].text;
+			}
+			renderChart();
+		}
+		/////////////////
+		function LoadURLParams() {
+			var submit = false;
+			params = []; // Reset params
+			var qs = window.location.href.split("?")[1];
+			if (qs) {
+				var pairs = qs.split("&");
+				for (var i = 0; i < pairs.length; i++) {
+					var p = pairs[i].split("=");
+					if (p.length > 1) {
+						var key = p[0];
+						var val = decodeURIComponent(p[1].replace(/\+/g, " "));
+						params[key] = val;
+
+						// Populate form fields if they exist
+						if (document.getElementById(key)) {
+							document.getElementById(key).value = val;
+						}
+
+						if (key == "submit" && val == "Calculate") {
+							submit = true;
+							if (document.getElementById('form')) document.getElementById('form').style.display = 'none';
+						}
+					}
+				}
+			}
+			return submit;
+		}
+
+	</script>
+
+</BODY>
+
+</HTML>

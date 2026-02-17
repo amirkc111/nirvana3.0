@@ -1,0 +1,6507 @@
+[
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "१",
+            "en": "1"
+          },
+          "full": {
+            "np": "२०७२-४-१",
+            "en": "2072-4-1"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "१७",
+            "en": "17"
+          },
+          "full": {
+            "np": "२०१५-७-१७",
+            "en": "2015-7-17"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "प्रतिपदा",
+        "en": null
+      },
+      "code": {
+        "np": "१",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कर्कट",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "तिष्य",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116880
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "कण्डकारक पूजा",
+          "en": "Kandakarak Puja"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 117139
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "लुते फाल्ने दिन",
+          "en": "Luto Falne"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 117141
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "दक्षिणायानारम्भ",
+          "en": "Dakshinaya Start"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 117142
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "साउने संक्रान्ति",
+          "en": "Shrawane Sankranti"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "२",
+            "en": "2"
+          },
+          "full": {
+            "np": "२०७२-४-२",
+            "en": "2072-4-2"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "१८",
+            "en": "18"
+          },
+          "full": {
+            "np": "२०१५-७-१८",
+            "en": "2015-7-18"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वितीया",
+        "en": null
+      },
+      "code": {
+        "np": "२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१८:२०",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अश्लेषा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116819
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "कमैया मुक्ति दिवस",
+          "en": "Kamaiya Mukti Diwas"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 117127
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "जगन्नाथ रथयात्रा",
+          "en": "Jagannath Rath Jaatraa"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "३",
+            "en": "3"
+          },
+          "full": {
+            "np": "२०७२-४-३",
+            "en": "2072-4-3"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "१९",
+            "en": "19"
+          },
+          "full": {
+            "np": "२०१५-७-१९",
+            "en": "2015-7-19"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "तृतीया",
+        "en": null
+      },
+      "code": {
+        "np": "३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मघा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "४",
+            "en": "4"
+          },
+          "full": {
+            "np": "२०७२-४-४",
+            "en": "2072-4-4"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "२०",
+            "en": "20"
+          },
+          "full": {
+            "np": "२०१५-७-२०",
+            "en": "2015-7-20"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्थी",
+        "en": null
+      },
+      "code": {
+        "np": "४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वफाल्गुनी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "५",
+            "en": "5"
+          },
+          "full": {
+            "np": "२०७२-४-५",
+            "en": "2072-4-5"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "२१",
+            "en": "21"
+          },
+          "full": {
+            "np": "२०१५-७-२१",
+            "en": "2015-7-21"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पञ्चमी",
+        "en": null
+      },
+      "code": {
+        "np": "५",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "०५:४२",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तरफाल्गुनी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "६",
+            "en": "6"
+          },
+          "full": {
+            "np": "२०७२-४-६",
+            "en": "2072-4-6"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "२२",
+            "en": "22"
+          },
+          "full": {
+            "np": "२०१५-७-२२",
+            "en": "2015-7-22"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "षष्ठी",
+        "en": null
+      },
+      "code": {
+        "np": "६",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कन्या",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "हस्त",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116808
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "बीपी स्मृति दिवस",
+          "en": "BP Smriti Diwas"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "७",
+            "en": "7"
+          },
+          "full": {
+            "np": "२०७२-४-७",
+            "en": "2072-4-7"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "२३",
+            "en": "23"
+          },
+          "full": {
+            "np": "२०१५-७-२३",
+            "en": "2015-7-23"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "सप्तमी",
+        "en": null
+      },
+      "code": {
+        "np": "७",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१७:२७",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "चित्रा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116855
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "सूर्य पूजा",
+          "en": "Surya Puja"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116949
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "देवपाटनमा गंगामाई रथयात्रा",
+          "en": "Devpatanma Gangamai Rathyatra"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "८",
+            "en": "8"
+          },
+          "full": {
+            "np": "२०७२-४-८",
+            "en": "2072-4-8"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "२४",
+            "en": "24"
+          },
+          "full": {
+            "np": "२०१५-७-२४",
+            "en": "2015-7-24"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "अष्टमी",
+        "en": null
+      },
+      "code": {
+        "np": "८",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "तुला",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "चित्रा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "९",
+            "en": "9"
+          },
+          "full": {
+            "np": "२०७२-४-९",
+            "en": "2072-4-9"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "२५",
+            "en": "25"
+          },
+          "full": {
+            "np": "२०१५-७-२५",
+            "en": "2015-7-25"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "नवमी",
+        "en": null
+      },
+      "code": {
+        "np": "९",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२७:५०",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "स्वाती",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "१०",
+            "en": "10"
+          },
+          "full": {
+            "np": "२०७२-४-१०",
+            "en": "2072-4-10"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "२६",
+            "en": "26"
+          },
+          "full": {
+            "np": "२०१५-७-२६",
+            "en": "2015-7-26"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "दशमी",
+        "en": null
+      },
+      "code": {
+        "np": "१०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृश्चिक",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "विशाखा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "११",
+            "en": "11"
+          },
+          "full": {
+            "np": "२०७२-४-११",
+            "en": "2072-4-11"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "२७",
+            "en": "27"
+          },
+          "full": {
+            "np": "२०१५-७-२७",
+            "en": "2015-7-27"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "एकादशी",
+        "en": null
+      },
+      "code": {
+        "np": "११",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृश्चिक",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अनुराधा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116948
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "तुलसी रोपण",
+          "en": "Tulsi Ropan"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116952
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "चतुर्मास व्रतारम्भ",
+          "en": "Chaturmas Brat Starts"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 117126
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "हरिशयनी एकादशी",
+          "en": "Harisayani Ekadashi Brat"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "१२",
+            "en": "12"
+          },
+          "full": {
+            "np": "२०७२-४-१२",
+            "en": "2072-4-12"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "२८",
+            "en": "28"
+          },
+          "full": {
+            "np": "२०१५-७-२८",
+            "en": "2015-7-28"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वादशी",
+        "en": null
+      },
+      "code": {
+        "np": "१२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "११:५४",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "ज्येष्ठा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116945
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "तुलसीपिए",
+          "en": "Tulasipiye"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "१३",
+            "en": "13"
+          },
+          "full": {
+            "np": "२०७२-४-१३",
+            "en": "2072-4-13"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "२९",
+            "en": "29"
+          },
+          "full": {
+            "np": "२०१५-७-२९",
+            "en": "2015-7-29"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "त्रयोदशी",
+        "en": null
+      },
+      "code": {
+        "np": "१३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "धनु",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मूल",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "१४",
+            "en": "14"
+          },
+          "full": {
+            "np": "२०७२-४-१४",
+            "en": "2072-4-14"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "३०",
+            "en": "30"
+          },
+          "full": {
+            "np": "२०१५-७-३०",
+            "en": "2015-7-30"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्दशी",
+        "en": null
+      },
+      "code": {
+        "np": "१४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१७:३२",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वाषाढा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "१५",
+            "en": "15"
+          },
+          "full": {
+            "np": "२०७२-४-१५",
+            "en": "2072-4-15"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "जुलाई",
+            "code": {
+              "np": "७",
+              "en": "7"
+            },
+            "en": "July"
+          },
+          "day": {
+            "np": "३१",
+            "en": "31"
+          },
+          "full": {
+            "np": "२०१५-७-३१",
+            "en": "2015-7-31"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पूर्णिमा",
+        "en": null
+      },
+      "code": {
+        "np": "१५",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "शुद्ध आषाढ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मकर",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तराषाढा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116890
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गुरु व्यास पूजा",
+          "en": "Guru(Vyas) Puja"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116951
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "दिला पुन्हि",
+          "en": "Dilla:Punhi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116981
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गुरु पुर्णिमा",
+          "en": "Guru Purnima"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 117125
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "पुर्णिमा व्रत",
+          "en": "Purnima Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 117138
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "खिर खाने दिन",
+          "en": "Kheer eating day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 6034,
+        "category": {
+          "name": "others",
+          "id": 461005
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "पुर्णिमा व्रत",
+          "en": "Purnima Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "१६",
+            "en": "16"
+          },
+          "full": {
+            "np": "२०७२-४-१६",
+            "en": "2072-4-16"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "१",
+            "en": "1"
+          },
+          "full": {
+            "np": "२०१५-८-१",
+            "en": "2015-8-1"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "प्रतिपदा",
+        "en": null
+      },
+      "code": {
+        "np": "१",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२१:१४",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "श्रवण",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "१७",
+            "en": "17"
+          },
+          "full": {
+            "np": "२०७२-४-१७",
+            "en": "2072-4-17"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "२",
+            "en": "2"
+          },
+          "full": {
+            "np": "२०१५-८-२",
+            "en": "2015-8-2"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वितीया",
+        "en": null
+      },
+      "code": {
+        "np": "२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कुम्भ",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "धनिष्ठा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "१८",
+            "en": "18"
+          },
+          "full": {
+            "np": "२०७२-४-१८",
+            "en": "2072-4-18"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "३",
+            "en": "3"
+          },
+          "full": {
+            "np": "२०१५-८-३",
+            "en": "2015-8-3"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "तृतीया",
+        "en": null
+      },
+      "code": {
+        "np": "३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२३:४७",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "शतभिषा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "१९",
+            "en": "19"
+          },
+          "full": {
+            "np": "२०७२-४-१९",
+            "en": "2072-4-19"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "४",
+            "en": "4"
+          },
+          "full": {
+            "np": "२०१५-८-४",
+            "en": "2015-8-4"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्थी",
+        "en": null
+      },
+      "code": {
+        "np": "४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मीन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तरभाद्र",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 212934
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "मंगल-चतुर्थी व्रत",
+          "en": "Mangal Chauthi Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "२०",
+            "en": "20"
+          },
+          "full": {
+            "np": "२०७२-४-२०",
+            "en": "2072-4-20"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "५",
+            "en": "5"
+          },
+          "full": {
+            "np": "२०१५-८-५",
+            "en": "2015-8-5"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "षष्ठी",
+        "en": null
+      },
+      "code": {
+        "np": "६",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२६:०४",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "रेवती",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "२१",
+            "en": "21"
+          },
+          "full": {
+            "np": "२०७२-४-२१",
+            "en": "2072-4-21"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "६",
+            "en": "6"
+          },
+          "full": {
+            "np": "२०१५-८-६",
+            "en": "2015-8-6"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "सप्तमी",
+        "en": null
+      },
+      "code": {
+        "np": "७",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मेष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अश्विनी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "२२",
+            "en": "22"
+          },
+          "full": {
+            "np": "२०७२-४-२२",
+            "en": "2072-4-22"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "७",
+            "en": "7"
+          },
+          "full": {
+            "np": "२०१५-८-७",
+            "en": "2015-8-7"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "अष्टमी",
+        "en": null
+      },
+      "code": {
+        "np": "८",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२९:०४",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "भरणी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "२३",
+            "en": "23"
+          },
+          "full": {
+            "np": "२०७२-४-२३",
+            "en": "2072-4-23"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "८",
+            "en": "8"
+          },
+          "full": {
+            "np": "२०१५-८-८",
+            "en": "2015-8-8"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "नवमी",
+        "en": null
+      },
+      "code": {
+        "np": "९",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "कृत्तिका",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "२४",
+            "en": "24"
+          },
+          "full": {
+            "np": "२०७२-४-२४",
+            "en": "2072-4-24"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "९",
+            "en": "9"
+          },
+          "full": {
+            "np": "२०१५-८-९",
+            "en": "2015-8-9"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "दशमी",
+        "en": null
+      },
+      "code": {
+        "np": "१०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "रोहिणी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116502
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विश्व आदिवासी दिवस",
+          "en": "International Day of the World's Indigenous People"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "२५",
+            "en": "25"
+          },
+          "full": {
+            "np": "२०७२-४-२५",
+            "en": "2072-4-25"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "१०",
+            "en": "10"
+          },
+          "full": {
+            "np": "२०१५-८-१०",
+            "en": "2015-8-10"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "एकादशी",
+        "en": null
+      },
+      "code": {
+        "np": "११",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "०९:३७",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मृगशिरा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 117124
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "कामिका एकादशी व्रत",
+          "en": "Kamika Ekadashi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "२६",
+            "en": "26"
+          },
+          "full": {
+            "np": "२०७२-४-२६",
+            "en": "2072-4-26"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "११",
+            "en": "11"
+          },
+          "full": {
+            "np": "२०१५-८-११",
+            "en": "2015-8-11"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वादशी",
+        "en": null
+      },
+      "code": {
+        "np": "१२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मिथुन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "आर्द्रा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "२७",
+            "en": "27"
+          },
+          "full": {
+            "np": "२०७२-४-२७",
+            "en": "2072-4-27"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "१२",
+            "en": "12"
+          },
+          "full": {
+            "np": "२०१५-८-१२",
+            "en": "2015-8-12"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "त्रयोदशी",
+        "en": null
+      },
+      "code": {
+        "np": "१३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१६:२४",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पुनर्वसु",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116500
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "अन्तर्राष्ट्रि्य युवा दिवस",
+          "en": "International Youth Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "२८",
+            "en": "28"
+          },
+          "full": {
+            "np": "२०७२-४-२८",
+            "en": "2072-4-28"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "१३",
+            "en": "13"
+          },
+          "full": {
+            "np": "२०१५-८-१३",
+            "en": "2015-8-13"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्दशी",
+        "en": null
+      },
+      "code": {
+        "np": "१४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कर्कट",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "तिष्य",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 116900
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "घण्टा कर्ण",
+          "en": "Ghanta Karna Chaturdashi (Gathemangal)"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 117123
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गठ मुग:",
+          "en": "Gathamuga Chha:rhe Puja"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "२९",
+            "en": "29"
+          },
+          "full": {
+            "np": "२०७२-४-२९",
+            "en": "2072-4-29"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "१४",
+            "en": "14"
+          },
+          "full": {
+            "np": "२०१५-८-१४",
+            "en": "2015-8-14"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "औँशी",
+        "en": null
+      },
+      "code": {
+        "np": "३०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२५:३९",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अश्लेषा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "३०",
+            "en": "30"
+          },
+          "full": {
+            "np": "२०७२-४-३०",
+            "en": "2072-4-30"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "१५",
+            "en": "15"
+          },
+          "full": {
+            "np": "२०१५-८-१५",
+            "en": "2015-8-15"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "प्रतिपदा",
+        "en": null
+      },
+      "code": {
+        "np": "१",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मघा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 117121
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गुँला पर्व आराम्भ",
+          "en": "Gunlla Parwa Suru"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "३१",
+            "en": "31"
+          },
+          "full": {
+            "np": "२०७२-४-३१",
+            "en": "2072-4-31"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "१६",
+            "en": "16"
+          },
+          "full": {
+            "np": "२०१५-८-१६",
+            "en": "2015-8-16"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वितीया",
+        "en": null
+      },
+      "code": {
+        "np": "२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वफाल्गुनी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७२",
+            "en": "2072"
+          },
+          "month": {
+            "np": "साउन",
+            "code": {
+              "np": "४",
+              "en": "4"
+            },
+            "en": "Shrawan"
+          },
+          "day": {
+            "np": "३२",
+            "en": "32"
+          },
+          "full": {
+            "np": "२०७२-४-३२",
+            "en": "2072-4-32"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०१५",
+            "en": "2015"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "१७",
+            "en": "17"
+          },
+          "full": {
+            "np": "२०१५-८-१७",
+            "en": "2015-8-17"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३७",
+          "en": "1937"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११३५",
+            "en": "1135"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "तृतीया",
+        "en": null
+      },
+      "code": {
+        "np": "३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "श्रावण शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१२:५३",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वफाल्गुनी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy"
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  }
+]

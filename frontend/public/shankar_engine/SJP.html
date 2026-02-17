@@ -1,0 +1,528 @@
+<HTML lang="en" manifest="sjp.appcache">
+  <HEAD>
+    <meta http-equiv="Cache-control" content="public">
+    <meta charset="UTF-8">
+    <title>Sri Jagannatha Panchanga</title>
+    <link rel="icon" type="image/x-icon" href="img/logo.png" />
+    <script src= "sjp.js"></script>
+    <script src= "jyotish.js"></script>
+    <script src= "kcd.js"></script>
+    <!--script type="text/javascript" src= "sjcformatter.js"></script-->
+    
+    <!---For Here Maps https://www.here.com/docs/bundle/maps-api-for-javascript-developer-guide/page/topics/quick-start.html-->
+    <script src="https://js.api.here.com/v3/3.1/mapsjs-core.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="https://js.api.here.com/v3/3.1/mapsjs-service.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" src="https://js.api.here.com/v3/3.1/mapsjs-ui.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" src="https://js.api.here.com/v3/3.1/mapsjs-mapevents.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" href="https://js.api.here.com/v3/3.1/mapsjs-ui.css" />
+    <meta name="viewport" content="initial-scale=1.0, width=device-width" /> 
+    <link rel="stylesheet" href="css/index.css" />
+    <style>
+      .astro-form-table {
+        border: 1px solid #222;
+        background: #181818;
+        color: #fff;
+        border-radius: 10px;
+        margin: 0 auto;
+        font-size: 1.05em;
+        box-shadow: 0 0 10px #0ff2, 0 0 40px #0ff4;
+      }
+      .astro-form-table td {
+        padding: 10px 8px;
+        vertical-align: middle;
+      }
+      .astro-form-table input[type="text"],
+      .astro-form-table input[type="number"],
+      .astro-form-table input[type="time"],
+      .astro-form-table select {
+        width: 120px;
+        padding: 4px 8px;
+        border-radius: 5px;
+        border: 1px solid #0ff;
+        background: #222;
+        color: #fff;
+        font-size: 1em;
+        margin-right: 8px;
+      }
+      .astro-form-table input[type="file"] {
+        color: #fff;
+        background: #222;
+        border: none;
+        font-size: 1em;
+      }
+      .astro-form-table input[type="submit"] {
+        background: #0ff;
+        color: #222;
+        border: none;
+        border-radius: 5px;
+        padding: 6px 18px;
+        font-weight: bold;
+        font-size: 1.1em;
+        cursor: pointer;
+        box-shadow: 0 0 8px #0ff8;
+      }
+      .astro-form-table label {
+        min-width: 110px;
+        display: inline-block;
+        font-weight: 500;
+      }
+      /* Add styles for saved charts container */
+      .saved-charts-container {
+        position: relative;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+      .saved-charts-container select {
+        flex-grow: 1;
+      }
+      .delete-chart-btn {
+        background: none;
+        border: none;
+        color: #ff3333;
+        cursor: pointer;
+        font-size: 1.2em;
+        padding: 4px 8px;
+        border-radius: 4px;
+        display: none;
+      }
+      .delete-chart-btn:hover {
+        background: rgba(255, 51, 51, 0.1);
+      }
+      .saved-charts-container:hover .delete-chart-btn {
+        display: inline-block;
+      }
+    </style>
+  </HEAD>
+  <BODY id=contents onload="javascript:init()" style="background-color:#ffcc33;">
+  <style scoped type="text/css">	body{background-color:#ffcc33;} input,select{background-color:#ffff99;}
+  </style>
+  <div class="astro-neon-form">
+    <div class="astro-title">
+      <span class="cosmos-emoji">🌌✨🪐</span>
+      Nirvana Astro - AI Jyotish
+      <span class="cosmos-emoji">🌙⭐️✨</span>
+    </div>
+    <form id="datetimeplace" onsubmit="return handleKundaliFormSubmit(event);">
+      <table class="astro-form-table" id="inputtable">
+        <tr>
+          <td><label for="chartname">First Name:</label></td>
+          <td><input id="chartname" name="chartname" type="text" size="20" onchange="UpdateChartName()" required></td>
+        </tr>
+        <tr>
+          <td><label for="loadSaved">Load Saved:</label></td>
+          <td>
+            <div class="saved-charts-container">
+              <select id="loadSaved" title="Select saved chart">
+                <option value="">-- Select saved chart --</option>
+              </select>
+              <button type="button" class="delete-chart-btn" id="deleteChartBtn" title="Delete selected chart">×</button>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td><label for="day">Day:</label></td>
+          <td><input id="day" name="day" type="number" min="1" max="31" style="width:60px" required></td>
+        </tr>
+        <tr>
+          <td><label for="month">Month:</label></td>
+          <td><input id="month" name="month" type="number" min="1" max="12" style="width:60px" required></td>
+        </tr>
+        <tr>
+          <td><label for="year">Year:</label></td>
+          <td><input id="year" name="year" type="number" style="width:80px" required></td>
+        </tr>
+        <tr>
+          <td><label for="btime">Time:</label></td>
+          <td><input id="btime" name="btime" type="time" step="1" style="width:100px" required></td>
+        
+       
+          <td><input id="timezone" hidden name="timezone" pattern="[-+]?\d+(\.\d+)?" type="text" size="6" value="5.45" required> <small style="color:#0ff8"></small></td>
+        </tr>
+        <tr>
+          <td><label for="placename">Place Name:</label></td>
+          <td>
+            <select id="placename" name="placename" required style="width:180px">
+              <option value="">-- Select a district --</option>
+              <!-- Options will be populated by JS -->
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td><label>Latitude:</label></td>
+          <td><input id="latitude" name="latitude" type="text" style="width:90px" required></td>
+        </tr>
+        <tr>
+          <td><label>Longitude:</label></td>
+          <td><input id="longitude" name="longitude" type="text" style="width:90px" required></td>
+        </tr>
+        <tr>
+          <td colspan="2" style="text-align:center; padding-top:18px;">
+            <input id="submit" name="submit" type="submit" value="Create Kundali">
+            <button type="button" id="saveJHD" style="margin-left:18px; background:#0ff; color:#222; border:none; border-radius:5px; padding:6px 18px; font-weight:bold; font-size:1.1em; cursor:pointer; box-shadow:0 0 8px #0ff8;">Save</button>
+          </td>
+        </tr>
+      </table>
+    </form>
+  </div>
+  <div id="chart-output"></div>
+
+  <script type='text/javascript' src='ephemeris/index.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/common.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/load.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/index.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/index.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/constant.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/julian.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/delta.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/epsilon.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/lonlat.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/gplan.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/precess.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/util.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/kepler.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/body.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/sun.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/aberration.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/altaz.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/constellation.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/deflection.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/diurnal.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/fk4fk5.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/light.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/moon.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/nutation.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/planet.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/refraction.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/siderial.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/star.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/transit.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/vearth.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/processor.js' charset='utf-8'></script>
+  
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/plan404/index.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/plan404/mercury.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/plan404/venus.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/plan404/earth.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/plan404/moonlr.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/plan404/moonlat.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/plan404/mars.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/plan404/jupiter.js' charset='utf-8'></script>
+  <script type='text/javascript' src='ephemeris/astronomy/moshier/plan404/saturn.js' charset='utf-8'></script>
+  
+  
+  
+  <script type='text/javascript' src='ephemeris/shortcut.js' charset='utf-8'></script>
+  
+  <script>
+  {	initSJP();}
+  </script>
+  <!--script src="https://maps.googleapis.com/maps/api/js?callback=initMap" ></script-->
+  <br/>
+  
+  <script>
+    let placesData = {};
+  
+    // Function to load and parse the places data
+    async function loadPlacesData() {
+      try {
+        const response = await fetch('places-india.txt');
+        const text = await response.text();
+        const lines = text.split('&');
+        lines.forEach(line => {
+          if (line) {
+            const parts = line.split('#');
+            if (parts.length === 2) {
+              const placeName = parts[0].trim();
+              const coords = parts[1].split(';');
+              if (coords.length >= 2) {
+                const longitude = coords[0].trim();
+                const latitude = coords[1].trim();
+                placesData[placeName.toLowerCase()] = { latitude, longitude };
+              }
+            }
+          }
+        });
+        console.log('Places data loaded successfully.', Object.keys(placesData).length, 'places loaded.');
+      } catch (error) {
+        console.error('Error loading places data:', error);
+      }
+    }
+  
+    // Function to handle place name input
+    function handlePlaceInput() {
+      const input = document.getElementById('placename');
+      const latitudeInput = document.getElementById('latitude');
+      const longitudeInput = document.getElementById('longitude');
+      const placeName = input.value.trim().toLowerCase();
+  
+      if (placesData[placeName]) {
+        latitudeInput.value = placesData[placeName].latitude;
+        longitudeInput.value = placesData[placeName].longitude;
+      } else {
+        // Clear lat/long if the place name doesn't match exactly
+        latitudeInput.value = '';
+        longitudeInput.value = '';
+      }
+    }
+  
+    // Load data when the page initializes
+    document.addEventListener('DOMContentLoaded', loadPlacesData);
+  
+    // Add event listener to the place name input
+    const placenameInput = document.getElementById('placename');
+    if (placenameInput) {
+      placenameInput.addEventListener('input', handlePlaceInput);
+    }
+  
+    // Hardcoded Nepali cities/districts
+    const NEPALI_CITIES = [
+    { name: "Achham", lat: 29.0500, lon: 81.3000 },
+    { name: "Arghakhanchi", lat: 27.9500, lon: 83.2000 },
+    { name: "Baglung", lat: 28.2667, lon: 83.6000 },
+    { name: "Baitadi", lat: 29.5167, lon: 80.5500 },
+    { name: "Bajhang", lat: 29.8333, lon: 81.2500 },
+    { name: "Bajura", lat: 29.4167, lon: 81.5000 },
+    { name: "Banke", lat: 28.0500, lon: 81.6167 },
+    { name: "Bara", lat: 27.0000, lon: 84.8667 },
+    { name: "Bardiya", lat: 28.2500, lon: 81.3333 },
+    { name: "Bhaktapur", lat: 27.6667, lon: 85.4167 },
+    { name: "Bhojpur", lat: 27.1667, lon: 87.0500 },
+    { name: "Chitwan", lat: 27.6833, lon: 84.4333 },
+    { name: "Dadeldhura", lat: 29.3000, lon: 80.5833 },
+    { name: "Dailekh", lat: 28.8333, lon: 81.7000 },
+    { name: "Dang", lat: 28.0500, lon: 82.3000 },
+    { name: "Darchula", lat: 30.1500, lon: 80.6000 },
+    { name: "Dhading", lat: 27.9000, lon: 84.9000 },
+    { name: "Dhankuta", lat: 26.9833, lon: 87.3500 },
+    { name: "Dhanusha", lat: 26.8333, lon: 85.9167 },
+    { name: "Dolakha", lat: 27.6667, lon: 86.0333 },
+    { name: "Dolpa", lat: 29.0000, lon: 83.2500 },
+    { name: "Doti", lat: 29.2667, lon: 80.9667 },
+    { name: "Eastern Rukum", lat: 28.7000, lon: 83.0000 },
+    { name: "Gorkha", lat: 28.0000, lon: 84.6333 },
+    { name: "Gulmi", lat: 28.0833, lon: 83.2500 },
+    { name: "Humla", lat: 29.9667, lon: 81.8333 },
+    { name: "Ilam", lat: 26.9000, lon: 87.9333 },
+    { name: "Jajarkot", lat: 28.7000, lon: 82.2000 },
+    { name: "Jhapa", lat: 26.6000, lon: 87.8333 },
+    { name: "Jumla", lat: 29.2833, lon: 82.1833 },
+    { name: "Kailali", lat: 28.4167, lon: 80.5833 },
+    { name: "Kalikot", lat: 29.1333, lon: 81.6167 },
+    { name: "Kanchanpur", lat: 28.8333, lon: 80.3333 },
+    { name: "Kapilvastu", lat: 27.5500, lon: 83.0500 },
+    { name: "Kaski", lat: 28.2500, lon: 83.9833 },
+    { name: "Kavrepalanchok", lat: 27.6333, lon: 85.5000 },
+    { name: "Kathmandu", lat: 27.7167, lon: 85.3167 },
+    { name: "Khotang", lat: 27.2000, lon: 86.8000 },
+    { name: "Lalitpur", lat: 27.6667, lon: 85.3167 },
+    { name: "Lamjung", lat: 28.2500, lon: 84.4000 },
+    { name: "Mahottari", lat: 26.6500, lon: 85.8000 },
+    { name: "Makwanpur", lat: 27.4333, lon: 85.0333 },
+    { name: "Manang", lat: 28.6333, lon: 84.0000 },
+    { name: "Morang", lat: 26.6500, lon: 87.3333 },
+    { name: "Mugu", lat: 29.9167, lon: 82.3833 },
+    { name: "Mustang", lat: 28.9333, lon: 83.9333 },
+    { name: "Myagdi", lat: 28.3500, lon: 83.5833 },
+    { name: "Nawalpur", lat: 27.6833, lon: 84.1000 },
+    { name: "Nuwakot", lat: 27.8833, lon: 85.1667 },
+    { name: "Okhaldhunga", lat: 27.3167, lon: 86.5000 },
+    { name: "Palpa", lat: 27.8667, lon: 83.5500 },
+    { name: "Panchthar", lat: 27.1167, lon: 87.6167 },
+    { name: "Parasi", lat: 27.5500, lon: 83.6833 },
+    { name: "Parbat", lat: 28.2000, lon: 83.6667 },
+    { name: "Parsa", lat: 27.0000, lon: 84.8667 },
+    { name: "Pyuthan", lat: 28.0333, lon: 82.8833 },
+    { name: "Ramechhap", lat: 27.3333, lon: 86.0000 },
+    { name: "Rasuwa", lat: 28.1000, lon: 85.3000 },
+    { name: "Rautahat", lat: 26.9833, lon: 85.3333 },
+    { name: "Rolpa", lat: 28.2667, lon: 82.8500 },
+    { name: "Rupandehi", lat: 27.6333, lon: 83.5500 },
+    { name: "Salyan", lat: 28.3833, lon: 82.1667 },
+    { name: "Sankhuwasabha", lat: 27.5833, lon: 87.2500 },
+    { name: "Saptari", lat: 26.6000, lon: 86.7500 },
+    { name: "Sarlahi", lat: 26.9833, lon: 85.5833 },
+    { name: "Sindhuli", lat: 27.2500, lon: 85.9167 },
+    { name: "Sindhupalchok", lat: 27.8333, lon: 85.7000 },
+    { name: "Siraha", lat: 26.6500, lon: 86.2000 },
+    { name: "Solukhumbu", lat: 27.5000, lon: 86.6000 },
+    { name: "Sunsari", lat: 26.6500, lon: 87.1667 },
+    { name: "Surkhet", lat: 28.6000, lon: 81.6167 },
+    { name: "Syangja", lat: 28.0000, lon: 83.8667 },
+    { name: "Tanahun", lat: 27.9167, lon: 84.2500 },
+    { name: "Taplejung", lat: 27.3500, lon: 87.6667 },
+    { name: "Tehrathum", lat: 27.0500, lon: 87.5833 },
+    { name: "Udayapur", lat: 26.8000, lon: 86.7000 },
+    { name: "Western Rukum", lat: 28.7000, lon: 82.5000 },
+      // Add more districts/cities here as needed
+    ];
+  
+    function populateNepalDropdown() {
+      const placenameSelect = document.getElementById('placename');
+      NEPALI_CITIES.forEach(city => {
+        const option = document.createElement('option');
+        option.value = city.name;
+        option.textContent = city.name;
+        placenameSelect.appendChild(option);
+      });
+    }
+  
+    function handlePlaceSelect() {
+      const placenameSelect = document.getElementById('placename');
+      const selectedName = placenameSelect.value;
+      const latitudeInput = document.getElementById('latitude');
+      const longitudeInput = document.getElementById('longitude');
+      const found = NEPALI_CITIES.find(city => city.name === selectedName);
+      if (found) {
+        latitudeInput.value = found.lat;
+        longitudeInput.value = found.lon;
+      } else {
+        latitudeInput.value = '';
+        longitudeInput.value = '';
+      }
+    }
+  
+    document.addEventListener('DOMContentLoaded', () => {
+      populateNepalDropdown();
+      const placenameSelect = document.getElementById('placename');
+      if (placenameSelect) {
+        placenameSelect.addEventListener('change', handlePlaceSelect);
+      }
+    });
+  
+  </script>
+  
+  <script>
+  // Save form as .jhd file (now saves to localStorage instead)
+  function saveFormToLocal() {
+    const form = document.getElementById('datetimeplace');
+    const data = {
+      month: form.month.value,
+      day: form.day.value,
+      year: form.year.value,
+      btime: form.btime.value,
+      timezone: form.timezone.value,
+      longitude: form.longitude.value,
+      latitude: form.latitude.value,
+      placename: form.placename.value,
+      chartname: form.chartname.value
+    };
+    if (!data.chartname) {
+      alert('Please enter a chart name before saving.');
+      return;
+    }
+    // Save to localStorage
+    localStorage.setItem('sjp_chart_' + data.chartname, JSON.stringify(data));
+    updateSavedChartsDropdown();
+    alert('Details Saved "' + data.chartname + '".');
+  }
+
+  // Delete selected chart from localStorage
+  function deleteSelectedChart() {
+    const dropdown = document.getElementById('loadSaved');
+    const chartname = dropdown.value;
+    if (!chartname || !confirm('Delete "' + chartname + '"?')) return;
+    
+    localStorage.removeItem('sjp_chart_' + chartname);
+    updateSavedChartsDropdown();
+    
+    // Clear form if the deleted chart was selected
+    const form = document.getElementById('datetimeplace');
+    if (form.chartname.value === chartname) {
+      form.reset();
+    }
+  }
+
+  // Populate the Load Saved dropdown
+  function updateSavedChartsDropdown() {
+    const dropdown = document.getElementById('loadSaved');
+    const deleteBtn = document.getElementById('deleteChartBtn');
+    if (!dropdown) return;
+    
+    // Clear existing options except the first
+    dropdown.options.length = 1;
+    
+    // Update delete button visibility
+    if (deleteBtn) {
+      deleteBtn.style.display = 'none';
+    }
+    
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (key.startsWith('sjp_chart_')) {
+        const chartName = key.replace('sjp_chart_', '');
+        const option = document.createElement('option');
+        option.value = chartName;
+        option.textContent = chartName;
+        dropdown.appendChild(option);
+      }
+    }
+  }
+
+  // Load selected chart data into the form
+  function loadChartFromLocal() {
+    const dropdown = document.getElementById('loadSaved');
+    const deleteBtn = document.getElementById('deleteChartBtn');
+    const chartname = dropdown.value;
+    
+    // Show/hide delete button based on selection
+    if (deleteBtn) {
+      deleteBtn.style.display = chartname ? 'inline-block' : 'none';
+    }
+    
+    if (!chartname) return;
+    const data = JSON.parse(localStorage.getItem('sjp_chart_' + chartname));
+    if (!data) return;
+    const form = document.getElementById('datetimeplace');
+    form.month.value = data.month || '';
+    form.day.value = data.day || '';
+    form.year.value = data.year || '';
+    form.btime.value = data.btime || '';
+    form.timezone.value = data.timezone || '';
+    form.longitude.value = data.longitude || '';
+    form.latitude.value = data.latitude || '';
+    form.placename.value = data.placename || '';
+    form.chartname.value = data.chartname || '';
+    // Optionally trigger change events if needed
+    if (typeof handlePlaceSelect === 'function') handlePlaceSelect();
+  }
+
+  // Attach events
+  setTimeout(() => {
+    const saveBtn = document.getElementById('saveJHD');
+    const deleteBtn = document.getElementById('deleteChartBtn');
+    const loadDropdown = document.getElementById('loadSaved');
+    
+    if(saveBtn) saveBtn.onclick = saveFormToLocal;
+    if(deleteBtn) deleteBtn.onclick = deleteSelectedChart;
+    if(loadDropdown) loadDropdown.onchange = loadChartFromLocal;
+    
+    updateSavedChartsDropdown();
+  }, 100);
+  </script>
+  
+  <script>
+  function handleKundaliFormSubmit(e) {
+    e.preventDefault();
+    const form = document.getElementById('datetimeplace');
+    const data = {
+      chartname: form.chartname.value,
+      day: form.day.value,
+      month: form.month.value,
+      year: form.year.value,
+      btime: form.btime.value,
+      timezone: form.timezone.value,
+      placename: form.placename.value,
+      latitude: form.latitude.value,
+      longitude: form.longitude.value,
+      submit: form.submit.value
+    };
+    sessionStorage.setItem('kundali_form_data', JSON.stringify(data));
+    window.location.href = 'kundali_home.html';
+    return false;
+  }
+  </script>
+  
+  </BODY>
+  </HTML>
+  

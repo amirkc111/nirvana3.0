@@ -1,0 +1,3185 @@
+[
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१",
+            "en": "1"
+          },
+          "full": {
+            "np": "२००५-१०-१",
+            "en": "2005-10-1"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "१४",
+            "en": "14"
+          },
+          "full": {
+            "np": "१९४९-०१-१४",
+            "en": "1949-1-14"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": null,
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131210
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "माघ स्नानारम्भ",
+          "en": "Magh Snanarambha"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131284
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "आर्य दिवस",
+          "en": "Arya Diwas"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131285
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "चाँगुुनारायण हैगु",
+          "en": "Change Narayanma Kalash Jaatraa (Changu Narayan Haigu)"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131620
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "माघी पर्व",
+          "en": "Maghi Parwa(Tharu, Magar, chhantyaalaadiko parba)"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131621
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "ऊत्तरायनारम्भ",
+          "en": "Uttarayana Starts"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131622
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "देवघाटमा मकर स्नान",
+          "en": "Devghat Makar Snan"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131624
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "मकर संक्रान्ति",
+          "en": "Maghe Sankranti "
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 6034,
+        "category": {
+          "name": "others",
+          "id": 461234
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "पुर्णिमा व्रत",
+          "en": "Purnima Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२",
+            "en": "2"
+          },
+          "full": {
+            "np": "२००५-१०-२",
+            "en": "2005-10-2"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "१५",
+            "en": "15"
+          },
+          "full": {
+            "np": "१९४९-०१-१५",
+            "en": "1949-1-15"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": null,
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "३",
+            "en": "3"
+          },
+          "full": {
+            "np": "२००५-१०-३",
+            "en": "2005-10-3"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "१६",
+            "en": "16"
+          },
+          "full": {
+            "np": "१९४९-०१-१६",
+            "en": "1949-1-16"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": null,
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "४",
+            "en": "4"
+          },
+          "full": {
+            "np": "२००५-१०-४",
+            "en": "2005-10-4"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "१७",
+            "en": "17"
+          },
+          "full": {
+            "np": "१९४९-०१-१७",
+            "en": "1949-1-17"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": null,
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "५",
+            "en": "5"
+          },
+          "full": {
+            "np": "२००५-१०-५",
+            "en": "2005-10-5"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "१८",
+            "en": "18"
+          },
+          "full": {
+            "np": "१९४९-०१-१८",
+            "en": "1949-1-18"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मङ्गलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": null,
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131244
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "काशीस्थित बडागणेश चतुर्थी",
+          "en": "Kashima (Bharat) Bada Ganesh Mela"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "६",
+            "en": "6"
+          },
+          "full": {
+            "np": "२००५-१०-६",
+            "en": "2005-10-6"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "१९",
+            "en": "19"
+          },
+          "full": {
+            "np": "१९४९-०१-१९",
+            "en": "1949-1-19"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": null,
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "७",
+            "en": "7"
+          },
+          "full": {
+            "np": "२००५-१०-७",
+            "en": "2005-10-7"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "२०",
+            "en": "20"
+          },
+          "full": {
+            "np": "१९४९-०१-२०",
+            "en": "1949-1-20"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": null,
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "८",
+            "en": "8"
+          },
+          "full": {
+            "np": "२००५-१०-८",
+            "en": "2005-10-8"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "२१",
+            "en": "21"
+          },
+          "full": {
+            "np": "१९४९-०१-२१",
+            "en": "1949-1-21"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": null,
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "९",
+            "en": "9"
+          },
+          "full": {
+            "np": "२००५-१०-९",
+            "en": "2005-10-9"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "२२",
+            "en": "22"
+          },
+          "full": {
+            "np": "१९४९-०१-२२",
+            "en": "1949-1-22"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": null,
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१०",
+            "en": "10"
+          },
+          "full": {
+            "np": "२००५-१०-१०",
+            "en": "2005-10-10"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "२३",
+            "en": "23"
+          },
+          "full": {
+            "np": "१९४९-०१-२३",
+            "en": "1949-1-23"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": null,
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "११",
+            "en": "11"
+          },
+          "full": {
+            "np": "२००५-१०-११",
+            "en": "2005-10-11"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "२४",
+            "en": "24"
+          },
+          "full": {
+            "np": "१९४९-०१-२४",
+            "en": "1949-1-24"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": null,
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१२",
+            "en": "12"
+          },
+          "full": {
+            "np": "२००५-१०-१२",
+            "en": "2005-10-12"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "२५",
+            "en": "25"
+          },
+          "full": {
+            "np": "१९४९-०१-२५",
+            "en": "1949-1-25"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मङ्गलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": null,
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१३",
+            "en": "13"
+          },
+          "full": {
+            "np": "२००५-१०-१३",
+            "en": "2005-10-13"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "२६",
+            "en": "26"
+          },
+          "full": {
+            "np": "१९४९-०१-२६",
+            "en": "1949-1-26"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": null,
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१४",
+            "en": "14"
+          },
+          "full": {
+            "np": "२००५-१०-१४",
+            "en": "2005-10-14"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "२७",
+            "en": "27"
+          },
+          "full": {
+            "np": "१९४९-०१-२७",
+            "en": "1949-1-27"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": null,
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131214
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "लैचह्रे पूजा",
+          "en": "Lai Cha:rhe Puja"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१५",
+            "en": "15"
+          },
+          "full": {
+            "np": "२००५-१०-१५",
+            "en": "2005-10-15"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "२८",
+            "en": "28"
+          },
+          "full": {
+            "np": "१९४९-०१-२८",
+            "en": "1949-1-28"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": null,
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131240
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "आर्यघाटमा माधवनारायण मेला",
+          "en": " Madhav Narayan Mela in Pashupatinath Aaryaghaat"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": "आर्यघाटमा माधवनारायण मेला /// माधव नारायण महोत्सव",
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 458579
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "नेपाल नर्सिङ दिवस",
+          "en": "Nepal Nursing Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": "नेपाल नर्सिङ दिवस",
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१६",
+            "en": "16"
+          },
+          "full": {
+            "np": "२००५-१०-१६",
+            "en": "2005-10-16"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "२९",
+            "en": "29"
+          },
+          "full": {
+            "np": "१९४९-०१-२९",
+            "en": "1949-1-29"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": null,
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 65,
+        "category": {
+          "name": "anniversary",
+          "id": 7827426
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "शहीद दिवस",
+          "en": "Martyrs' Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१७",
+            "en": "17"
+          },
+          "full": {
+            "np": "२००५-१०-१७",
+            "en": "2005-10-17"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "३०",
+            "en": "30"
+          },
+          "full": {
+            "np": "१९४९-०१-३०",
+            "en": "1949-1-30"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": null,
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131288
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "बल्लब जयन्ति",
+          "en": "Shree Ballav Jayanti"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131336
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "सोनाम ल्होसार",
+          "en": "Sonam (Tamang) Lhosar"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": "सोनाम ल्होसार",
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१८",
+            "en": "18"
+          },
+          "full": {
+            "np": "२००५-१०-१८",
+            "en": "2005-10-18"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "1"
+            },
+            "en": "January"
+          },
+          "day": {
+            "np": "३१",
+            "en": "31"
+          },
+          "full": {
+            "np": "१९४९-०१-३१",
+            "en": "1949-1-31"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": null,
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१९",
+            "en": "19"
+          },
+          "full": {
+            "np": "२००५-१०-१९",
+            "en": "2005-10-19"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "०१",
+            "en": "1"
+          },
+          "full": {
+            "np": "१९४९-०२-०१",
+            "en": "1949-2-1"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मङ्गलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": null,
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२०",
+            "en": "20"
+          },
+          "full": {
+            "np": "२००५-१०-२०",
+            "en": "2005-10-20"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "०२",
+            "en": "2"
+          },
+          "full": {
+            "np": "१९४९-०२-०२",
+            "en": "1949-2-2"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": null,
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131365
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विश्व सिमसार दिवस",
+          "en": "World Wetlands Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131537
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "तिलकुण्ड चतुर्थी",
+          "en": "Tilkunda Chaturthi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२१",
+            "en": "21"
+          },
+          "full": {
+            "np": "२००५-१०-२१",
+            "en": "2005-10-21"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "०३",
+            "en": "3"
+          },
+          "full": {
+            "np": "१९४९-०२-०३",
+            "en": "1949-2-3"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": null,
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131534
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "माघयात्रा सिपुन्ही",
+          "en": "Magh Yatra - Sipunhi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२२",
+            "en": "22"
+          },
+          "full": {
+            "np": "२००५-१०-२२",
+            "en": "2005-10-22"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "०४",
+            "en": "4"
+          },
+          "full": {
+            "np": "१९४९-०२-०४",
+            "en": "1949-2-4"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": null,
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131187
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "चम्पा षष्ठी",
+          "en": "Champa Sasthi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131289
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "स्कन्द षष्ठी",
+          "en": "Skanda Sasthi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131363
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विश्व क्यान्सर दिवस",
+          "en": "World Cancer Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२३",
+            "en": "23"
+          },
+          "full": {
+            "np": "२००५-१०-२३",
+            "en": "2005-10-23"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "०५",
+            "en": "5"
+          },
+          "full": {
+            "np": "१९४९-०२-०५",
+            "en": "1949-2-5"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": null,
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131531
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "अचला सप्तमी",
+          "en": "Aachala Saptami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२४",
+            "en": "24"
+          },
+          "full": {
+            "np": "२००५-१०-२४",
+            "en": "2005-10-24"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "०६",
+            "en": "6"
+          },
+          "full": {
+            "np": "१९४९-०२-०६",
+            "en": "1949-2-6"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": null,
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131530
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "भिष्माष्टमी व्रत",
+          "en": "Bhismastami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२५",
+            "en": "25"
+          },
+          "full": {
+            "np": "२००५-१०-२५",
+            "en": "2005-10-25"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "०७",
+            "en": "7"
+          },
+          "full": {
+            "np": "१९४९-०२-०७",
+            "en": "1949-2-7"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": null,
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131324
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "द्रोण नवमी",
+          "en": "Drona Nawami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२६",
+            "en": "26"
+          },
+          "full": {
+            "np": "२००५-१०-२६",
+            "en": "2005-10-26"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "०८",
+            "en": "8"
+          },
+          "full": {
+            "np": "१९४९-०२-०८",
+            "en": "1949-2-8"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मङ्गलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": null,
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131529
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "शल्य दशमी",
+          "en": "Salya Dashami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२७",
+            "en": "27"
+          },
+          "full": {
+            "np": "२००५-१०-२७",
+            "en": "2005-10-27"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "०९",
+            "en": "9"
+          },
+          "full": {
+            "np": "१९४९-०२-०९",
+            "en": "1949-2-9"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": null,
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131528
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "भिमा एकादशी व्रत",
+          "en": "Bhima Ekadashi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": "भीमा एकादशी | जया एकादशी व्रत",
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२८",
+            "en": "28"
+          },
+          "full": {
+            "np": "२००५-१०-२८",
+            "en": "2005-10-28"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "१०",
+            "en": "10"
+          },
+          "full": {
+            "np": "१९४९-०२-१०",
+            "en": "1949-2-10"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": null,
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131290
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "वटुमाघयात्रा",
+          "en": "Magh Yatra in Watu(Kantipur)  (Snayaduli)"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 131527
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "भिष्म द्वादशी",
+          "en": "Bhishma Dwadashi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२००५",
+            "en": "2005"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२९",
+            "en": "29"
+          },
+          "full": {
+            "np": "२००५-१०-२९",
+            "en": "2005-10-29"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९४९",
+            "en": "1949"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "११",
+            "en": "11"
+          },
+          "full": {
+            "np": "१९४९-०२-११",
+            "en": "1949-2-11"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": null,
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": null,
+          "en": null
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०६९",
+            "en": "1069"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": null,
+    "panchangaDetails": null,
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  }
+]

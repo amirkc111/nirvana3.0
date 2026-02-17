@@ -1,0 +1,5731 @@
+[
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "१",
+            "en": "1"
+          },
+          "full": {
+            "np": "२०३५-११-१",
+            "en": "2035-11-1"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "१३",
+            "en": "13"
+          },
+          "full": {
+            "np": "१९७९-२-१३",
+            "en": "1979-2-13"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "प्रतिपदा ",
+        "en": null
+      },
+      "code": {
+        "np": "१",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मघा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 136151
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "फाल्गुन संक्रान्ति",
+          "en": "Falgun Sankranti"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "२",
+            "en": "2"
+          },
+          "full": {
+            "np": "२०३५-११-२",
+            "en": "2035-11-2"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "१४",
+            "en": "14"
+          },
+          "full": {
+            "np": "१९७९-२-१४",
+            "en": "1979-2-14"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वितीया ",
+        "en": null
+      },
+      "code": {
+        "np": "२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वफाल्गुणी ",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 135930
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "प्रणय दिवस",
+          "en": "Valentines Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "३",
+            "en": "3"
+          },
+          "full": {
+            "np": "२०३५-११-३",
+            "en": "2035-11-3"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "१५",
+            "en": "15"
+          },
+          "full": {
+            "np": "१९७९-२-१५",
+            "en": "1979-2-15"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "तृतीया ",
+        "en": null
+      },
+      "code": {
+        "np": "३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कन्या",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तरफाल्गुणी ",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "४",
+            "en": "4"
+          },
+          "full": {
+            "np": "२०३५-११-४",
+            "en": "2035-11-4"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "१६",
+            "en": "16"
+          },
+          "full": {
+            "np": "१९७९-२-१६",
+            "en": "1979-2-16"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्थी ",
+        "en": null
+      },
+      "code": {
+        "np": "४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कन्या",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "हस्ता ",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "५",
+            "en": "5"
+          },
+          "full": {
+            "np": "२०३५-११-५",
+            "en": "2035-11-5"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "१७",
+            "en": "17"
+          },
+          "full": {
+            "np": "१९७९-२-१७",
+            "en": "1979-2-17"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पञ्चमी ",
+        "en": null
+      },
+      "code": {
+        "np": "५",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "तुला",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "चित्रा ",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "६",
+            "en": "6"
+          },
+          "full": {
+            "np": "२०३५-११-६",
+            "en": "2035-11-6"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "१८",
+            "en": "18"
+          },
+          "full": {
+            "np": "१९७९-२-१८",
+            "en": "1979-2-18"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "षष्ठी",
+        "en": null
+      },
+      "code": {
+        "np": "६",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "तुला",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "स्वाती",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "७",
+            "en": "7"
+          },
+          "full": {
+            "np": "२०३५-११-७",
+            "en": "2035-11-7"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "१९",
+            "en": "19"
+          },
+          "full": {
+            "np": "१९७९-२-१९",
+            "en": "1979-2-19"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "सप्तमी ",
+        "en": null
+      },
+      "code": {
+        "np": "७",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "तुला",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "विशाखा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 135928
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "प्रजातन्त्र दिवस",
+          "en": "National Democracy Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "८",
+            "en": "8"
+          },
+          "full": {
+            "np": "२०३५-११-८",
+            "en": "2035-11-8"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "२०",
+            "en": "20"
+          },
+          "full": {
+            "np": "१९७९-२-२०",
+            "en": "1979-2-20"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "अष्टमी ",
+        "en": null
+      },
+      "code": {
+        "np": "८",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृश्चिक",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अनुराधा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 135927
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "सामाजिक न्याय दिवस",
+          "en": "World Day of Social Justice"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "९",
+            "en": "9"
+          },
+          "full": {
+            "np": "२०३५-११-९",
+            "en": "2035-11-9"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "२१",
+            "en": "21"
+          },
+          "full": {
+            "np": "१९७९-२-२१",
+            "en": "1979-2-21"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "नवमी",
+        "en": null
+      },
+      "code": {
+        "np": "९",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृश्चिक",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "ज्येष्ठा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "१०",
+            "en": "10"
+          },
+          "full": {
+            "np": "२०३५-११-१०",
+            "en": "2035-11-10"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "२२",
+            "en": "22"
+          },
+          "full": {
+            "np": "१९७९-२-२२",
+            "en": "1979-2-22"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "दशमी",
+        "en": null
+      },
+      "code": {
+        "np": "१०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "धनु",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मूल",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "११",
+            "en": "11"
+          },
+          "full": {
+            "np": "२०३५-११-११",
+            "en": "2035-11-11"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "२३",
+            "en": "23"
+          },
+          "full": {
+            "np": "१९७९-२-२३",
+            "en": "1979-2-23"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "एकादशी ",
+        "en": null
+      },
+      "code": {
+        "np": "११",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "धनु",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वाषाढा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 136052
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "बिजया एकादशी",
+          "en": "Vijaya Ekadashi Brat"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "१२",
+            "en": "12"
+          },
+          "full": {
+            "np": "२०३५-११-१२",
+            "en": "2035-11-12"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "२४",
+            "en": "24"
+          },
+          "full": {
+            "np": "१९७९-२-२४",
+            "en": "1979-2-24"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "त्रयोदशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मकर",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तराषाढा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 136050
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "शिलाचह्रे पूजा",
+          "en": "Sila Chahre Puja"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 136051
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "महाशिवरात्रि (शिलाचह्रे)",
+          "en": "Maha Shivaratri Brat"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "१३",
+            "en": "13"
+          },
+          "full": {
+            "np": "२०३५-११-१३",
+            "en": "2035-11-13"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "२५",
+            "en": "25"
+          },
+          "full": {
+            "np": "१९७९-२-२५",
+            "en": "1979-2-25"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्दशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मकर",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "श्रवण",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "१४",
+            "en": "14"
+          },
+          "full": {
+            "np": "२०३५-११-१४",
+            "en": "2035-11-14"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "२६",
+            "en": "26"
+          },
+          "full": {
+            "np": "१९७९-२-२६",
+            "en": "1979-2-26"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "औँशी ",
+        "en": null
+      },
+      "code": {
+        "np": "३०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कुम्भ",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "धनिष्ठा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 136049
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "द्वापरयुगादी ",
+          "en": "Dwapar Yugadi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 231072
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "सोमबारे औंसी",
+          "en": "Sombare Ausi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "१५",
+            "en": "15"
+          },
+          "full": {
+            "np": "२०३५-११-१५",
+            "en": "2035-11-15"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "२७",
+            "en": "27"
+          },
+          "full": {
+            "np": "१९७९-२-२७",
+            "en": "1979-2-27"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "प्रतिपदा ",
+        "en": null
+      },
+      "code": {
+        "np": "१",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कुम्भ",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "शतभिषा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 135817
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "ग्याल्पो ल्होसार",
+          "en": "Gyalpo Lhosar"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "१६",
+            "en": "16"
+          },
+          "full": {
+            "np": "२०३५-११-१६",
+            "en": "2035-11-16"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "फेब्रुवरी",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "February"
+          },
+          "day": {
+            "np": "२८",
+            "en": "28"
+          },
+          "full": {
+            "np": "१९७९-२-२८",
+            "en": "1979-2-28"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वितीया ",
+        "en": null
+      },
+      "code": {
+        "np": "२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मीन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वभाद्र",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "१७",
+            "en": "17"
+          },
+          "full": {
+            "np": "२०३५-११-१७",
+            "en": "2035-11-17"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "१",
+            "en": "1"
+          },
+          "full": {
+            "np": "१९७९-२-१",
+            "en": "1979-2-1"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "तृतीया ",
+        "en": null
+      },
+      "code": {
+        "np": "३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मीन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "रेवती",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "१८",
+            "en": "18"
+          },
+          "full": {
+            "np": "२०३५-११-१८",
+            "en": "2035-11-18"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "३",
+              "en": "3"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "२",
+            "en": "2"
+          },
+          "full": {
+            "np": "१९७९-३-२",
+            "en": "1979-3-2"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्थी ",
+        "en": null
+      },
+      "code": {
+        "np": "४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मेष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अश्विनी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "१९",
+            "en": "19"
+          },
+          "full": {
+            "np": "२०३५-११-१९",
+            "en": "2035-11-19"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "३",
+              "en": "3"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "३",
+            "en": "3"
+          },
+          "full": {
+            "np": "१९७९-३-३",
+            "en": "1979-3-3"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पञ्चमी ",
+        "en": null
+      },
+      "code": {
+        "np": "५",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मेष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "भरणी ",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "२०",
+            "en": "20"
+          },
+          "full": {
+            "np": "२०३५-११-२०",
+            "en": "2035-11-20"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "३",
+              "en": "3"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "४",
+            "en": "4"
+          },
+          "full": {
+            "np": "१९७९-३-४",
+            "en": "1979-3-4"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "षष्ठी",
+        "en": null
+      },
+      "code": {
+        "np": "६",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मेष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "कृत्तिका ",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "२१",
+            "en": "21"
+          },
+          "full": {
+            "np": "२०३५-११-२१",
+            "en": "2035-11-21"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "३",
+              "en": "3"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "५",
+            "en": "5"
+          },
+          "full": {
+            "np": "१९७९-३-५",
+            "en": "1979-3-5"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "सप्तमी ",
+        "en": null
+      },
+      "code": {
+        "np": "७",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "रोहिणी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "२२",
+            "en": "22"
+          },
+          "full": {
+            "np": "२०३५-११-२२",
+            "en": "2035-11-22"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "३",
+              "en": "3"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "६",
+            "en": "6"
+          },
+          "full": {
+            "np": "१९७९-३-६",
+            "en": "1979-3-6"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "अष्टमी ",
+        "en": null
+      },
+      "code": {
+        "np": "८",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मृगशिरा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 135862
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "चिरोत्थान",
+          "en": "Chirako Utthan (Chir Swaya)"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "२३",
+            "en": "23"
+          },
+          "full": {
+            "np": "२०३५-११-२३",
+            "en": "2035-11-23"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "३",
+              "en": "3"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "७",
+            "en": "7"
+          },
+          "full": {
+            "np": "१९७९-३-७",
+            "en": "1979-3-7"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "नवमी",
+        "en": null
+      },
+      "code": {
+        "np": "९",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मिथुन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मृगशिरा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "२४",
+            "en": "24"
+          },
+          "full": {
+            "np": "२०३५-११-२४",
+            "en": "2035-11-24"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "३",
+              "en": "3"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "८",
+            "en": "8"
+          },
+          "full": {
+            "np": "१९७९-३-८",
+            "en": "1979-3-8"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "दशमी",
+        "en": null
+      },
+      "code": {
+        "np": "१०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मिथुन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "आर्द्रा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "२५",
+            "en": "25"
+          },
+          "full": {
+            "np": "२०३५-११-२५",
+            "en": "2035-11-25"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "३",
+              "en": "3"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "९",
+            "en": "9"
+          },
+          "full": {
+            "np": "१९७९-३-९",
+            "en": "1979-3-9"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "एकादशी ",
+        "en": null
+      },
+      "code": {
+        "np": "११",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कर्कट",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पुनर्वसु",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 136048
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "आमलकी एकादशी",
+          "en": "Aamalaki Ekadashi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "२६",
+            "en": "26"
+          },
+          "full": {
+            "np": "२०३५-११-२६",
+            "en": "2035-11-26"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "३",
+              "en": "3"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "१०",
+            "en": "10"
+          },
+          "full": {
+            "np": "१९७९-३-१०",
+            "en": "1979-3-10"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वादशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कर्कट",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "तिष्य",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 136047
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गोविन्द द्वादशी",
+          "en": "Govinda Dwadashi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 231080
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "शनि प्रदोष व्रत",
+          "en": "Shani Pradosh Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "२७",
+            "en": "27"
+          },
+          "full": {
+            "np": "२०३५-११-२७",
+            "en": "2035-11-27"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "३",
+              "en": "3"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "११",
+            "en": "11"
+          },
+          "full": {
+            "np": "१९७९-३-११",
+            "en": "1979-3-11"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "त्रयोदशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कर्कट",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अश्लेषा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "२८",
+            "en": "28"
+          },
+          "full": {
+            "np": "२०३५-११-२८",
+            "en": "2035-11-28"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "३",
+              "en": "3"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "१२",
+            "en": "12"
+          },
+          "full": {
+            "np": "१९७९-३-१२",
+            "en": "1979-3-12"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्दशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मघा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०३५",
+            "en": "2035"
+          },
+          "month": {
+            "np": "फाल्गुन",
+            "code": {
+              "np": "११",
+              "en": "11"
+            },
+            "en": "Falgun"
+          },
+          "day": {
+            "np": "२९",
+            "en": "29"
+          },
+          "full": {
+            "np": "२०३५-११-२९",
+            "en": "2035-11-29"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "१९७९",
+            "en": "1979"
+          },
+          "month": {
+            "np": "मार्च ",
+            "code": {
+              "np": "३",
+              "en": "3"
+            },
+            "en": "March"
+          },
+          "day": {
+            "np": "१३",
+            "en": "13"
+          },
+          "full": {
+            "np": "१९७९-३-१३",
+            "en": "1979-3-13"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९००",
+          "en": "1900"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "१०९९",
+            "en": "1099"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पूर्णिमा ",
+        "en": null
+      },
+      "code": {
+        "np": "१५",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वफाल्गुणी ",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "शिशिर",
+          "en": "Winter"
+        },
+        "code": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 6,
+      "title": {
+        "np": "शीत/शिशिर",
+        "en": "Winter"
+      },
+      "codes": {
+        "np": "६",
+        "en": "6"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 136046
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "फागुपूर्णिमा (होली)",
+          "en": "Fagu Purnima"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 6034,
+        "category": {
+          "name": "others",
+          "id": 460939
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "पुर्णिमा व्रत",
+          "en": "Purnima Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,6890 @@
+[
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "१",
+            "en": "1"
+          },
+          "full": {
+            "np": "२०६५-२-१",
+            "en": "2065-2-1"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "१४",
+            "en": "14"
+          },
+          "full": {
+            "np": "२००८-५-१४",
+            "en": "2008-5-14"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "दशमी",
+        "en": null
+      },
+      "code": {
+        "np": "१०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "बैशाख शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वफाल्गुनी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112755
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "जेष्ठ संक्रान्ति",
+          "en": "Jeshta Sankranti"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "२",
+            "en": "2"
+          },
+          "full": {
+            "np": "२०६५-२-२",
+            "en": "2065-2-2"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "१५",
+            "en": "15"
+          },
+          "full": {
+            "np": "२००८-५-१५",
+            "en": "2008-5-15"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "एकादशी",
+        "en": null
+      },
+      "code": {
+        "np": "११",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "बैशाख शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कन्या",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तरफाल्गुनी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112756
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "अन्तर्राष्ट्रि्य परिवार दिवस",
+          "en": "International Day of Families"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112757
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "मोहिनी एकादशी व्रत",
+          "en": "Mohini Ekadashi Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "३",
+            "en": "3"
+          },
+          "full": {
+            "np": "२०६५-२-३",
+            "en": "2065-2-3"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "१६",
+            "en": "16"
+          },
+          "full": {
+            "np": "२००८-५-१६",
+            "en": "2008-5-16"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वादशी",
+        "en": null
+      },
+      "code": {
+        "np": "१२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "बैशाख शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कन्या",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "हस्त",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112496
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "मदन–आश्रित स्मृति दिवस",
+          "en": "Madan Aashrit Smriti Diwas"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "४",
+            "en": "4"
+          },
+          "full": {
+            "np": "२०६५-२-४",
+            "en": "2065-2-4"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "१७",
+            "en": "17"
+          },
+          "full": {
+            "np": "२००८-५-१७",
+            "en": "2008-5-17"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "त्रयोदशी",
+        "en": null
+      },
+      "code": {
+        "np": "१३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "बैशाख शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कन्या",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "चित्रा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112753
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विश्व उच्च रक्तचाप दिवस",
+          "en": "World Hypertension Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112754
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विश्व दूरसञ्चार दिवस",
+          "en": "World Telecommunication and Information Society Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "५",
+            "en": "5"
+          },
+          "full": {
+            "np": "२०६५-२-५",
+            "en": "2065-2-5"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "१८",
+            "en": "18"
+          },
+          "full": {
+            "np": "२००८-५-१८",
+            "en": "2008-5-18"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्दशी",
+        "en": null
+      },
+      "code": {
+        "np": "१४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "बैशाख शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "तुला",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "स्वाती",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112477
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "नृसिंह जयन्ती",
+          "en": "Narasimha Jayanti"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "६",
+            "en": "6"
+          },
+          "full": {
+            "np": "२०६५-२-६",
+            "en": "2065-2-6"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "१९",
+            "en": "19"
+          },
+          "full": {
+            "np": "२००८-५-१९",
+            "en": "2008-5-19"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पूर्णिमा",
+        "en": null
+      },
+      "code": {
+        "np": "१५",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "बैशाख शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "तुला",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "विशाखा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112611
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "चण्डी पुर्णिमा",
+          "en": "Chandi Purnima"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112750
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "उभौली पर्व",
+          "en": "Ubhauli Parba"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112752
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "बुद्ध जयन्ति",
+          "en": "Buddha Jayanti"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 6034,
+        "category": {
+          "name": "others",
+          "id": 461090
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "पुर्णिमा व्रत",
+          "en": "Purnima Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 493049
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "कुर्मा जयन्ति",
+          "en": "Kurma Jayanti"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "७",
+            "en": "7"
+          },
+          "full": {
+            "np": "२०६५-२-७",
+            "en": "2065-2-7"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "२०",
+            "en": "20"
+          },
+          "full": {
+            "np": "२००८-५-२०",
+            "en": "2008-5-20"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पूर्णिमा",
+        "en": null
+      },
+      "code": {
+        "np": "१५",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "बैशाख शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृश्चिक",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अनुराधा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 6034,
+        "category": {
+          "name": "others",
+          "id": 461091
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "पुर्णिमा व्रत",
+          "en": "Purnima Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "८",
+            "en": "8"
+          },
+          "full": {
+            "np": "२०६५-२-८",
+            "en": "2065-2-8"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "२१",
+            "en": "21"
+          },
+          "full": {
+            "np": "२००८-५-२१",
+            "en": "2008-5-21"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "प्रतिपदा",
+        "en": null
+      },
+      "code": {
+        "np": "१",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृश्चिक",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अनुराधा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "९",
+            "en": "9"
+          },
+          "full": {
+            "np": "२०६५-२-९",
+            "en": "2065-2-9"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "२२",
+            "en": "22"
+          },
+          "full": {
+            "np": "२००८-५-२२",
+            "en": "2008-5-22"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वितीया",
+        "en": null
+      },
+      "code": {
+        "np": "२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृश्चिक",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "ज्येष्ठा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112749
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "अन्तर्राष्ट्रि्य जैविक विविधता दिवस",
+          "en": "International Day for Biological Diversity"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "१०",
+            "en": "10"
+          },
+          "full": {
+            "np": "२०६५-२-१०",
+            "en": "2065-2-10"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "२३",
+            "en": "23"
+          },
+          "full": {
+            "np": "२००८-५-२३",
+            "en": "2008-5-23"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "तृतीया",
+        "en": null
+      },
+      "code": {
+        "np": "३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "धनु",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मूल",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "११",
+            "en": "11"
+          },
+          "full": {
+            "np": "२०६५-२-११",
+            "en": "2065-2-11"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "२४",
+            "en": "24"
+          },
+          "full": {
+            "np": "२००८-५-२४",
+            "en": "2008-5-24"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्थी",
+        "en": null
+      },
+      "code": {
+        "np": "४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "धनु",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वाषाढा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "१२",
+            "en": "12"
+          },
+          "full": {
+            "np": "२०६५-२-१२",
+            "en": "2065-2-12"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "२५",
+            "en": "25"
+          },
+          "full": {
+            "np": "२००८-५-२५",
+            "en": "2008-5-25"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पञ्चमी",
+        "en": null
+      },
+      "code": {
+        "np": "५",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मकर",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तराषाढा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "१३",
+            "en": "13"
+          },
+          "full": {
+            "np": "२०६५-२-१३",
+            "en": "2065-2-13"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "२६",
+            "en": "26"
+          },
+          "full": {
+            "np": "२००८-५-२६",
+            "en": "2008-5-26"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "षष्ठी",
+        "en": null
+      },
+      "code": {
+        "np": "६",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मकर",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "श्रवण",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "१४",
+            "en": "14"
+          },
+          "full": {
+            "np": "२०६५-२-१४",
+            "en": "2065-2-14"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "२७",
+            "en": "27"
+          },
+          "full": {
+            "np": "२००८-५-२७",
+            "en": "2008-5-27"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "सप्तमी",
+        "en": null
+      },
+      "code": {
+        "np": "७",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कुम्भ",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "धनिष्ठा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "१५",
+            "en": "15"
+          },
+          "full": {
+            "np": "२०६५-२-१५",
+            "en": "2065-2-15"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "२८",
+            "en": "28"
+          },
+          "full": {
+            "np": "२००८-५-२८",
+            "en": "2008-5-28"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "अष्टमी",
+        "en": null
+      },
+      "code": {
+        "np": "८",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कुम्भ",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "शतभिषा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112466
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विश्व महिला स्वास्थ्य दिवस",
+          "en": "International Day of Action for Women's Health"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112748
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गणतन्त्र दिवस",
+          "en": "Republic Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 218719
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "बुधाष्टमी व्रत",
+          "en": "Budhashtami Barta"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "१६",
+            "en": "16"
+          },
+          "full": {
+            "np": "२०६५-२-१६",
+            "en": "2065-2-16"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "२९",
+            "en": "29"
+          },
+          "full": {
+            "np": "२००८-५-२९",
+            "en": "2008-5-29"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "नवमी",
+        "en": null
+      },
+      "code": {
+        "np": "९",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कुम्भ",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वभाद्र",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112457
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "सगरमाथा आरोहण दिवस",
+          "en": "Sagarmatha Diwas"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112464
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "शान्ति सेना दिवस",
+          "en": "International Day of United Nations Peacekeepers"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "१७",
+            "en": "17"
+          },
+          "full": {
+            "np": "२०६५-२-१७",
+            "en": "2065-2-17"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "३०",
+            "en": "30"
+          },
+          "full": {
+            "np": "२००८-५-३०",
+            "en": "2008-5-30"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "दशमी",
+        "en": null
+      },
+      "code": {
+        "np": "१०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मीन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तरभाद्र",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "१८",
+            "en": "18"
+          },
+          "full": {
+            "np": "२०६५-२-१८",
+            "en": "2065-2-18"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "मई",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "May"
+          },
+          "day": {
+            "np": "३१",
+            "en": "31"
+          },
+          "full": {
+            "np": "२००८-५-३१",
+            "en": "2008-5-31"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "एकादशी",
+        "en": null
+      },
+      "code": {
+        "np": "११",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मीन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "रेवती",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112635
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विश्व धुम्रपानरहित दिवस",
+          "en": "World No Tobacco Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112747
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "अपरा एकादशी व्रत",
+          "en": "Apara Ekadashi Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "१९",
+            "en": "19"
+          },
+          "full": {
+            "np": "२०६५-२-१९",
+            "en": "2065-2-19"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "१",
+            "en": "1"
+          },
+          "full": {
+            "np": "२००८-६-१",
+            "en": "2008-6-1"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वादशी",
+        "en": null
+      },
+      "code": {
+        "np": "१२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मेष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अश्विनी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112468
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "वन उपभोक्ता दिवस",
+          "en": "Forest Users Group Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "२०",
+            "en": "20"
+          },
+          "full": {
+            "np": "२०६५-२-२०",
+            "en": "2065-2-20"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "२",
+            "en": "2"
+          },
+          "full": {
+            "np": "२००८-६-२",
+            "en": "2008-6-2"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "त्रयोदशी",
+        "en": null
+      },
+      "code": {
+        "np": "१३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मेष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "भरणी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 175634
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "सिथिचर्हे पूजा",
+          "en": "Sithi Chaah:re Puja"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "२१",
+            "en": "21"
+          },
+          "full": {
+            "np": "२०६५-२-२१",
+            "en": "2065-2-21"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "३",
+            "en": "3"
+          },
+          "full": {
+            "np": "२००८-६-३",
+            "en": "2008-6-3"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "औँशी",
+        "en": null
+      },
+      "code": {
+        "np": "३०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "कृत्तिका",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112513
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "शनि जयन्ती",
+          "en": "Shani Jayanti"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112746
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "वटसावित्री व्रत",
+          "en": "Watsabitri Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "२२",
+            "en": "22"
+          },
+          "full": {
+            "np": "२०६५-२-२२",
+            "en": "2065-2-22"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "४",
+            "en": "4"
+          },
+          "full": {
+            "np": "२००८-६-४",
+            "en": "2008-6-4"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "प्रतिपदा",
+        "en": null
+      },
+      "code": {
+        "np": "१",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "रोहिणी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112744
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "दशहरा स्नानारम्भ",
+          "en": "Dashahara Snanarambha"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112745
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गोसाइँकुण्ड स्नान आरम्भ",
+          "en": "Gosaikunda Snanarambha"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "२३",
+            "en": "23"
+          },
+          "full": {
+            "np": "२०६५-२-२३",
+            "en": "2065-2-23"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "५",
+            "en": "5"
+          },
+          "full": {
+            "np": "२००८-६-५",
+            "en": "2008-6-5"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वितीया",
+        "en": null
+      },
+      "code": {
+        "np": "२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मिथुन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मृगशिरा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112644
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विश्व वातावरण दिवस",
+          "en": "World Environment Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "२४",
+            "en": "24"
+          },
+          "full": {
+            "np": "२०६५-२-२४",
+            "en": "2065-2-24"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "६",
+            "en": "6"
+          },
+          "full": {
+            "np": "२००८-६-६",
+            "en": "2008-6-6"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "तृतीया",
+        "en": null
+      },
+      "code": {
+        "np": "३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मिथुन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पुनर्वसु",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "२५",
+            "en": "25"
+          },
+          "full": {
+            "np": "२०६५-२-२५",
+            "en": "2065-2-25"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "७",
+            "en": "7"
+          },
+          "full": {
+            "np": "२००८-६-७",
+            "en": "2008-6-7"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्थी",
+        "en": null
+      },
+      "code": {
+        "np": "४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कर्कट",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "तिष्य",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "२६",
+            "en": "26"
+          },
+          "full": {
+            "np": "२०६५-२-२६",
+            "en": "2065-2-26"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "८",
+            "en": "8"
+          },
+          "full": {
+            "np": "२००८-६-८",
+            "en": "2008-6-8"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पञ्चमी",
+        "en": null
+      },
+      "code": {
+        "np": "५",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कर्कट",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अश्लेषा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "२७",
+            "en": "27"
+          },
+          "full": {
+            "np": "२०६५-२-२७",
+            "en": "2065-2-27"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "९",
+            "en": "9"
+          },
+          "full": {
+            "np": "२००८-६-९",
+            "en": "2008-6-9"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "षष्ठी",
+        "en": null
+      },
+      "code": {
+        "np": "६",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मघा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112642
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "कुुमार षष्ठी",
+          "en": "Kumar Sasthi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112643
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "सिथी नख:",
+          "en": "Sithi Nakha"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112713
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "भ. पु चण्डीभगवती यात्रा",
+          "en": "Bha Pu Chandi Bhagawati Jaatraa"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "२८",
+            "en": "28"
+          },
+          "full": {
+            "np": "२०६५-२-२८",
+            "en": "2065-2-28"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "१०",
+            "en": "10"
+          },
+          "full": {
+            "np": "२००८-६-१०",
+            "en": "2008-6-10"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "सप्तमी",
+        "en": null
+      },
+      "code": {
+        "np": "७",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वफाल्गुनी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112502
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "कुमार यात्रा",
+          "en": "Kumar Yatra"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "२९",
+            "en": "29"
+          },
+          "full": {
+            "np": "२०६५-२-२९",
+            "en": "2065-2-29"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "११",
+            "en": "11"
+          },
+          "full": {
+            "np": "२००८-६-११",
+            "en": "2008-6-11"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "अष्टमी",
+        "en": null
+      },
+      "code": {
+        "np": "८",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तरफाल्गुनी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112586
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "वायु अष्टमी",
+          "en": "Wayu Astami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 218720
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "बुधाष्टमी व्रत",
+          "en": "Budhashtami Barta"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "३०",
+            "en": "30"
+          },
+          "full": {
+            "np": "२०६५-२-३०",
+            "en": "2065-2-30"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "१२",
+            "en": "12"
+          },
+          "full": {
+            "np": "२००८-६-१२",
+            "en": "2008-6-12"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "नवमी",
+        "en": null
+      },
+      "code": {
+        "np": "९",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कन्या",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "हस्त",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112630
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "बालश्रमविरुद्ध दिवस",
+          "en": "World Day Against Child Labour"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "३१",
+            "en": "31"
+          },
+          "full": {
+            "np": "२०६५-२-३१",
+            "en": "2065-2-31"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "१३",
+            "en": "13"
+          },
+          "full": {
+            "np": "२००८-६-१३",
+            "en": "2008-6-13"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "दशमी",
+        "en": null
+      },
+      "code": {
+        "np": "१०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कन्या",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "चित्रा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112520
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "रामेश्वर पूजा",
+          "en": "Rameshwor Puja"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112548
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गोसाइँकुण्ड स्नान समाप्ति",
+          "en": "Gosaikunda Snan Ends"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112556
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गंगा पूजा",
+          "en": "Ganga Puja"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112711
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गंगा दशहरा",
+          "en": "Ganga Dashahara Snan Mela"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112712
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "हत्यामोचन तिर्थ स्नान",
+          "en": "Hatyamochan Snan"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०६५",
+            "en": "2065"
+          },
+          "month": {
+            "np": "जेठ",
+            "code": {
+              "np": "२",
+              "en": "2"
+            },
+            "en": "Jeth"
+          },
+          "day": {
+            "np": "३२",
+            "en": "32"
+          },
+          "full": {
+            "np": "२०६५-२-३२",
+            "en": "2065-2-32"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२००८",
+            "en": "2008"
+          },
+          "month": {
+            "np": "जुन",
+            "code": {
+              "np": "६",
+              "en": "6"
+            },
+            "en": "June"
+          },
+          "day": {
+            "np": "१४",
+            "en": "14"
+          },
+          "full": {
+            "np": "२००८-६-१४",
+            "en": "2008-6-14"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९३०",
+          "en": "1930"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११२८",
+            "en": "1128"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "एकादशी",
+        "en": null
+      },
+      "code": {
+        "np": "११",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "ज्येष्ठ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "तुला",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "चित्रा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "ग्रीष्म",
+          "en": "Summer"
+        },
+        "code": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 2,
+      "title": {
+        "np": "ग्रीष्म",
+        "en": "Summer"
+      },
+      "codes": {
+        "np": "२",
+        "en": "2"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112708
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विश्व रक्तदाता दिवस",
+          "en": "World Blood Donor Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112709
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "तुलसी-बीज रोपण",
+          "en": "Tulasiko Bijaa  Ropne"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 112710
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "निर्जला एकादशी व्रत",
+          "en": "Smartako Nirjala Ekadashi Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  }
+]

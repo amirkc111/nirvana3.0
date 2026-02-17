@@ -1,0 +1,79 @@
+{
+    "name": "vedicjyotish",
+    "version": "1.0.4",
+    "private": true,
+    "homepage": "https://github.com/ptprashanttripathi/VedicJyotish",
+    "bugs": {
+        "url": "https://github.com/ptprashanttripathi/VedicJyotish/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ptprashanttripathi/VedicJyotish.git"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Pt. Prashant Tripathi",
+        "url": "https://github.com/ptprashanttripathi",
+        "githubUsername": "ptprashanttripathi"
+    },
+    "sideEffects": false,
+    "type": "module",
+    "main": "index.html",
+    "scripts": {
+        "build": "tsc -b && vite build",
+        "build:database": "python3 tools/generate_database.py",
+        "build:dev": "npm run build && npm run build:devtool",
+        "build:devtool": "python3 tools/gen_devtools_json.py",
+        "dev": "vite",
+        "format": "npm run format:prettier && npm run format:python",
+        "format:prettier": "prettier . --write",
+        "format:python": "isort . && black .",
+        "lint": "eslint . --fix",
+        "preview": "vite preview",
+        "start": "vite start",
+        "typecheck": "tsc --noEmit --incremental false"
+    },
+    "dependencies": {
+        "fixed-len-array": "latest",
+        "luxon": "latest",
+        "pako": "latest",
+        "sweph-wasm": "latest",
+        "wasp-lib": "latest"
+    },
+    "devDependencies": {
+        "@eslint/js": "latest",
+        "@tailwindcss/vite": "latest",
+        "@types/emscripten": "latest",
+        "@types/luxon": "latest",
+        "@types/pako": "latest",
+        "@types/react": "latest",
+        "@types/react-dom": "latest",
+        "@vitejs/plugin-react": "latest",
+        "eslint": "latest",
+        "eslint-config-prettier": "latest",
+        "eslint-plugin-react-hooks": "latest",
+        "eslint-plugin-react-refresh": "latest",
+        "eslint-plugin-simple-import-sort": "latest",
+        "eslint-plugin-unused-imports": "latest",
+        "globals": "latest",
+        "prettier": "latest",
+        "prettier-plugin-jsdoc": "latest",
+        "prettier-plugin-tailwindcss": "latest",
+        "react": "latest",
+        "react-dom": "latest",
+        "react-icons": "latest",
+        "tailwindcss": "latest",
+        "tw-animate-css": "latest",
+        "typescript": "latest",
+        "typescript-eslint": "latest",
+        "vite": "latest",
+        "vite-plugin-svgr": "latest",
+        "vite-tsconfig-paths": "latest"
+    },
+    "packageManager": "pnpm@10.15.1",
+    "engines": {
+        "node": ">=22",
+        "pnpm": ">=10"
+    },
+    "typeScriptVersion": "latest"
+}

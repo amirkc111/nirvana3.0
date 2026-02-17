@@ -1,0 +1,5732 @@
+[
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१",
+            "en": "1"
+          },
+          "full": {
+            "np": "२०७६-१०-१",
+            "en": "2076-10-1"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "१५"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-१५"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "15",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पञ्चमी ",
+        "en": null
+      },
+      "code": {
+        "np": "५",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१५ः१७",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वफाल्गुणी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107754
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "माघी पर्व",
+          "en": "Maghi Parwa(Tharu, Magar, chhantyaalaadiko parba)"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107755
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "ऊत्तरायनारम्भ",
+          "en": "Uttarayana Starts"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107756
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "देवघाटमा मकर स्नान",
+          "en": "Devghat Makar Snan"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107758
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "मकर संक्रान्ति",
+          "en": "Maghe Sankranti "
+        },
+        "isHoliday": true,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२",
+            "en": "2"
+          },
+          "full": {
+            "np": "२०७६-१०-२",
+            "en": "2076-10-2"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "१६"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-१६"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "16",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "षष्ठी",
+        "en": null
+      },
+      "code": {
+        "np": "६",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कन्या",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तरफाल्गुणी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 455706
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "राष्ट्रि्य भूकम्प सुरक्षा दिवस",
+          "en": "Earthquake Safety Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "३",
+            "en": "3"
+          },
+          "full": {
+            "np": "२०७६-१०-३",
+            "en": "2076-10-3"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "१७"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-१७"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "17",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "सप्तमी ",
+        "en": null
+      },
+      "code": {
+        "np": "७",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१७ः३४",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "चित्रा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "४",
+            "en": "4"
+          },
+          "full": {
+            "np": "२०७६-१०-४",
+            "en": "2076-10-4"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "१८"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-१८"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "18",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "अष्टमी ",
+        "en": null
+      },
+      "code": {
+        "np": "८",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "तुला",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "स्वाती",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "५",
+            "en": "5"
+          },
+          "full": {
+            "np": "२०७६-१०-५",
+            "en": "2076-10-5"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "१९"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-१९"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "19",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "दशमी",
+        "en": null
+      },
+      "code": {
+        "np": "१०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२०ः३२",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "विशाखा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "६",
+            "en": "6"
+          },
+          "full": {
+            "np": "२०७६-१०-६",
+            "en": "2076-10-6"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "२०"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-२०"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "20",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "एकादशी ",
+        "en": null
+      },
+      "code": {
+        "np": "११",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृश्चिक",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अनुराधा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "७",
+            "en": "7"
+          },
+          "full": {
+            "np": "२०७६-१०-७",
+            "en": "2076-10-7"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "२१"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-२१"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "21",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वादशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२५ः०१",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "ज्येष्ठा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "८",
+            "en": "8"
+          },
+          "full": {
+            "np": "२०७६-१०-८",
+            "en": "2076-10-8"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "२२"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-२२"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "22",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "त्रयोदशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "धनु",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मूल",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "९",
+            "en": "9"
+          },
+          "full": {
+            "np": "२०७६-१०-९",
+            "en": "2076-10-9"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "२३"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-२३"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "23",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्दशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "धनु",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वाषाढा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 106918
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "लैचह्रे पूजा",
+          "en": "Lai Cha:rhe Puja"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१०",
+            "en": "10"
+          },
+          "full": {
+            "np": "२०७६-१०-१०",
+            "en": "2076-10-10"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "२४"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-२४"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "24",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "औँशी ",
+        "en": null
+      },
+      "code": {
+        "np": "३०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "०७ः४२",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तराषाढा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107379
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "आर्यघाटमा माधवनारायण मेला",
+          "en": " Madhav Narayan Mela in Pashupatinath Aaryaghaat"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": "आर्यघाटमा माधवनारायण मेला /// माधव नारायण महोत्सव",
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "११",
+            "en": "11"
+          },
+          "full": {
+            "np": "२०७६-१०-११",
+            "en": "2076-10-11"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "२५"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-२५"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "25",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "प्रतिपदा ",
+        "en": null
+      },
+      "code": {
+        "np": "१",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मकर",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "श्रवण",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107397
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "बल्लब जयन्ति",
+          "en": "Shree Ballav Jayanti"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107478
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "सोनाम ल्होसार",
+          "en": "Sonam (Tamang) Lhosar"
+        },
+        "isHoliday": true,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": "सोनाम ल्होसार",
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१२",
+            "en": "12"
+          },
+          "full": {
+            "np": "२०७६-१०-१२",
+            "en": "2076-10-12"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "२६"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-२६"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "26",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वितीया ",
+        "en": null
+      },
+      "code": {
+        "np": "२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१६ः५२",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "धनिष्ठा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१३",
+            "en": "13"
+          },
+          "full": {
+            "np": "२०७६-१०-१३",
+            "en": "2076-10-13"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "२७"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-२७"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "27",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "तृतीया ",
+        "en": null
+      },
+      "code": {
+        "np": "३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कुम्भ",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "शतभिषा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१४",
+            "en": "14"
+          },
+          "full": {
+            "np": "२०७६-१०-१४",
+            "en": "2076-10-14"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "२८"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-२८"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "28",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्थी ",
+        "en": null
+      },
+      "code": {
+        "np": "४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२८ः०३",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "शतभिषा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107675
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "तिलकुण्ड चतुर्थी",
+          "en": "Tilkunda Chaturthi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 212951
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "मंगल-चतुर्थी व्रत",
+          "en": "Mangal Chauthi Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१५",
+            "en": "15"
+          },
+          "full": {
+            "np": "२०७६-१०-१५",
+            "en": "2076-10-15"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "२९"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-२९"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "29",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्थी ",
+        "en": null
+      },
+      "code": {
+        "np": "४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मीन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वभाद्र",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 457485
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "नेपाल नर्सिङ दिवस",
+          "en": "Nepal Nursing Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": "नेपाल नर्सिङ दिवस",
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१६",
+            "en": "16"
+          },
+          "full": {
+            "np": "२०७६-१०-१६",
+            "en": "2076-10-16"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "३० "
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-३० "
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "30",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पञ्चमी ",
+        "en": null
+      },
+      "code": {
+        "np": "५",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मीन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तरभाद्र",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107672
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "माघयात्रा सिपुन्ही",
+          "en": "Magh Yatra - Sipunhi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 65,
+        "category": {
+          "name": "anniversary",
+          "id": 7826236
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "शहीद दिवस",
+          "en": "Martyrs' Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१७",
+            "en": "17"
+          },
+          "full": {
+            "np": "२०७६-१०-१७",
+            "en": "2076-10-17"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "1",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "जनवरी "
+          },
+          "day": {
+            "np": "January",
+            "en": "३१"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-January",
+            "en": "6-2020-३१"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "31",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "षष्ठी",
+        "en": null
+      },
+      "code": {
+        "np": "६",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१५ः५१",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "रेवती",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 106867
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "चम्पा षष्ठी",
+          "en": "Champa Sasthi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107398
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "स्कन्द षष्ठी",
+          "en": "Skanda Sasthi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१८",
+            "en": "18"
+          },
+          "full": {
+            "np": "२०७६-१०-१८",
+            "en": "2076-10-18"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "2",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "फेब्रुवरी"
+          },
+          "day": {
+            "np": "February",
+            "en": "१"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-February",
+            "en": "6-2020-१"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "1",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "सप्तमी ",
+        "en": null
+      },
+      "code": {
+        "np": "७",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मेष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अश्विनी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107669
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "अचला सप्तमी",
+          "en": "Aachala Saptami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "१९",
+            "en": "19"
+          },
+          "full": {
+            "np": "२०७६-१०-१९",
+            "en": "2076-10-19"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "2",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "फेब्रुवरी"
+          },
+          "day": {
+            "np": "February",
+            "en": "२"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-February",
+            "en": "6-2020-२"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "2",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "अष्टमी ",
+        "en": null
+      },
+      "code": {
+        "np": "८",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२६ः३१",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "भरणी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107510
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विश्व सिमसार दिवस",
+          "en": "World Wetlands Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107668
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "भिष्माष्टमी व्रत",
+          "en": "Bhismastami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२०",
+            "en": "20"
+          },
+          "full": {
+            "np": "२०७६-१०-२०",
+            "en": "2076-10-20"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "2",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "फेब्रुवरी"
+          },
+          "day": {
+            "np": "February",
+            "en": "३"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-February",
+            "en": "6-2020-३"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "3",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "नवमी",
+        "en": null
+      },
+      "code": {
+        "np": "९",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "कृत्तिका",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107432
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "द्रोण नवमी",
+          "en": "Drona Nawami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२१",
+            "en": "21"
+          },
+          "full": {
+            "np": "२०७६-१०-२१",
+            "en": "2076-10-21"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "2",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "फेब्रुवरी"
+          },
+          "day": {
+            "np": "February",
+            "en": "४"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-February",
+            "en": "6-2020-४"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "4",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "दशमी",
+        "en": null
+      },
+      "code": {
+        "np": "१०",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "रोहिणी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107508
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विश्व क्यान्सर दिवस",
+          "en": "World Cancer Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107667
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "शल्य दशमी",
+          "en": "Salya Dashami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२२",
+            "en": "22"
+          },
+          "full": {
+            "np": "२०७६-१०-२२",
+            "en": "2076-10-22"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "2",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "फेब्रुवरी"
+          },
+          "day": {
+            "np": "February",
+            "en": "५"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-February",
+            "en": "6-2020-५"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "5",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "एकादशी ",
+        "en": null
+      },
+      "code": {
+        "np": "११",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१०ः५५",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मृगशिरा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107666
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "भिमा एकादशी व्रत",
+          "en": "Bhima Ekadashi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": "भीमा एकादशी | जया एकादशी व्रत",
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२३",
+            "en": "23"
+          },
+          "full": {
+            "np": "२०७६-१०-२३",
+            "en": "2076-10-23"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "2",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "फेब्रुवरी"
+          },
+          "day": {
+            "np": "February",
+            "en": "६"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-February",
+            "en": "6-2020-६"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "6",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वादशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मिथुन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "आर्द्रा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107399
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "वटुमाघयात्रा",
+          "en": "Magh Yatra in Watu(Kantipur)  (Snayaduli)"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107665
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "भिष्म द्वादशी",
+          "en": "Bhishma Dwadashi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२४",
+            "en": "24"
+          },
+          "full": {
+            "np": "२०७६-१०-२४",
+            "en": "2076-10-24"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "2",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "फेब्रुवरी"
+          },
+          "day": {
+            "np": "February",
+            "en": "७"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-February",
+            "en": "6-2020-७"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "7",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "त्रयोदशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१६ः५२",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पुनर्वसु",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२५",
+            "en": "25"
+          },
+          "full": {
+            "np": "२०७६-१०-२५",
+            "en": "2076-10-25"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "2",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "फेब्रुवरी"
+          },
+          "day": {
+            "np": "February",
+            "en": "८"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-February",
+            "en": "6-2020-८"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "8",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्दशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१४",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कर्कट",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "तिष्य",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107357
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "पशुुपतीनाथ छायाँ दर्शन",
+          "en": "Pashupathinath Chhaya Darsan"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२६",
+            "en": "26"
+          },
+          "full": {
+            "np": "२०७६-१०-२६",
+            "en": "2076-10-26"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "2",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "फेब्रुवरी"
+          },
+          "day": {
+            "np": "February",
+            "en": "९"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-February",
+            "en": "6-2020-९"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "9",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पूर्णिमा ",
+        "en": null
+      },
+      "code": {
+        "np": "१५",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "माघ शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२०ः४८",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अश्लेषा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107663
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "माघ स्नान समाप्ति",
+          "en": "Magh Snan Ends"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 107664
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "श्री स्वस्थानी व्रत समाप्त",
+          "en": "Shree Swasthani Brat Ends"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": "श्री स्वस्थानी व्रत- समापन",
+          "np": null
+        }
+      },
+      {
+        "id": 6034,
+        "category": {
+          "name": "others",
+          "id": 460696
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "पुर्णिमा व्रत",
+          "en": "Purnima Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२७",
+            "en": "27"
+          },
+          "full": {
+            "np": "२०७६-१०-२७",
+            "en": "2076-10-27"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "2",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "फेब्रुवरी"
+          },
+          "day": {
+            "np": "February",
+            "en": "१०"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-February",
+            "en": "6-2020-१०"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "10",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "प्रतिपदा ",
+        "en": null
+      },
+      "code": {
+        "np": "१",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मघा",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२८",
+            "en": "28"
+          },
+          "full": {
+            "np": "२०७६-१०-२८",
+            "en": "2076-10-28"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "2",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "फेब्रुवरी"
+          },
+          "day": {
+            "np": "February",
+            "en": "११"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-February",
+            "en": "6-2020-११"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "11",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वितीया ",
+        "en": null
+      },
+      "code": {
+        "np": "२",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२३ः२७",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वफाल्गुणी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०७६",
+            "en": "2076"
+          },
+          "month": {
+            "np": "माघ",
+            "code": {
+              "np": "१०",
+              "en": "10"
+            },
+            "en": "Magh"
+          },
+          "day": {
+            "np": "२९",
+            "en": "29"
+          },
+          "full": {
+            "np": "२०७६-१०-२९",
+            "en": "2076-10-29"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "ad_years.6",
+            "en": "2020"
+          },
+          "month": {
+            "np": "2",
+            "code": {
+              "np": "numbers.2020",
+              "en": "2020"
+            },
+            "en": "फेब्रुवरी"
+          },
+          "day": {
+            "np": "February",
+            "en": "१२"
+          },
+          "full": {
+            "np": "ad_years.6-numbers.2020-February",
+            "en": "6-2020-१२"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "12",
+          "en": "१९४१"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "1941",
+            "en": "११४०"
+          },
+          "month": {
+            "np": null,
+            "code": {
+              "np": null,
+              "en": null
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "तृतीया ",
+        "en": null
+      },
+      "code": {
+        "np": "३",
+        "en": null
+      },
+      "endTime": {
+        "np": null,
+        "en": null
+      },
+      "display": {
+        "np": " बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "फाल्गुन कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कन्या",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": null,
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तरफाल्गुणी",
+        "endTime": {
+          "np": null,
+          "en": null
+        },
+        "ghaPa": {
+          "np": null,
+          "en": null
+        }
+      },
+      "yog": {
+        "np": null,
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "उत्तरायण",
+          "en": "शिशिर"
+        },
+        "code": {
+          "np": "numbers.Winter",
+          "en": "Winter"
+        }
+      },
+      "times": {
+        "sunrise": null,
+        "sunset": null,
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": null,
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": []
+    },
+    "eventDetails": []
+  }
+]

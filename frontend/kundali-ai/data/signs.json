@@ -1,0 +1,246 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "en": "Aries",
+      "ne": "मेष"
+    },
+    "lord": "Mars",
+    "element": "Fire",
+    "quality": "Movable",
+    "interpretation": {
+      "general": {
+        "en": "Energetic, assertive, pioneering.",
+        "ne": "ऊर्जाशील, आक्रामक, अग्रणी।"
+      },
+      "career": {
+        "en": "Leadership, military, entrepreneurship.",
+        "ne": "नेतृत्व, सैन्य, उद्यमिता।"
+      },
+      "health": {
+        "en": "Head-related issues; need exercise.",
+        "ne": "मुखसम्बन्धी समस्या; व्यायाम आवश्यक।"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": {
+      "en": "Taurus",
+      "ne": "वृषभ"
+    },
+    "lord": "Venus",
+    "element": "Earth",
+    "quality": "Fixed",
+    "interpretation": {
+      "general": {
+        "en": "Stable, sensual, material comfort seeking.",
+        "ne": "स्थिर, इन्द्रिय-रमणीय, भौतिक आराम खोज्ने।"
+      },
+      "career": {
+        "en": "Finance, arts, agriculture.",
+        "ne": "वित्त, कला, कृषि।"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": {
+      "en": "Gemini",
+      "ne": "मिथुन"
+    },
+    "lord": "Mercury",
+    "element": "Air",
+    "quality": "Dual",
+    "interpretation": {
+      "general": {
+        "en": "Curious, communicative, adaptable.",
+        "ne": "जिज्ञासु, संवादक, अनुकूलनीय।"
+      },
+      "career": {
+        "en": "Media, writing, trade.",
+        "ne": "मिडिया, लेखन, व्यापार।"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": {
+      "en": "Cancer",
+      "ne": "कर्कट"
+    },
+    "lord": "Moon",
+    "element": "Water",
+    "quality": "Movable",
+    "interpretation": {
+      "general": {
+        "en": "Nurturing, emotional, home-loving.",
+        "ne": "पालक, भावनात्मक, घरप्रेमी।"
+      },
+      "career": {
+        "en": "Real estate, food, nursing.",
+        "ne": "सम्पत्ति, खाना, नर्सिङ।"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": {
+      "en": "Leo",
+      "ne": "सिंह"
+    },
+    "lord": "Sun",
+    "element": "Fire",
+    "quality": "Fixed",
+    "interpretation": {
+      "general": {
+        "en": "Proud, creative, leadership-oriented.",
+        "ne": "गौरवशाली, रचनात्मक, नेतृत्व-उन्मुख।"
+      },
+      "career": {
+        "en": "Entertainment, politics, management.",
+        "ne": "मनोरञ्जन, राजनीति, व्यवस्थापन।"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": {
+      "en": "Virgo",
+      "ne": "कन्या"
+    },
+    "lord": "Mercury",
+    "element": "Earth",
+    "quality": "Dual",
+    "interpretation": {
+      "general": {
+        "en": "Analytical, service-oriented, precise.",
+        "ne": "विश्लेषणात्मक, सेवा-उन्मुख, सूक्ष्म।"
+      },
+      "career": {
+        "en": "Healthcare, editing, analytics.",
+        "ne": "स्वास्थ्य, सम्पादन, विश्लेषण।"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": {
+      "en": "Libra",
+      "ne": "तुला"
+    },
+    "lord": "Venus",
+    "element": "Air",
+    "quality": "Movable",
+    "interpretation": {
+      "general": {
+        "en": "Diplomatic, relationship-focused, aesthetic.",
+        "ne": "कूटनीतिक, सम्बन्ध-केन्द्रित, सौन्दर्यवादी।"
+      },
+      "career": {
+        "en": "Law, design, diplomacy.",
+        "ne": "कानून, डिजाइन, कूटनीति।"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": {
+      "en": "Scorpio",
+      "ne": "वृश्चिक"
+    },
+    "lord": "Mars",
+    "element": "Water",
+    "quality": "Fixed",
+    "interpretation": {
+      "general": {
+        "en": "Intense, secretive, transformative.",
+        "ne": "गहिरो, गोप्य, रूपान्तरणशील।"
+      },
+      "career": {
+        "en": "Research, surgery, investigation.",
+        "ne": "अनुसन्धान, शल्यक्रिया, अन्वेषण।"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": {
+      "en": "Sagittarius",
+      "ne": "धनु"
+    },
+    "lord": "Jupiter",
+    "element": "Fire",
+    "quality": "Dual",
+    "interpretation": {
+      "general": {
+        "en": "Philosophical, optimistic, freedom-loving.",
+        "ne": "दार्शनिक, आशावादी, स्वतन्त्रता-प्रिय।"
+      },
+      "career": {
+        "en": "Education, travel, publishing.",
+        "ne": "शिक्षा, यात्रा, प्रकाशन।"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": {
+      "en": "Capricorn",
+      "ne": "मकर"
+    },
+    "lord": "Saturn",
+    "element": "Earth",
+    "quality": "Movable",
+    "interpretation": {
+      "general": {
+        "en": "Ambitious, disciplined, practical.",
+        "ne": "महत्त्वाकांक्षी, अनुशासित, व्यवहारिक।"
+      },
+      "career": {
+        "en": "Management, engineering, administration.",
+        "ne": "व्यवस्थापन, इन्जिनियरिङ, प्रशासन।"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": {
+      "en": "Aquarius",
+      "ne": "कुम्भ"
+    },
+    "lord": "Saturn",
+    "element": "Air",
+    "quality": "Fixed",
+    "interpretation": {
+      "general": {
+        "en": "Innovative, humanitarian, social.",
+        "ne": "नवीन, मानवीय, सामाजिक।"
+      },
+      "career": {
+        "en": "Technology, NGOs, activism.",
+        "ne": "प्रविधि, एनजीओ, सक्रियता।"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": {
+      "en": "Pisces",
+      "ne": "मीन"
+    },
+    "lord": "Jupiter",
+    "element": "Water",
+    "quality": "Dual",
+    "interpretation": {
+      "general": {
+        "en": "Compassionate, dreamy, spiritual.",
+        "ne": "करुणामय, स्वप्निल, आध्यात्मिक।"
+      },
+      "career": {
+        "en": "Healing, arts, spiritual work.",
+        "ne": "उपचार, कला, आध्यात्मिकता।"
+      }
+    }
+  }
+]

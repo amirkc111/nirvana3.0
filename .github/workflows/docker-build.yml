@@ -41,12 +41,3 @@ jobs:
           tags: ${{ secrets.DOCKER_HUB_USERNAME }}/nirvana-backend:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
-
-      - name: Build and push Backend CV
-        uses: docker/build-push-action@v4
-        with:
-          context: ./backend-cv
-          push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/nirvana-cv:latest
-          cache-from: type=gha
-          cache-to: type=gha,mode=max

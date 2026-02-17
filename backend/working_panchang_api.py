@@ -11,9 +11,20 @@ from datetime import datetime, date, timedelta, timezone
 import math
 from skyfield.api import load
 from typing import Tuple
+import os
+import base64
+import numpy as np
+import cv2
+import uuid
+from vision_engine import ThreeLayerEngine
+from palm_engine import PalmEngine
 
 app = Flask(__name__)
 CORS(app)
+
+# Initialize CV Engines
+kundli_engine = ThreeLayerEngine()
+palm_engine = PalmEngine()
 
 # -------------------------
 #  NEPAL SAMBAT CALCULATOR
@@ -451,6 +462,60 @@ def get_karana_name(index):
     else:
         return SANSKRIT_NAMES['karanas'].get(index - 58 + 9)
 
+
+@app.route('/analyze', methods=['POST'])
+def analyze():
+    try:
+        data = request.json
+        if not data or 'image' not in data:
+            return jsonify({"error": "No image data provided"}), 400
+            
+        img_str = data['image']
+        if ',' in img_str:
+            img_str = img_str.split(',')[1]
+            
+        nparr = np.frombuffer(base64.b64decode(img_str), np.uint8)
+        temp_path = f"temp_cv_{uuid.uuid4()}.png"
+        img = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
+        cv2.imwrite(temp_path, img)
+        
+        result = kundli_engine.analyze_image(temp_path)
+        
+        if os.path.exists(temp_path):
+            os.remove(temp_path)
+            
+        return jsonify({"horoscope_data": result})
+        
+    except Exception as e:
+        return jsonify({"valid": False, "errors": [str(e)]}), 500
+
+@app.route('/analyze-palm', methods=['POST'])
+def analyze_palm():
+    temp_path = None
+    try:
+        data = request.json
+        if not data or 'image' not in data:
+            return jsonify({"error": "No image provided"}), 400
+        
+        image_data = data['image'].split(',')[1] if ',' in data['image'] else data['image']
+        img_bytes = base64.b64decode(image_data)
+        
+        filename = f"temp_palm_{uuid.uuid4()}.png"
+        temp_path = os.path.join(os.getcwd(), filename)
+        with open(temp_path, "wb") as f:
+            f.write(img_bytes)
+            
+        result = palm_engine.analyze_image(temp_path)
+        
+        if temp_path and os.path.exists(temp_path):
+            os.remove(temp_path)
+            
+        return jsonify({"horoscope_data": result})
+        
+    except Exception as e:
+        if temp_path and os.path.exists(temp_path):
+            os.remove(temp_path)
+        return jsonify({"valid": False, "reason": str(e)}), 500
 
 @app.route('/', methods=['GET'])
 def index():

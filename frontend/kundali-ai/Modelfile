@@ -1,0 +1,8 @@
+FROM llama3.1:70b
+PARAM temperature 0.7
+PARAM top_p 0.9
+
+TEMPLATE """
+{{system}}
+User: {{prompt}}
+Assistant:"""

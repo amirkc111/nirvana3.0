@@ -1,0 +1,225 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+    background-color:#E4E4E4;
+    background-image:linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+    background-image:-webkit-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+    background-image:-ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+    background-image:-webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        color-stop(0, #A7A7A7),
+        color-stop(0.51, #E4E4E4)
+    );
+    background-attachment:fixed;
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size:12px;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    text-transform:uppercase;
+    width:100%;
+}
+
+/* Portrait layout (default) */
+.app {
+    background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
+    position:absolute;             /* position in the center of the screen */
+    left:50%;
+    top:50%;
+    height:50px;                   /* text area height */
+    width:225px;                   /* text area width */
+    text-align:center;
+    padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
+    margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
+                                   /* offset horizontal: half of text area width */
+}
+
+/* Landscape layout (with min-width) */
+@media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
+    .app {
+        background-position:left center;
+        padding:75px 0px 75px 170px;  /* padding-top + padding-bottom + text area = image height */
+        margin:-90px 0px 0px -198px;  /* offset vertical: half of image height */
+                                      /* offset horizontal: half of image width and text area width */
+    }
+}
+
+h1 {
+    font-size:24px;
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+}
+
+.event {
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    color:#FFFFFF;
+    font-size:12px;
+    margin:0px 30px;
+    padding:2px 0px;
+}
+
+.event.listening {
+    background-color:#333333;
+    display:block;
+}
+
+.event.received {
+    background-color:#4B946A;
+    display:none;
+}
+
+@keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+@-webkit-keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+.blink {
+    animation:fade 3000ms infinite;
+    -webkit-animation:fade 3000ms infinite;
+}
+
+/* --- Astro Neon Theme Additions --- */
+body, .astro-neon-form {
+  background: #0a0a23 !important;
+  color: #e0e0ff;
+}
+
+.astro-neon-form {
+  max-width: 520px;
+  margin: 40px auto 0 auto;
+  padding: 2.5em 2em 2em 2em;
+  border-radius: 1.5em;
+  box-shadow: 0 0 32px 8px #7f00ff55, 0 0 0 4px #00ffe7cc;
+  border: 2px solid #7f00ff;
+  background: linear-gradient(135deg, #0a0a23 80%, #1a0033 100%);
+  position: relative;
+  z-index: 1;
+}
+
+.astro-title {
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+  font-size: 2.1em;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1.2em;
+  letter-spacing: 0.04em;
+  color: #00ffe7;
+  text-shadow: 0 0 8px #7f00ff, 0 0 16px #00ffe7, 0 0 2px #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+}
+
+.cosmos-emoji {
+  font-size: 1.3em;
+  filter: drop-shadow(0 0 6px #fff7) drop-shadow(0 0 12px #7f00ff77);
+}
+
+.astro-neon-form table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 0.7em;
+  background: transparent;
+}
+
+.astro-neon-form td {
+  padding: 0.4em 0.2em;
+  border: none;
+  color: #e0e0ff;
+  font-size: 1.08em;
+}
+
+.astro-neon-form input,
+.astro-neon-form select,
+.astro-neon-form textarea {
+  background: #18183a;
+  color: #00ffe7;
+  border: 1.5px solid #7f00ff;
+  border-radius: 0.5em;
+  padding: 0.5em 0.7em;
+  font-size: 1em;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+  box-shadow: 0 0 8px #7f00ff55, 0 0 2px #00ffe7cc;
+  outline: none;
+  transition: border 0.2s, box-shadow 0.2s;
+}
+.astro-neon-form input:focus,
+.astro-neon-form select:focus,
+.astro-neon-form textarea:focus {
+  border: 2px solid #00ffe7;
+  box-shadow: 0 0 16px #00ffe7cc, 0 0 4px #7f00ff99;
+}
+
+.astro-neon-form input[type="submit"],
+.astro-neon-form input[type="button"] {
+  background: linear-gradient(90deg, #7f00ff 0%, #00ffe7 100%);
+  color: #0a0a23;
+  font-weight: bold;
+  border: none;
+  border-radius: 0.7em;
+  box-shadow: 0 0 16px #00ffe7cc, 0 0 8px #7f00ff99;
+  padding: 0.7em 2em;
+  font-size: 1.1em;
+  margin-top: 1em;
+  cursor: pointer;
+  text-shadow: 0 0 2px #fff, 0 0 8px #00ffe7;
+  transition: background 0.2s, color 0.2s;
+}
+.astro-neon-form input[type="submit"]:hover,
+.astro-neon-form input[type="button"]:hover {
+  background: linear-gradient(90deg, #00ffe7 0%, #7f00ff 100%);
+  color: #fff;
+}
+
+.astro-neon-form small {
+  color: #b388ff;
+}
+
+.astro-neon-form textarea {
+  min-height: 3em;
+  width: 90%;
+  resize: vertical;
+}
+
+/* Hide old inline background colors */
+body[style], .astro-neon-form input, .astro-neon-form select {
+  background-color: unset !important;
+}

@@ -1,0 +1,577 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "en": "Ashwini",
+      "ne": "अश्विनी"
+    },
+    "lord": "Ketu",
+    "symbol": {
+      "en": "Horse head",
+      "ne": "घोडाको टाउको"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Swift, healing, pioneering.",
+        "ne": "छिटो, उपचारात्मक, अग्रगामी।"
+      },
+      "personality": {
+        "en": "Energetic initiators.",
+        "ne": "ऊर्जाशील प्रारम्भकर्ताहरू।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Ashwini Devaya Namah",
+      "gemstone": "Gomed (if applicable)"
+    }
+  },
+  {
+    "id": 2,
+    "name": {
+      "en": "Bharani",
+      "ne": "भरणी"
+    },
+    "lord": "Venus",
+    "symbol": {
+      "en": "Yoni",
+      "ne": "योनी"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Creative, transformational, strong will.",
+        "ne": "रचनात्मक, परिवर्तनशील, दृढ इच्छा।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Bharani Namah",
+      "gemstone": "Diamond (careful)"
+    }
+  },
+  {
+    "id": 3,
+    "name": {
+      "en": "Krittika",
+      "ne": "कृत्तिका"
+    },
+    "lord": "Sun",
+    "symbol": {
+      "en": "Knife/Flame",
+      "ne": "चक्कु/आग"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Sharp, courageous, purification.",
+        "ne": "तीक्ष्ण, साहसी, शुद्धिकरण।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Krittikaya Namah",
+      "gemstone": "Ruby"
+    }
+  },
+  {
+    "id": 4,
+    "name": {
+      "en": "Rohini",
+      "ne": "रोहिणी"
+    },
+    "lord": "Moon",
+    "symbol": {
+      "en": "Cart",
+      "ne": "ठेला"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Fertile, creative, sensual.",
+        "ne": "उर्वर, सिर्जनात्मक, इन्द्रियवादी।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Rohine Namah",
+      "gemstone": "Pearl"
+    }
+  },
+  {
+    "id": 5,
+    "name": {
+      "en": "Mrigashira",
+      "ne": "मृगशीर्ष"
+    },
+    "lord": "Mars",
+    "symbol": {
+      "en": "Deer's head",
+      "ne": "हिरनको टाउको"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Searching, restless, curious.",
+        "ne": "खोजी, बेचैन, जिज्ञासु।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Mrigashirasaya Namah"
+    }
+  },
+  {
+    "id": 6,
+    "name": {
+      "en": "Ardra",
+      "ne": "आर्द्रा"
+    },
+    "lord": "Rahu",
+    "symbol": {
+      "en": "Tear",
+      "ne": "अश्रु"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Emotional, intense, cleansing.",
+        "ne": "भावनात्मक, गहिरो, शोधन।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Ardra Namah"
+    }
+  },
+  {
+    "id": 7,
+    "name": {
+      "en": "Punarvasu",
+      "ne": "पुनर्वसु"
+    },
+    "lord": "Jupiter",
+    "symbol": {
+      "en": "Quiver",
+      "ne": "धनुषको भाग"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Restorative, returning luck.",
+        "ne": "पुनर्स्थापना, फर्कने भाग्य।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Punarvasu Namah"
+    }
+  },
+  {
+    "id": 8,
+    "name": {
+      "en": "Pushya",
+      "ne": "पुष्य"
+    },
+    "lord": "Saturn",
+    "symbol": {
+      "en": "Cow's udder",
+      "ne": "गाईको स्तन"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Nourishing, auspicious, supportive.",
+        "ne": "पोषक, शुभ, समर्थक।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Pushnaya Namah"
+    }
+  },
+  {
+    "id": 9,
+    "name": {
+      "en": "Ashlesha",
+      "ne": "अश्लेषा"
+    },
+    "lord": "Mercury",
+    "symbol": {
+      "en": "Serpent",
+      "ne": "सर्प"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Cunning, secretive, penetrating.",
+        "ne": "चतुर, गुप्त, प्रवेशशील।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Ashlesha Namah"
+    }
+  },
+  {
+    "id": 10,
+    "name": {
+      "en": "Magha",
+      "ne": "मघा"
+    },
+    "lord": "Ketu",
+    "symbol": {
+      "en": "Throne",
+      "ne": "सीस"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Regal, ancestral, leadership.",
+        "ne": "शाही, पूर्वजो, नेतृत्व।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Magha Namah"
+    }
+  },
+  {
+    "id": 11,
+    "name": {
+      "en": "Purva Phalguni",
+      "ne": "पूर्व फाल्गुनी"
+    },
+    "lord": "Venus",
+    "symbol": {
+      "en": "Hammock",
+      "ne": "ह्यामक"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Pleasure, creativity, relationships.",
+        "ne": "सुख, सिर्जना, सम्बन्ध।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Purvaphalguni Namah"
+    }
+  },
+  {
+    "id": 12,
+    "name": {
+      "en": "Uttara Phalguni",
+      "ne": "उत्तर फाल्गुनी"
+    },
+    "lord": "Sun",
+    "symbol": {
+      "en": "Bed",
+      "ne": "ओछ्यान"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Helpful, contractual, service-oriented.",
+        "ne": "सहायक, सम्झौता, सेवा-उन्मुख।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Uttaraphalguni Namah"
+    }
+  },
+  {
+    "id": 13,
+    "name": {
+      "en": "Hasta",
+      "ne": "हस्त"
+    },
+    "lord": "Moon",
+    "symbol": {
+      "en": "Hand",
+      "ne": "हात"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Skillful, practical, handy.",
+        "ne": "दक्ष, व्यावहारिक, प्रयोगशील।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Hastaya Namah"
+    }
+  },
+  {
+    "id": 14,
+    "name": {
+      "en": "Chitra",
+      "ne": "चित्रा"
+    },
+    "lord": "Mars",
+    "symbol": {
+      "en": "Shining jewel",
+      "ne": "दीप्त जवाहर"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Artistic, brilliant, attention-grabbing.",
+        "ne": "कलात्मक, प्रतिभाशाली, ध्यानाकर्षक।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Chitra Namah"
+    }
+  },
+  {
+    "id": 15,
+    "name": {
+      "en": "Swati",
+      "ne": "स्वाति"
+    },
+    "lord": "Rahu",
+    "symbol": {
+      "en": "Coral/Independence",
+      "ne": "मोतिका टुक्रा/स्वतन्त्रता"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Independent, adaptable, commerce-friendly.",
+        "ne": "स्वतन्त्र, अनुकूलनी, व्यापार मैत्री।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Swati Namah"
+    }
+  },
+  {
+    "id": 16,
+    "name": {
+      "en": "Vishakha",
+      "ne": "विशाखा"
+    },
+    "lord": "Jupiter",
+    "symbol": {
+      "en": "Archway",
+      "ne": "आर्कवे"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Goal-oriented, ambitious, collaborative.",
+        "ne": "लक्ष्य-केन्द्रित, महत्वाकांक्षी, सहकार्यशील।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Vishakha Namah"
+    }
+  },
+  {
+    "id": 17,
+    "name": {
+      "en": "Anuradha",
+      "ne": "अनुराधा"
+    },
+    "lord": "Saturn",
+    "symbol": {
+      "en": "Lotus",
+      "ne": "कमल"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Devoted, faithful, networking strength.",
+        "ne": "भक्तिपूर्ण, विश्वासी, नेटवर्किङ शक्ति।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Anuradha Namah"
+    }
+  },
+  {
+    "id": 18,
+    "name": {
+      "en": "Jyeshtha",
+      "ne": "ज्येष्ठ"
+    },
+    "lord": "Mercury",
+    "symbol": {
+      "en": "Earring",
+      "ne": "कर्णफूल"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Senior, protective, authoritative.",
+        "ne": "वरिष्ठ, संरक्षक, प्राधिकरण।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Jyeshtha Namah"
+    }
+  },
+  {
+    "id": 19,
+    "name": {
+      "en": "Mula",
+      "ne": "मूल"
+    },
+    "lord": "Ketu",
+    "symbol": {
+      "en": "Roots",
+      "ne": "जरा"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Root-seeking, destructive then regenerative.",
+        "ne": "मूल खोजी, विनाशकारी तर पुनर्जागरण।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Mula Namah"
+    }
+  },
+  {
+    "id": 20,
+    "name": {
+      "en": "Purva Ashadha",
+      "ne": "पूर्वाषाढ़ा"
+    },
+    "lord": "Venus",
+    "symbol": {
+      "en": "Fan",
+      "ne": "पंखा"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Victorious, pioneering, dynamic.",
+        "ne": "विजयी, अग्रगामी, गतिशील।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Purvaashadha Namah"
+    }
+  },
+  {
+    "id": 21,
+    "name": {
+      "en": "Uttara Ashadha",
+      "ne": "उत्तराषाढ़ा"
+    },
+    "lord": "Sun",
+    "symbol": {
+      "en": "Elephant tusk",
+      "ne": "हात्तीको दाँत"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Steady, enduring, righteous.",
+        "ne": "स्थिर, दिर्घकालीन, धर्मपरायण।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Uttaraashadha Namah"
+    }
+  },
+  {
+    "id": 22,
+    "name": {
+      "en": "Shravana",
+      "ne": "श्रवण"
+    },
+    "lord": "Moon",
+    "symbol": {
+      "en": "Ear",
+      "ne": "कान"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Learning, listening, scholarship.",
+        "ne": "शिक्षा, सुनाइ, विद्वता।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Shravanaya Namah"
+    }
+  },
+  {
+    "id": 23,
+    "name": {
+      "en": "Dhanishta",
+      "ne": "धनिष्ठा"
+    },
+    "lord": "Mars",
+    "symbol": {
+      "en": "Drum",
+      "ne": "ढोल"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Rhythmic, prosperous, team-oriented.",
+        "ne": "तालबद्ध, समृद्ध, टोली-उन्मुख।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Dhanishtha Namah"
+    }
+  },
+  {
+    "id": 24,
+    "name": {
+      "en": "Shatabhisha",
+      "ne": "शतभिषा"
+    },
+    "lord": "Rahu",
+    "symbol": {
+      "en": "Hundred Physicians",
+      "ne": "सय चिकित्सक"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Healing, research, secrecy.",
+        "ne": "उपचार, अनुसन्धान, गोप्यता।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Shatabhisha Namah"
+    }
+  },
+  {
+    "id": 25,
+    "name": {
+      "en": "Purva Bhadrapada",
+      "ne": "पूर्व भाद्रपदा"
+    },
+    "lord": "Jupiter",
+    "symbol": {
+      "en": "Sword",
+      "ne": "तरवार"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Mystical, transformative, visionary.",
+        "ne": "रहस्यमय, रूपान्तरणशील, दूरदर्शी।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Purvabhadrapada Namah"
+    }
+  },
+  {
+    "id": 26,
+    "name": {
+      "en": "Uttara Bhadrapada",
+      "ne": "उत्तर भाद्रपदा"
+    },
+    "lord": "Saturn",
+    "symbol": {
+      "en": "Twin",
+      "ne": "जुड़वा"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Deep, stable, wise.",
+        "ne": "गहिरो, स्थिर, बुद्धिमान।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Uttarabhadrapada Namah"
+    }
+  },
+  {
+    "id": 27,
+    "name": {
+      "en": "Revati",
+      "ne": "रेवती"
+    },
+    "lord": "Mercury",
+    "symbol": {
+      "en": "Fish",
+      "ne": "माछा"
+    },
+    "interpretation": {
+      "general": {
+        "en": "Gentle, guiding, nourishing.",
+        "ne": "नम्र, मार्गदर्शक, पोषक।"
+      }
+    },
+    "remedies": {
+      "mantra": "Om Revati Namah"
+    }
+  }
+]

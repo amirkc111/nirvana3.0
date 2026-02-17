@@ -1,0 +1,8965 @@
+[
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "१",
+            "en": "1"
+          },
+          "full": {
+            "np": "२०८१-५-१",
+            "en": "2081-5-1"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "१७",
+            "en": "17"
+          },
+          "full": {
+            "np": "२०२४-८-१७",
+            "en": "2024-8-17"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलाथ्व",
+            "code": {
+              "np": "२०",
+              "en": "20"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "त्रयोदशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१३",
+        "en": null
+      },
+      "endTime": {
+        "np": "२७:५६:००",
+        "en": null
+      },
+      "display": {
+        "np": "२७:५६:०० बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": " श्रावण शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१६:१०",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वाषाढा",
+        "endTime": {
+          "np": "१०:१५",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "११:३९",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "प्रीति ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "कौलव",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः३६",
+        "sunset": "१८ः३८",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "05:37-07:14"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "07:21-08:13"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "08:52-10:30"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:41-12:33"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "19:36-21:06"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "13:45-15:23"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "15:22-16:59"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126283
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "भाद्र संक्रान्ति",
+          "en": "Bhadra Sankranti"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 379006
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "कीर्तिपुरमा बाघभैरव यात्रा",
+          "en": "Kirtipur Baagbhairab Jaatra"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 63,
+        "category": {
+          "name": "others",
+          "id": 7085156
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "शनि प्रदोष व्रत",
+          "en": "Shani Pradosh Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 67,
+        "category": {
+          "name": "others",
+          "id": 7910745
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "वल्केपर्व",
+          "en": null
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 67,
+        "category": {
+          "name": "others",
+          "id": 7910747
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "श्री कृष्ण रथ यात्रा",
+          "en": "Shree Krishna Raath Yatra"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 67,
+        "category": {
+          "name": "others",
+          "id": 7910749
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "राधा कृष्ण रथ यात्रा",
+          "en": "Radha Krishna Rath Yatra"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "२",
+            "en": "2"
+          },
+          "full": {
+            "np": "२०८१-५-२",
+            "en": "2081-5-2"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "१८",
+            "en": "18"
+          },
+          "full": {
+            "np": "२०२४-८-१८",
+            "en": "2024-8-18"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलाथ्व",
+            "code": {
+              "np": "२०",
+              "en": "20"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्दशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१४",
+        "en": null
+      },
+      "endTime": {
+        "np": "२६:२४:००",
+        "en": null
+      },
+      "display": {
+        "np": "२६:२४:०० बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": " श्रावण शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मकर",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तराषाढा",
+        "endTime": {
+          "np": "०९:४६",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "१०:२४",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "आयुष्यमान् ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "गर",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः३६",
+        "sunset": "१८ः३७",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "15:22-16:59"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "16:53-17:45"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "16:59-18:38"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:41-12:33"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "14:10-15:38"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "12:07-13:45"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "10:30-12:07"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 7829914
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "प्रतिपदा श्राद्ध",
+          "en": "Shraddha Start - Pratiprada Shraddha"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "३",
+            "en": "3"
+          },
+          "full": {
+            "np": "२०८१-५-३",
+            "en": "2081-5-3"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "१९",
+            "en": "19"
+          },
+          "full": {
+            "np": "२०२४-८-१९",
+            "en": "2024-8-19"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलाथ्व",
+            "code": {
+              "np": "२०",
+              "en": "20"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पूर्णिमा ",
+        "en": null
+      },
+      "code": {
+        "np": "१५",
+        "en": null
+      },
+      "endTime": {
+        "np": "२४:३२:००",
+        "en": null
+      },
+      "display": {
+        "np": "२४:३२:०० बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": " श्रावण शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२०:२०",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "श्रवण",
+        "endTime": {
+          "np": "०८:५४",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "८:१२",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "साैभाग्य",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "भद्रा",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः३७",
+        "sunset": "१८ः३६",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "13:44-15:22"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "12:33-13:25"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "15:09-16:01"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "07:15-08:52"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:41-12:33"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "12:01-13:28"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "10:30-12:07"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "05:38-07:15"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126144
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "श्रि शिव-पवित्र रोपण",
+          "en": "Shree Shivashya Pabitraropan"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126259
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "जनै पुर्णिमा",
+          "en": "Rishitarpani (Janai Purnima)"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126262
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "हयग्रीवोत्पत्ति",
+          "en": "Hayagriwotpatti:"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 6034,
+        "category": {
+          "name": "others",
+          "id": 461253
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "पुर्णिमा व्रत",
+          "en": "Purnima Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 7868900
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "रक्षा बन्धन",
+          "en": "Raksha Bandhan"
+        },
+        "isHoliday": true,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "४",
+            "en": "4"
+          },
+          "full": {
+            "np": "२०८१-५-४",
+            "en": "2081-5-4"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "२०",
+            "en": "20"
+          },
+          "full": {
+            "np": "२०२४-८-२०",
+            "en": "2024-8-20"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "प्रतिपदा ",
+        "en": null
+      },
+      "code": {
+        "np": "१",
+        "en": null
+      },
+      "endTime": {
+        "np": "२२:२५",
+        "en": null
+      },
+      "display": {
+        "np": "२२:२५ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कुम्भ",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "धनिष्ठा",
+        "endTime": {
+          "np": "०७:४३",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "५:१४",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "अतिगण्ड",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": " बालव",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः३७",
+        "sunset": "१८ः३५",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "12:07-13:44"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "08:14-09:05"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "23:01-23:52"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "15:20-16:58"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:41-12:33"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "12:25-13:51"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "08:52-10:30"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "12:06-13:43"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 231,
+        "category": {
+          "name": "Festival",
+          "id": 1
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गाईजात्रा ",
+          "en": ""
+        },
+        "isHoliday": true,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "५",
+            "en": "5"
+          },
+          "full": {
+            "np": "२०८१-५-५",
+            "en": "2081-5-5"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "२१",
+            "en": "21"
+          },
+          "full": {
+            "np": "२०२४-८-२१",
+            "en": "2024-8-21"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वितीया ",
+        "en": null
+      },
+      "code": {
+        "np": "२",
+        "en": null
+      },
+      "endTime": {
+        "np": "२०:०६",
+        "en": null
+      },
+      "display": {
+        "np": "२०:०६ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२३:०७",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "शतभिषा",
+        "endTime": {
+          "np": "०६:१८/२८:४३",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "०१:४०-५७:४२",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "सुकर्मा ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "तैतिल",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः३८",
+        "sunset": "१८ः३४",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 3,
+          "title": {
+            "np": "मुण्डन",
+            "en": "Mundan"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 4,
+          "title": {
+            "np": "अन्नप्रासन / भातख्वाई",
+            "en": "Weaning Ceremony"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "10:30-12:07"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "11:41-12:32"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "12:07-13:44"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:41-12:32"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "09:06-10:31"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "07:16-08:53"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "07:16-08:53"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126008
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "रोपाइँ जात्रा (दथुसायमतया)",
+          "en": "Ropai Jatra"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "६",
+            "en": "6"
+          },
+          "full": {
+            "np": "२०८१-५-६",
+            "en": "2081-5-6"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "२२",
+            "en": "22"
+          },
+          "full": {
+            "np": "२०२४-८-२२",
+            "en": "2024-8-22"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "तृतीया ",
+        "en": null
+      },
+      "code": {
+        "np": "३",
+        "en": null
+      },
+      "endTime": {
+        "np": "१७:४०",
+        "en": null
+      },
+      "display": {
+        "np": "१७:४० बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मीन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तरभाद्र",
+        "endTime": {
+          "np": "२७:०३",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "५३:३१:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "धृति ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "वणिज",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः३८",
+        "sunset": "१८ः३३",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "08:53-10:29"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "09:57-10:49"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "15:07-15:59"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "13:43-15:20"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:40-12:32"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "09:23-10:49"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "05:39-07:16"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "13:43-15:19"
+        }
+      ]
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "७",
+            "en": "7"
+          },
+          "full": {
+            "np": "२०८१-५-७",
+            "en": "2081-5-7"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "२३",
+            "en": "23"
+          },
+          "full": {
+            "np": "२०२४-८-२३",
+            "en": "2024-8-23"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्थी ",
+        "en": null
+      },
+      "code": {
+        "np": "४",
+        "en": null
+      },
+      "endTime": {
+        "np": "१५:१२",
+        "en": null
+      },
+      "display": {
+        "np": "१५:१२ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२५:२३:००",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "रेवती",
+        "endTime": {
+          "np": "२५:२३",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "४९:२१:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "शूल ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "कौलव",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः३९",
+        "sunset": "१८ः३२",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "07:16-08:53"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "08:14-09:06"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "12:32-13:23"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "10:29-12:06"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:40-12:32"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "09:11-01:39"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "15:18-16:55"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "08:53-10:29"
+        }
+      ]
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "८",
+            "en": "8"
+          },
+          "full": {
+            "np": "२०८१-५-८",
+            "en": "2081-5-8"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "२४",
+            "en": "24"
+          },
+          "full": {
+            "np": "२०२४-८-२४",
+            "en": "2024-8-24"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पञ्चमी ",
+        "en": null
+      },
+      "code": {
+        "np": "५",
+        "en": null
+      },
+      "endTime": {
+        "np": "१२:४८",
+        "en": null
+      },
+      "display": {
+        "np": "१२:४८ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मेष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अश्विनी",
+        "endTime": {
+          "np": "२३:४९",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "४५:२४:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "गण्ड ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "गर",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः३९",
+        "sunset": "१८ः३१",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 5,
+          "title": {
+            "np": "ब्यापार शुभारम्भ",
+            "en": "Starting Business"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "05:40-07:16"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "07:23-08:14"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "08:53-10:29"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:40-12:31"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "14:36-16:05"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "13:42-15:19"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "15:18-16:54"
+        }
+      ]
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "९",
+            "en": "9"
+          },
+          "full": {
+            "np": "२०८१-५-९",
+            "en": "2081-5-9"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "२५",
+            "en": "25"
+          },
+          "full": {
+            "np": "२०२४-८-२५",
+            "en": "2024-8-25"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "षष्ठी",
+        "en": null
+      },
+      "code": {
+        "np": "६",
+        "en": null
+      },
+      "endTime": {
+        "np": "१०:३१",
+        "en": null
+      },
+      "display": {
+        "np": "१०:३१ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२८:०६:००",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "भरणी",
+        "endTime": {
+          "np": "२२:२५",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "४१:५३:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "वृद्धि ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "भद्रा",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४०",
+        "sunset": "१८ः३०",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "15:18-16:54"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "16:48-17:39"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "16:54-18:31"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:40-12:31"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "28:30-30:03"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "12:05-13:42"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "10:29-12:05"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 125951
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "राष्ट्रिय धर्मसभा दिवस",
+          "en": "Rastriya Dharma Sabha Diwas"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 125958
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "चन्द्र षष्ठी व्रत",
+          "en": "Chandra Sasthi Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "१०",
+            "en": "10"
+          },
+          "full": {
+            "np": "२०८१-५-१०",
+            "en": "2081-5-10"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "२६",
+            "en": "26"
+          },
+          "full": {
+            "np": "२०२४-८-२६",
+            "en": "2024-8-26"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "सप्तमी ",
+        "en": null
+      },
+      "code": {
+        "np": "७",
+        "en": null
+      },
+      "endTime": {
+        "np": "८:२७",
+        "en": null
+      },
+      "display": {
+        "np": "८:२७ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "कृत्तिका",
+        "endTime": {
+          "np": "२१:१६",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "३८:४९:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "ध्रुव ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": " बालव",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४०",
+        "sunset": "१८ः२९",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "13:41-15:17"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "12:31-13:22"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "15:05-15:56"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "07:17-08:53"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:40-12:31"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": null
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "10:29-12:05"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "05:42-07:17"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 7829915
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "मोह रात्री",
+          "en": "Moha Ratri"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 7829916
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "दुर्वा अष्टमी व्रत",
+          "en": "Durwa Astami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 7829917
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "श्रिकृष्ण जन्माष्टमी व्रत",
+          "en": "Shree Krishna Janmasthami Brata (Moharatri)"
+        },
+        "isHoliday": true,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 7830017
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गौरापर्व",
+          "en": "Gaura Parwa (Related Field only)"
+        },
+        "isHoliday": true,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "११",
+            "en": "11"
+          },
+          "full": {
+            "np": "२०८१-५-११",
+            "en": "2081-5-11"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "२७",
+            "en": "27"
+          },
+          "full": {
+            "np": "२०२४-८-२७",
+            "en": "2024-8-27"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "अष्टमी ",
+        "en": null
+      },
+      "code": {
+        "np": "८",
+        "en": null
+      },
+      "endTime": {
+        "np": "०६:४०-२९:१४",
+        "en": null
+      },
+      "display": {
+        "np": "०६:४०-२९:१४ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृष",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "रोहिणी",
+        "endTime": {
+          "np": "२०:२५",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "३६:५२:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "हर्षण ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "तैतिल",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४१",
+        "sunset": "१८ः२८",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "12:05-13:41"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "08:15-09:06"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "22:58-23:49"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "15:17-16:53"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:39-12:30"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "07:54-09:29"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "08:53-10:29"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "12:05-13:40"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 190139
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गुगा नवमी",
+          "en": "Guga Nawami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "१२",
+            "en": "12"
+          },
+          "full": {
+            "np": "२०८१-५-१२",
+            "en": "2081-5-12"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "२८",
+            "en": "28"
+          },
+          "full": {
+            "np": "२०२४-८-२८",
+            "en": "2024-8-28"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "दशमी",
+        "en": null
+      },
+      "code": {
+        "np": "१०",
+        "en": null
+      },
+      "endTime": {
+        "np": "२८:१२:००",
+        "en": null
+      },
+      "display": {
+        "np": "२८:१२:०० बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "८:०९",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मृगशिरा",
+        "endTime": {
+          "np": "१९:५८",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "३५:४३:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "वज्र ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "वणिज",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४१",
+        "sunset": "१८ः२७",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 3,
+          "title": {
+            "np": "मुण्डन",
+            "en": "Mundan"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "10:29-12:05"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "11:39-12:30"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "12:05-13:40"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:39-12:30"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "24:44-26:23"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "07:18-08:53"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "07:18-08:53"
+        }
+      ]
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "१३",
+            "en": "13"
+          },
+          "full": {
+            "np": "२०८१-५-१३",
+            "en": "2081-5-13"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "२९",
+            "en": "29"
+          },
+          "full": {
+            "np": "२०२४-८-२९",
+            "en": "2024-8-29"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "एकादशी ",
+        "en": null
+      },
+      "code": {
+        "np": "११",
+        "en": null
+      },
+      "endTime": {
+        "np": "२७:३८:००",
+        "en": null
+      },
+      "display": {
+        "np": "२७:३८:०० बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मिथुन",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "आर्द्रा",
+        "endTime": {
+          "np": "१९:५७",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "३५:३९:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "सिद्धि ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "बव ",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४२",
+        "sunset": "१८ः२५",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "08:53-10:29"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "09:57-10:48"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "15:03-15:53"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "13:40-15:15"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:39-12:30"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "20:28-31:09"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "05:42-07:18"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "13:39-15:14"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 233,
+        "category": {
+          "name": "Other",
+          "id": 5
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "अजा एकादशी व्रत",
+          "en": ""
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "१४",
+            "en": "14"
+          },
+          "full": {
+            "np": "२०८१-५-१४",
+            "en": "2081-5-14"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "३० ",
+            "en": "30"
+          },
+          "full": {
+            "np": "२०२४-८-३० ",
+            "en": "2024-8-30"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वादशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१२",
+        "en": null
+      },
+      "endTime": {
+        "np": "२७:३३:००",
+        "en": null
+      },
+      "display": {
+        "np": "२७:३३:०० बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१४:१५",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पुनर्वसु",
+        "endTime": {
+          "np": "२०:२५",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "३६:४८:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "व्यतिपात ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "कौलव",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४२",
+        "sunset": "१८ः२४",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 3,
+          "title": {
+            "np": "मुण्डन",
+            "en": "Mundan"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "07:18-08:53"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "08:15-09:06"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "12:29-13:20"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "10:29-12:04"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:39-12:29"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "26:41-18:42"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "15:15-16:50"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "08:54-10:29"
+        }
+      ]
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "१५",
+            "en": "15"
+          },
+          "full": {
+            "np": "२०८१-५-१५",
+            "en": "2081-5-15"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "अगस्त",
+            "code": {
+              "np": "८",
+              "en": "8"
+            },
+            "en": "August"
+          },
+          "day": {
+            "np": "३१",
+            "en": "31"
+          },
+          "full": {
+            "np": "२०२४-८-३१",
+            "en": "2024-8-31"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "त्रयोदशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१३",
+        "en": null
+      },
+      "endTime": {
+        "np": "२८:००:००",
+        "en": null
+      },
+      "display": {
+        "np": "२८:००:०० बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कर्कट",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "तिष्य",
+        "endTime": {
+          "np": "२१ः२३",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "३९:११:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "वरीयान ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "गर",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४३",
+        "sunset": "१८ः२३",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 5,
+          "title": {
+            "np": "ब्यापार शुभारम्भ",
+            "en": "Starting Business"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "05:43-07:18"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "07:25-08:15"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "08:53-10:29"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:38-12:29"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": null
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "13:39-15:14"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "15:13-16:48"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 63,
+        "category": {
+          "name": "others",
+          "id": 7085157
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "शनि प्रदोष व्रत",
+          "en": "Shani Pradosh Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "१६",
+            "en": "16"
+          },
+          "full": {
+            "np": "२०८१-५-१६",
+            "en": "2081-5-16"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "१",
+            "en": "1"
+          },
+          "full": {
+            "np": "२०२४-९-१",
+            "en": "2024-9-1"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्दशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१४",
+        "en": null
+      },
+      "endTime": {
+        "np": "२८:५७:००",
+        "en": null
+      },
+      "display": {
+        "np": "२८:५७:०० बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२२:५०",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अश्लेषा",
+        "endTime": {
+          "np": "२२ः५०",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "४२:४८:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "परिघ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "भद्रा",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४३",
+        "sunset": "१८ः२२",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "15:13-16:48"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "16:42-17:32"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "16:48-18:23"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:38-12:29"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "09:47-11:32"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "12:03-13:38"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "10:28-12:03"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 7831316
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "जुगा चर्हे पूजा",
+          "en": "Juga Chhare Puja"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "१७",
+            "en": "17"
+          },
+          "full": {
+            "np": "२०८१-५-१७",
+            "en": "2081-5-17"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "२",
+            "en": "2"
+          },
+          "full": {
+            "np": "२०२४-९-२",
+            "en": "2024-9-2"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "औँशी ",
+        "en": null
+      },
+      "code": {
+        "np": "३०",
+        "en": null
+      },
+      "endTime": {
+        "np": "अहोरात्र",
+        "en": null
+      },
+      "display": {
+        "np": "अहोरात्र बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मघा",
+        "endTime": {
+          "np": "२४:४४",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "४७:३३:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "शिव ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "चतुष्पद",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४३",
+        "sunset": "१८ः२१",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "13:38-15:12"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "12:28-13:19"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "14:59-15:50"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "07:19-08:54"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:38-12:28"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "11:16-13:02"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "10:28-12:03"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "05:45-07:19"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126045
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "बुबाको मुख हेर्ने दिवस",
+          "en": "Kushe Aushi / Father's Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126252
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "हलो बार्ने",
+          "en": "Halo Barne"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126253
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "निशि बार्ने",
+          "en": "Nishi Barne "
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126254
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "मोतिराम जयन्ती",
+          "en": "Motiram Jayanti"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 231463
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "सोमबारे औंसी",
+          "en": "Sombare Ausi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "१८",
+            "en": "18"
+          },
+          "full": {
+            "np": "२०८१-५-१८",
+            "en": "2081-5-18"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "३",
+            "en": "3"
+          },
+          "full": {
+            "np": "२०२४-९-३",
+            "en": "2024-9-3"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "गुंलागा",
+            "code": {
+              "np": "२१",
+              "en": "21"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "औँशी ",
+        "en": null
+      },
+      "code": {
+        "np": "३०",
+        "en": null
+      },
+      "endTime": {
+        "np": "६:२०",
+        "en": null
+      },
+      "display": {
+        "np": "६:२० बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र कृष्णपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "सिंह",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वफाल्गुनी",
+        "endTime": {
+          "np": "२७:०१",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "५३:१२:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "सिद्ध",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "किंस्तुघ्न",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४४",
+        "sunset": "१८ः२०",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "12:03-13:37"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "08:16-09:06"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "22:54-23:45"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "15:12-16:46"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:37-12:28"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "09:29-11:16"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "08:54-10:28"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "12:02-13:37"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 63,
+        "category": {
+          "name": "others",
+          "id": 7829919
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "स्नानदान औँशी",
+          "en": "Snandan Garne Ausi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "१९",
+            "en": "19"
+          },
+          "full": {
+            "np": "२०८१-५-१९",
+            "en": "2081-5-19"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "४",
+            "en": "4"
+          },
+          "full": {
+            "np": "२०२४-९-४",
+            "en": "2024-9-4"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "प्रतिपदा ",
+        "en": null
+      },
+      "code": {
+        "np": "१",
+        "en": null
+      },
+      "endTime": {
+        "np": "०८:०५",
+        "en": null
+      },
+      "display": {
+        "np": "०८:०५ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "९:३८",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तरफाल्गुनी",
+        "endTime": {
+          "np": "२९:३२",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "५९:३०:००",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "साध्य",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": " बालव",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४४",
+        "sunset": "१८ः१९",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 4,
+          "title": {
+            "np": "अन्नप्रासन / भातख्वाई",
+            "en": "Weaning Ceremony"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 5,
+          "title": {
+            "np": "ब्यापार शुभारम्भ",
+            "en": "Starting Business"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "10:28-12:02"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "11:37-12:28"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "12:02-13:37"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:37-12:27"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "11:30-13:18"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "07:19-08:54"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "07:20-08:54"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126251
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गुँला पर्व समाप्ती",
+          "en": "Gunlla Parwa Ends"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "२०",
+            "en": "20"
+          },
+          "full": {
+            "np": "२०८१-५-२०",
+            "en": "2081-5-20"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "५",
+            "en": "5"
+          },
+          "full": {
+            "np": "२०२४-९-५",
+            "en": "2024-9-5"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वितीया ",
+        "en": null
+      },
+      "code": {
+        "np": "२",
+        "en": null
+      },
+      "endTime": {
+        "np": "१०:०४",
+        "en": null
+      },
+      "display": {
+        "np": "१०:०४ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कन्या",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "हस्त",
+        "endTime": {
+          "np": "अहोरात्र",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "अहोरात्र",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "शुभ ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "तैतिल",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४५",
+        "sunset": "१८ः१८",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 3,
+          "title": {
+            "np": "मुण्डन",
+            "en": "Mundan"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "08:54-1-:28"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "09:57-10:47"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "14:58-15:48"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "13:65-15:10"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:37-12:27"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "15:59-17:47"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "05:46-07:20"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "13:35-15:09"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 237,
+        "category": {
+          "name": "Festival",
+          "id": 1
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "दर खाने दिन ",
+          "en": ""
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "२१",
+            "en": "21"
+          },
+          "full": {
+            "np": "२०८१-५-२१",
+            "en": "2081-5-21"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "६",
+            "en": "6"
+          },
+          "full": {
+            "np": "२०२४-९-६",
+            "en": "2024-9-6"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "तृतीया ",
+        "en": null
+      },
+      "code": {
+        "np": "३",
+        "en": null
+      },
+      "endTime": {
+        "np": "१२:०८",
+        "en": null
+      },
+      "display": {
+        "np": "१२:०८ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२१:२७",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "हस्त",
+        "endTime": {
+          "np": "०८:०९",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "०६:०१",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "शुक्ल",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "वणिज",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४५",
+        "sunset": "१८ः१७",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 4,
+          "title": {
+            "np": "अन्नप्रासन / भातख्वाई",
+            "en": "Weaning Ceremony"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "07:20-08:54"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "08:16-09:06"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "12:27-13:17"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "10:28-12:02"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:37-12:27"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "18:43-20:32"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "15:10-16:42"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "08:54-10:28"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126081
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "बराह जयन्ति",
+          "en": "Baraha Jayanti"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126249
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "हरितालिका तिज व्रत (महिला मात्र)",
+          "en": "Haritalika Teej Brata (Women only)"
+        },
+        "isHoliday": true,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 7830976
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "चन्द्रदर्शन दोष",
+          "en": "Chandradarsan, Dosh:Chatha"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "२२",
+            "en": "22"
+          },
+          "full": {
+            "np": "२०८१-५-२२",
+            "en": "2081-5-22"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "७",
+            "en": "7"
+          },
+          "full": {
+            "np": "२०२४-९-७",
+            "en": "2024-9-7"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "चतुर्थी ",
+        "en": null
+      },
+      "code": {
+        "np": "४",
+        "en": null
+      },
+      "endTime": {
+        "np": "१४:०५",
+        "en": null
+      },
+      "display": {
+        "np": "१४:०५ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "अहोरात्र",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "चित्रा",
+        "endTime": {
+          "np": "१०:४२",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "१२:२१",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "ब्रह्म",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "बव ",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४६",
+        "sunset": "१८ः१५",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "05:47-07:20"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "07:27-08:17"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "08:54-10:28"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:36-12:26"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "19:07-20:55"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "13:35-15:09"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "15:08-16:41"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126108
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "निजामती सेवा दिवस (कर्मचारी मात्र)",
+          "en": "Civil Service Day (Civil Employees Only)"
+        },
+        "isHoliday": true,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126248
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गणेश चतुर्थी व्रत",
+          "en": "Ganesh Chaturthi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "२३",
+            "en": "23"
+          },
+          "full": {
+            "np": "२०८१-५-२३",
+            "en": "2081-5-23"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "८",
+            "en": "8"
+          },
+          "full": {
+            "np": "२०२४-९-८",
+            "en": "2024-9-8"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "पञ्चमी ",
+        "en": null
+      },
+      "code": {
+        "np": "५",
+        "en": null
+      },
+      "endTime": {
+        "np": "१५:४७",
+        "en": null
+      },
+      "display": {
+        "np": "१५:४७ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "अहोरात्र",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "स्वाती",
+        "endTime": {
+          "np": "१३:०१",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "१८:०७",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "ऐन्द्र",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "कौलव",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४६",
+        "sunset": "१८ः१४",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "15:08-16:42"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "16:35-17:25"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "16:42-18:15"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:36-12:26"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "21:59-23:46"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "12:01-13:35"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "10:27-12:01"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 113124
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विश्व शिक्षा तथा साक्षरता दिवस",
+          "en": "World Literacy Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 125992
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "कोखाजविय",
+          "en": "Kokhaja Biye"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126246
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "ऋिषी पन्चमी (महिला मात्र)",
+          "en": "Rishi Panchami (Saptarishi Puja)"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126247
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "सप्त ऋषी पूजा",
+          "en": "Sapta Rishi Puja"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 620,
+        "category": {
+          "name": "others",
+          "id": 493097
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विरूडा पञ्चमी",
+          "en": "Biruda Panchami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 493098
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "विरुडा पञ्चमी",
+          "en": "Biruda Panchami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "२४",
+            "en": "24"
+          },
+          "full": {
+            "np": "२०८१-५-२४",
+            "en": "2081-5-24"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "९",
+            "en": "9"
+          },
+          "full": {
+            "np": "२०२४-९-९",
+            "en": "2024-9-9"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "षष्ठी",
+        "en": null
+      },
+      "code": {
+        "np": "६",
+        "en": null
+      },
+      "endTime": {
+        "np": "१७:०६",
+        "en": null
+      },
+      "display": {
+        "np": "१७:०६ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "८:३१",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "विशाखा",
+        "endTime": {
+          "np": "१४:५८",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "२२:४९",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "वैधृति",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "गर",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४७",
+        "sunset": "१८ः१३",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "13:34-15:07"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "12:25-13:15"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "14:54-15:45"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "07:21-08:54"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:36-12:25"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "20:41-24:25"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "10:27-12:01"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "05:48-07;21"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126079
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "सूर्य षष्ठी व्रत",
+          "en": "Surya Sasthi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "२५",
+            "en": "25"
+          },
+          "full": {
+            "np": "२०८१-५-२५",
+            "en": "2081-5-25"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "१०",
+            "en": "10"
+          },
+          "full": {
+            "np": "२०२४-९-१०",
+            "en": "2024-9-10"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "मंगलवार",
+          "en": "Tuesday"
+        },
+        "codes": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "सप्तमी ",
+        "en": null
+      },
+      "code": {
+        "np": "७",
+        "en": null
+      },
+      "endTime": {
+        "np": "१७:५८",
+        "en": null
+      },
+      "display": {
+        "np": "१७:५८ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "वृश्चिक",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "अनुराधा",
+        "endTime": {
+          "np": "१६:२९",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "२६:४६",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "विष्कुम्भ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "भद्रा",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४७",
+        "sunset": "१८ः१२",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "12:00-13:33"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "08:17-09:07"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "22:51-23:40"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "15:07-16:40"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:35-12:25"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "26:16-27:58"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "08:54-10:27"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "11:59-13:33"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 493105
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "गौर सप्तमी व्रत",
+          "en": "Gaura Saptami Brata"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 493106
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "अमुक्त भरण सप्तमी",
+          "en": "Amukta Bharan Saptami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 7829923
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "महालक्ष्मि व्रतारम्भ",
+          "en": "Mahalaxmi Brat Starts"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "२६",
+            "en": "26"
+          },
+          "full": {
+            "np": "२०८१-५-२६",
+            "en": "2081-5-26"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "११",
+            "en": "11"
+          },
+          "full": {
+            "np": "२०२४-९-११",
+            "en": "2024-9-11"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बुधवार",
+          "en": "Wednesday"
+        },
+        "codes": {
+          "np": "४",
+          "en": "4"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "अष्टमी ",
+        "en": null
+      },
+      "code": {
+        "np": "८",
+        "en": null
+      },
+      "endTime": {
+        "np": "१८:१९",
+        "en": null
+      },
+      "display": {
+        "np": "१८:१९ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "१७:३१",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "ज्येष्ठा",
+        "endTime": {
+          "np": "१७:३१",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "२९:१९",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "प्रीति ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "भद्रा",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४८",
+        "sunset": "१८ः११",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 3,
+          "title": {
+            "np": "मुण्डन",
+            "en": "Mundan"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "10:27-11:59"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "11:35-12:25"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "11:59-13:33"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:35-12:25"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": null
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "07:21-08:54"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "07:22-08:54"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126244
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "काया अष्टमी",
+          "en": "Kaya:Astami"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "others",
+          "id": 231474
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "बुधाष्टमी व्रत",
+          "en": "Budhashtami Barta"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "२७",
+            "en": "27"
+          },
+          "full": {
+            "np": "२०८१-५-२७",
+            "en": "2081-5-27"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "१२",
+            "en": "12"
+          },
+          "full": {
+            "np": "२०२४-९-१२",
+            "en": "2024-9-12"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "बिहिवार",
+          "en": "Thursday"
+        },
+        "codes": {
+          "np": "५",
+          "en": "5"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "नवमी",
+        "en": null
+      },
+      "code": {
+        "np": "९",
+        "en": null
+      },
+      "endTime": {
+        "np": "१८:१०",
+        "en": null
+      },
+      "display": {
+        "np": "१८:१० बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "धनु",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "मूल",
+        "endTime": {
+          "np": "१८:०३",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "३०:३८",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "आयुष्यमान् ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": " बालव",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४८",
+        "sunset": "१८ः१०",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "08:54-10:27"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "09:56-10:45"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "14:53-15:42"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "13:32-15:05"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:35-12:24"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "20:30-22:07"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "05:49-07:22"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "13:32-15:04"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126030
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "हिले जात्रा",
+          "en": "Hile Jatra"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126243
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "अदु:ख नवमी",
+          "en": "Adukha Nawami Brat"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "२८",
+            "en": "28"
+          },
+          "full": {
+            "np": "२०८१-५-२८",
+            "en": "2081-5-28"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "१३",
+            "en": "13"
+          },
+          "full": {
+            "np": "२०२४-९-१३",
+            "en": "2024-9-13"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शुक्रवार",
+          "en": "Friday"
+        },
+        "codes": {
+          "np": "६",
+          "en": "6"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "दशमी",
+        "en": null
+      },
+      "code": {
+        "np": "१०",
+        "en": null
+      },
+      "endTime": {
+        "np": "१७:३१",
+        "en": null
+      },
+      "display": {
+        "np": "१७:३१ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२४:०२:००",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "पूर्वाषाढा",
+        "endTime": {
+          "np": "१७:४२",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "३०:४४",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "सौभाग्य ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "तैतिल",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४८",
+        "sunset": "१८ः०९",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "07:22-08:54"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "08:17-09:07"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "12:24-13:13"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "10:27-11:59"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:35-12:24"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "07:42-09:17"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "15:04-16:36"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "08:54-10:27"
+        }
+      ]
+    },
+    "eventDetails": []
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "२९",
+            "en": "29"
+          },
+          "full": {
+            "np": "२०८१-५-२९",
+            "en": "2081-5-29"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "१४",
+            "en": "14"
+          },
+          "full": {
+            "np": "२०२४-९-१४",
+            "en": "2024-9-14"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "शनिवार",
+          "en": "Saturday"
+        },
+        "codes": {
+          "np": "७",
+          "en": "7"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "एकादशी ",
+        "en": null
+      },
+      "code": {
+        "np": "११",
+        "en": null
+      },
+      "endTime": {
+        "np": "१६:२६",
+        "en": null
+      },
+      "display": {
+        "np": "१६:२६ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "मकर",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "उत्तराषाढा",
+        "endTime": {
+          "np": "१६:४२",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "२९:४३",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "शोभन ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "वणिज",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४९",
+        "sunset": "१८ः०७",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "05:50-07:22"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "07:28-08:17"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "08:54-10:27"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:34-12:23"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "24:32-26:02"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "13:31-15:04"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "15:03-16:35"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126138
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "राष्ट्रि्य बाल दिवस",
+          "en": "Childrens' Day"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126242
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "हरिपर्वर्तनि एकादशी व्रत",
+          "en": "Hari Pariwartani Ekadashi Barta"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "३० ",
+            "en": "30"
+          },
+          "full": {
+            "np": "२०८१-५-३० ",
+            "en": "2081-5-30"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "१५",
+            "en": "15"
+          },
+          "full": {
+            "np": "२०२४-९-१५",
+            "en": "2024-9-15"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "आइतवार",
+          "en": "Sunday"
+        },
+        "codes": {
+          "np": "१",
+          "en": "1"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "द्वादशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१२",
+        "en": null
+      },
+      "endTime": {
+        "np": "१४:५६",
+        "en": null
+      },
+      "display": {
+        "np": "१४:५६ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "२८:२३:००",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "श्रवण",
+        "endTime": {
+          "np": "१६:५५",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "२७:४३",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "अतिगण्ड",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "कौलव",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः४९",
+        "sunset": "१८ः०६",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "15:03-16:35"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "16:29-17:18"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": null
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "16:35-18:07"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:34-12:23"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "22:43-24:10"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "11:59-13:31"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "10:26-11:58"
+        }
+      ]
+    },
+    "eventDetails": [
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126027
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "ईन्द्रधोजोत्थान",
+          "en": "Indradhoj utthan"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      },
+      {
+        "id": 5,
+        "category": {
+          "name": "Other",
+          "id": 126241
+        },
+        "displayType": "Calendar Event",
+        "title": {
+          "np": "बामन द्वादशी",
+          "en": "Baman Dwadashi"
+        },
+        "isHoliday": false,
+        "location": null,
+        "timing": {
+          "from": null,
+          "to": null
+        },
+        "details": {
+          "en": null,
+          "np": null
+        }
+      }
+    ]
+  },
+  {
+    "calendarInfo": {
+      "dates": {
+        "bs": {
+          "year": {
+            "np": "२०८१",
+            "en": "2081"
+          },
+          "month": {
+            "np": "भाद्र",
+            "code": {
+              "np": "५",
+              "en": "5"
+            },
+            "en": "Bhadra"
+          },
+          "day": {
+            "np": "३१ ",
+            "en": "31"
+          },
+          "full": {
+            "np": "२०८१-५-३१ ",
+            "en": "2081-5-31"
+          }
+        },
+        "ad": {
+          "year": {
+            "np": "२०२४",
+            "en": "2024"
+          },
+          "month": {
+            "np": "सेप्टेम्बर ",
+            "code": {
+              "np": "९",
+              "en": "9"
+            },
+            "en": "September"
+          },
+          "day": {
+            "np": "१६",
+            "en": "16"
+          },
+          "full": {
+            "np": "२०२४-९-१६",
+            "en": "2024-9-16"
+          }
+        }
+      },
+      "days": {
+        "dayOfWeek": {
+          "np": "सोमवार",
+          "en": "Monday"
+        },
+        "codes": {
+          "np": "२",
+          "en": "2"
+        }
+      },
+      "nepaliEra": {
+        "sakSambat": {
+          "np": "१९४६",
+          "en": "1946"
+        },
+        "nepalSambat": {
+          "year": {
+            "np": "११४४",
+            "en": "1144"
+          },
+          "month": {
+            "np": "ञँलाथ्व ",
+            "code": {
+              "np": "२२",
+              "en": "22"
+            },
+            "en": null
+          }
+        }
+      }
+    },
+    "tithiDetails": {
+      "title": {
+        "np": "त्रयोदशी ",
+        "en": null
+      },
+      "code": {
+        "np": "१३",
+        "en": null
+      },
+      "endTime": {
+        "np": "१३:०६",
+        "en": null
+      },
+      "display": {
+        "np": "१३:०६ बजेसम्म",
+        "en": null
+      }
+    },
+    "panchangaDetails": {
+      "pakshya": {
+        "np": "भाद्र शुक्लपक्ष",
+        "en": null
+      },
+      "chandraRashi": {
+        "time": {
+          "np": "कुम्भ",
+          "en": null
+        },
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "suryaRashi": {
+        "np": "सिंह ",
+        "en": null
+      },
+      "nakshatra": {
+        "np": "धनिष्ठा",
+        "endTime": {
+          "np": "१५:४८",
+          "en": null
+        },
+        "ghaPa": {
+          "np": "२४:५५",
+          "en": null
+        }
+      },
+      "yog": {
+        "np": "सुकर्मा ",
+        "en": null,
+        "endTime": {
+          "np": null,
+          "en": null
+        }
+      },
+      "karans": {
+        "first": {
+          "np": "गर",
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        },
+        "second": {
+          "np": null,
+          "endTime": {
+            "np": null,
+            "en": null
+          }
+        }
+      },
+      "season": {
+        "name": {
+          "np": "वर्षा",
+          "en": "Rainy "
+        },
+        "code": {
+          "np": "३",
+          "en": "3"
+        }
+      },
+      "times": {
+        "sunrise": "०५ः५०",
+        "sunset": "१८ः०५",
+        "moonrise": null,
+        "moonset": null
+      }
+    },
+    "hrituDetails": {
+      "id": 3,
+      "title": {
+        "np": "वर्षा",
+        "en": "Rainy"
+      },
+      "codes": {
+        "np": "३",
+        "en": "3"
+      }
+    },
+    "auspiciousMoments": {
+      "sahits": [
+        {
+          "id": 4,
+          "title": {
+            "np": "अन्नप्रासन / भातख्वाई",
+            "en": "Weaning Ceremony"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 8,
+          "title": {
+            "np": "रुद्री जुर्ने दिन",
+            "en": "Favorable for Rudri"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        },
+        {
+          "id": 9,
+          "title": {
+            "np": "अग्नि जुर्ने दिन",
+            "en": "Agni"
+          },
+          "description": {
+            "np": null,
+            "en": null
+          },
+          "times": {
+            "start": {
+              "np": null,
+              "en": null
+            },
+            "end": {
+              "np": null,
+              "en": null
+            }
+          }
+        }
+      ],
+      "muhurats": [
+        {
+          "periodName": "गुलिक काल",
+          "duration": "13:30-15:02"
+        },
+        {
+          "periodName": "दूर मुहूर्तम्",
+          "duration": "12:22-13:11"
+        },
+        {
+          "periodName": "दूर मुहूर्तम् 2",
+          "duration": "14:49-15:38"
+        },
+        {
+          "periodName": "राहू काल",
+          "duration": "07:23-08:54"
+        },
+        {
+          "periodName": "अभिजीत मुहूर्त",
+          "duration": "11:34-12:23"
+        },
+        {
+          "periodName": "व्रज्याम काल",
+          "duration": "23:13-24:39"
+        },
+        {
+          "periodName": "यमगण्ड",
+          "duration": "10:26-11:58"
+        },
+        {
+          "periodName": "अमृत बेला ",
+          "duration": "05:51-07:23"
+        }
+      ]
+    },
+    "eventDetails": []
+  }
+]

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shivaratri Special - Nirvana Astro</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="/logo.png">
+    <style>
+        body {
+            font-family: 'Outfit', sans-serif;
+        }
+
+        .glass {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+    </style>
+</head>
+
+<body
+    class="bg-[#0f0c29] bg-gradient-to-br from-[#0f0c29] via-[#302b63] to-[#24243e] min-h-screen flex items-center justify-center p-4">
+
+    <div class="glass max-w-md w-full rounded-2xl p-8 shadow-2xl relative overflow-hidden">
+        <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-purple-500 via-pink-500 to-purple-500"></div>
+
+        <div class="text-center mb-8">
+            <img src="/logo.png" alt="Nirvana Astro"
+                class="w-20 mx-auto mb-4 drop-shadow-[0_0_15px_rgba(168,85,247,0.5)]">
+            <h1
+                class="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-200 to-pink-200 mb-2">
+                Welcome Back</h1>
+            <p class="text-purple-200/60 text-sm">Sign in to access Shivaratri Special</p>
+        </div>
+
+        <div id="login-form" class="space-y-6">
+            <div>
+                <label class="block text-purple-200/80 text-sm font-medium mb-2">Email Address *</label>
+                <div class="relative">
+                    <input type="email" id="email" placeholder="Enter email"
+                        class="w-full bg-slate-900/50 border border-purple-500/30 rounded-lg px-4 py-3 text-white placeholder-purple-200/30 focus:outline-none focus:border-purple-500 focus:ring-1 focus:ring-purple-500 transition-all">
+                    <div class="absolute right-3 top-3 text-purple-400">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+                            stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+            <div id="otp-section" class="hidden">
+                <label class="block text-purple-200/80 text-sm font-medium mb-2">Verification Code</label>
+                <input type="text" id="otp" placeholder="Enter 6-digit code"
+                    class="w-full bg-slate-900/50 border border-purple-500/30 rounded-lg px-4 py-3 text-white placeholder-purple-200/30 focus:outline-none focus:border-purple-500 focus:ring-1 focus:ring-purple-500 transition-all text-center tracking-widest text-xl">
+                <p class="text-xs text-purple-300/50 mt-2 text-center">Check your email for the code or login link.</p>
+            </div>
+
+            <button id="action-btn"
+                class="w-full bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-500 hover:to-pink-500 text-white font-semibold py-3 rounded-lg shadow-lg shadow-purple-500/30 transition-all transform hover:scale-[1.02]">
+                Sign In
+            </button>
+
+            <div id="status-msg" class="text-center text-sm min-h-[20px]"></div>
+
+            <div class="relative py-4">
+                <div class="absolute inset-0 flex items-center">
+                    <div class="w-full border-t border-purple-500/20"></div>
+                </div>
+                <div class="relative flex justify-center text-sm">
+                    <span class="px-2 bg-transparent text-purple-200/40 glass rounded px-2">Or continue with</span>
+                </div>
+            </div>
+
+            <button id="google-btn"
+                class="w-full bg-white/5 hover:bg-white/10 border border-white/20 text-white font-medium py-3 rounded-xl flex items-center justify-center gap-3 transition-all">
+                <svg class="w-5 h-5" viewBox="0 0 48 48">
+                    <path fill="#EA4335"
+                        d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z" />
+                    <path fill="#4285F4"
+                        d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z" />
+                    <path fill="#FBBC05"
+                        d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24s.92 7.54 2.56 10.78l7.97-6.19z" />
+                    <path fill="#34A853"
+                        d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z" />
+                    <path fill="none" d="M0 0h48v48H0z" />
+                </svg>
+                Google
+            </button>
+        </div>
+    </div>
+
+    <script>
+        // Ensure Supabase is available
+        window.addEventListener('load', function () {
+            try {
+                const supabaseUrl = 'https://fkckiknrclhadiosowwp.supabase.co';
+                const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZrY2tpa25yY2xoYWRpb3Nvd3dwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjY1MTQyMzQsImV4cCI6MjA4MjA5MDIzNH0.UjcSZsaOBKFwHcLdKgthv0oOIUVPnRNkH0brjOO1sU0';
+                const supabase = window.supabase.createClient(supabaseUrl, supabaseKey);
+
+                let isOtpSent = false;
+                const emailInput = document.getElementById('email');
+                const otpSection = document.getElementById('otp-section');
+                const otpInput = document.getElementById('otp');
+                const actionBtn = document.getElementById('action-btn');
+                const googleBtn = document.getElementById('google-btn');
+                const statusMsg = document.getElementById('status-msg');
+
+                function showStatus(msg, className) {
+                    statusMsg.textContent = msg;
+                    statusMsg.className = 'text-center text-sm min-h-[20px] ' + className;
+                }
+
+                // Define handleLogin and attach to window if needed, or just use event listeners (better)
+                async function handleLogin() {
+                    const email = emailInput.value;
+                    if (!email) {
+                        showStatus('Please enter an email address', 'text-red-400');
+                        return;
+                    }
+
+                    if (!isOtpSent) {
+                        actionBtn.disabled = true;
+                        actionBtn.textContent = 'Sending...';
+
+                        const { error } = await supabase.auth.signInWithOtp({ email });
+
+                        if (error) {
+                            showStatus('Error: ' + error.message, 'text-red-400');
+                            actionBtn.disabled = false;
+                            actionBtn.textContent = 'Sign In';
+                        } else {
+                            showStatus('OTP Sent! Check your email.', 'text-green-400');
+                            isOtpSent = true;
+                            otpSection.classList.remove('hidden');
+                            actionBtn.textContent = 'Verify & Login';
+                            actionBtn.disabled = false;
+                            emailInput.disabled = true;
+                        }
+                    } else {
+                        const otp = otpInput.value;
+                        if (!otp) {
+                            showStatus('Please enter the verification code', 'text-red-400');
+                            return;
+                        }
+
+                        actionBtn.disabled = true;
+                        actionBtn.textContent = 'Verifying...';
+
+                        const { data, error } = await supabase.auth.verifyOtp({
+                            email,
+                            token: otp,
+                            type: 'email'
+                        });
+
+                        if (error) {
+                            showStatus('Invalid code (' + error.message + ')', 'text-red-400');
+                            actionBtn.disabled = false;
+                            actionBtn.textContent = 'Verify & Login';
+                        } else {
+                            showStatus('Success! Redirecting...', 'text-green-400');
+                            window.location.href = '/';
+                        }
+                    }
+                }
+
+                async function handleGoogleLogin() {
+                    const { data, error } = await supabase.auth.signInWithOAuth({
+                        provider: 'google',
+                        options: {
+                            redirectTo: window.location.origin + '/'
+                        }
+                    });
+                    if (error) {
+                        showStatus(error.message, 'text-red-400');
+                    }
+                }
+
+                // Attach event listeners safely
+                actionBtn.addEventListener('click', handleLogin);
+                googleBtn.addEventListener('click', handleGoogleLogin);
+
+                // Check session
+                supabase.auth.onAuthStateChange((event, session) => {
+                    if (session) {
+                        if (event === 'SIGNED_IN') {
+                            // Optionally redirect automatically
+                            window.location.href = '/';
+                        }
+                    }
+                });
+
+            } catch (err) {
+                console.error('Initialization error:', err);
+            }
+        });
+    </script>
+</body>
+
+</html>

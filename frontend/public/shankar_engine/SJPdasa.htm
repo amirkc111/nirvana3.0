@@ -1,0 +1,173 @@
+<HTML>
+
+<HEAD>
+	<TITLE> SJP Dasa</TITLE>
+</HEAD>
+
+<BODY onload="javascript:init()" id=contents>
+	<script src="dasa.js"></script>
+	<style>
+		body {
+			background-color: transparent;
+			color: #eee;
+			font-family: sans-serif;
+			margin: 0;
+			padding: 10px;
+		}
+
+		/* Hide the debug URL text usually in bold at top */
+		body>b {
+			display: none;
+		}
+
+		table {
+			border-color: rgba(255, 255, 255, 0.2) !important;
+			width: 100%;
+			border-collapse: collapse;
+		}
+
+		td,
+		th {
+			color: #eee;
+			border: 1px solid rgba(255, 255, 255, 0.2) !important;
+			padding: 4px 8px;
+		}
+
+		a {
+			color: #a855f7;
+			/* Purple-500 */
+			text-decoration: none;
+			font-weight: bold;
+		}
+
+		#forminput {
+			display: none;
+		}
+	</style>
+	<script>
+		window.onload = function () {
+			setTimeout(function () {
+				// Parse URL params first to ensure global 'params' or 'submit' are set if needed by dasa.js
+				// Note: dasa.js might expect 'window.location.search' processing
+
+				// Force submit if we have data
+				if (window.location.href.indexOf('sphuta') > -1) {
+					if (document.getElementById('forminput')) {
+						document.getElementById('forminput').style.display = 'none';
+					}
+
+					// Trigger calculation if init exists
+					if (typeof init === 'function') {
+						// init() usually reads from document fields, so we might need to populate them first if dasa.js doesn't do it automatically
+						// But dasa.js usually has LoadURLParams logic. Let's trust it but ensure it runs.
+						init();
+					}
+
+					// Force the submit logic if init didn't pick it up
+					var submitBtn = document.getElementById('submit');
+					if (submitBtn) {
+						// We might need to manually trigger the click or logic if 'init' doesn't auto-run calculation
+						// Check if dasa.js parses URL. SJPdasa.htm said "submit = LoadURLParams()" in SJPamsha, here it calls 'init()'
+					}
+				}
+			}, 100);
+		}
+	</script>
+	<script type="text/javascript" src="sjcformatter.js"></script>
+
+	<form id=forminput method=get>
+		<table id=formtable cellspacing=0 cellpadding=0 border=0>
+			<tr>
+				<td>Desc:</td>
+				<td><input id="desc" name="desc" value="Dasa of:" type=text>
+				</td>
+			</tr>
+			<tr>
+				<td>Dasha sphuta:</td>
+				<td><input id="sphuta" name="sphuta" value="53" type=text>
+				</td>
+			</tr>
+			<tr>
+				<td>Time Zone:</td>
+				<td><input id="timezone" name="timezone" type=text value="+5.5" size=5></td>
+			</tr>
+			<tr>
+				<td>Birth Date Time:</td>
+				<td><input id="datetime" name="datetime" type=text value="19 Jul 1971" size=15></td>
+			</tr>
+			<tr>
+				<td>Purna Ayush:</td>
+				<td><input id=ayush name="ayush" type=text value="120" size=15></td>
+			</tr>
+			<tr>
+				<td>Dasha:</td>
+				<td><select id=dasha name="dasha" onchange="formChanged(this)">
+						<option selected>Vimshottari</option>
+						<option onfocus="alert(123)">Ashtottari-Ardra</option>
+						<option onclick="alert(105)" onselect="alert(105)">Panchottari</option>
+						<option>Shatabdika</option>
+						<option>Chaturashiti</option>
+						<option>Shastihayani</option>
+					</select>
+				</td>
+			<tr>
+				<td colspan=2>Below Section for Antara Dasha levels</td>
+			</tr>
+			<tr>
+				<td>Antara Dasha Date Time:</td>
+				<td><input id=eventdatetime name="eventdatetime" type=text size=15></td>
+			</tr>
+			<tr>
+				<td>Level of Antar Dasha:</td>
+				<td>
+					<select id=antaradasha name="antaradasha">
+						<option selected value=1>Maha Dasha</option>
+						<option value=2>Antara Dasha</option>
+						<option value=3>Prati Antara Dasha</option>
+						<option value=4>Sookshma Antara Dasha</option>
+						<option value=5>Prana Antara Dasha</option>
+						<option value=6>Deha Antara Dasha</option>
+						<option value=9>All Antara Dashas at event</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Antar dasha order
+				</td>
+				<td>
+					<select id="antardasha_order" name="antardasha_order">
+						<option selected value="0">Normal Vimshottari type</option>
+						<option value="-1">Previous Reverse-Ashtottari type</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td>Starting Nakshatra</td>
+				<td>
+					<select id=starting name="starting">
+						<option selected value=0>Janma</option>
+						<option value=1>Sampat</option>
+						<option value=2>Vipat</option>
+						<option value=3>Kshema</option>
+						<option value=4>Utpanna(Pratya)</option>
+						<option value=5>Sadhak</option>
+						<option value=6>Vadha</option>
+						<option value=7>Mitra(Aadhana)</option>
+						<option value=8>Param Mitra</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td>Compression</td>
+				<td><input id=compression name="compression" type=text value="1" size=5></td>
+			</tr>
+			<tr>
+				<td colspan=2 align=middle><input type="submit" id="submit" name="submit" value=Calculate></td>
+			</tr>
+
+		</table>
+	</form>
+</BODY>
+
+</HTML>

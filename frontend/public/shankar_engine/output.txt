@@ -1,0 +1,38 @@
+SJP.html Analysis
+=================
+
+Inputs (Form Fields):
+---------------------
+- chartname: Chart Name (text input, default 'Prashna')
+- fileInput: .JHD file upload (optional, for loading saved chart data)
+- day: Day of birth/event (number)
+- month: Month of birth/event (number)
+- year: Year of birth/event (number)
+- btime: Time of birth/event (HH:MM, 24-hour format)
+- timezone: Time zone (decimal, e.g. 5.5 for IST)
+- placename: Place name (text, can also parse lat/lon from here)
+- latitude: Latitude (decimal, North +ve, South -ve)
+- longitude: Longitude (decimal, East +ve, West -ve)
+- inputTextToSave: JHD file text (textarea, optional)
+- submit: Calculate (button to trigger calculation)
+
+Outputs (Main Page Results):
+---------------------------
+- Panchanga summary (date, time, place, timezone, lat/lon)
+- Save JHD link (to download chart data)
+- Main chart (table):
+    - 12 houses, each cell shows planets/signs and their degrees (e.g. Sa13.28, Ke19.05)
+    - Center cell shows day, nakshatra, tithi, etc.
+- (Depending on calculation, may also show additional tables or panchanga details)
+
+How it works:
+-------------
+- User fills the form (or loads a .JHD file)
+- On submit, the page calculates the chart and panchanga
+- The chart is rendered as an HTML table (see <table class="chart">)
+- All calculations are performed client-side using JavaScript (sjp.js and related scripts)
+
+To automate extraction:
+----------------------
+- You can fill the form via query parameters (GET), e.g. SJP.html?day=30&month=6&year=1996&btime=01:30&timezone=5.5&placename=Gulmi&latitude=28.0&longitude=83.9856
+- The output chart can be extracted from the DOM (table.chart) after calculation. 

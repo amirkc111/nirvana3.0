@@ -1,3 +1,8 @@
-flask
-flask-cors
+flask>=3.0.0
+flask-cors>=4.0.0
 skyfield
+numpy>=1.26.0
+opencv-python-headless>=4.8.0
+pytesseract>=0.3.10
+Pillow>=10.0.0
+mediapipe==0.10.9

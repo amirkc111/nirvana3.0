@@ -1,0 +1,1647 @@
+{
+    "country": "Finland",
+    "iso2": "FI",
+    "regionList": [
+        {
+            "id": 1,
+            "name": "UUSIMAA",
+            "code": "18",
+            "latitude": 60.2187,
+            "longitude": 25.2716,
+            "municipalityList": [
+                {
+                    "id": 1,
+                    "name": "Helsinki",
+                    "latitude": 60.1695,
+                    "longitude": 24.9354
+                },
+                {
+                    "id": 2,
+                    "name": "Espoo",
+                    "latitude": 60.2055,
+                    "longitude": 24.6559
+                },
+                {
+                    "id": 3,
+                    "name": "Vantaa",
+                    "latitude": 60.2941,
+                    "longitude": 25.0406
+                },
+                {
+                    "id": 4,
+                    "name": "Kauniainen",
+                    "latitude": 60.2091,
+                    "longitude": 24.7280
+                },
+                {
+                    "id": 5,
+                    "name": "Hyvinkää",
+                    "latitude": 60.6304,
+                    "longitude": 24.8597
+                },
+                {
+                    "id": 6,
+                    "name": "Järvenpää",
+                    "latitude": 60.4756,
+                    "longitude": 25.0897
+                },
+                {
+                    "id": 7,
+                    "name": "Kerava",
+                    "latitude": 60.4034,
+                    "longitude": 25.1050
+                },
+                {
+                    "id": 8,
+                    "name": "Kirkkonummi",
+                    "latitude": 60.1232,
+                    "longitude": 24.4385
+                },
+                {
+                    "id": 9,
+                    "name": "Lohja",
+                    "latitude": 60.2485,
+                    "longitude": 24.0653
+                },
+                {
+                    "id": 10,
+                    "name": "Mäntsälä",
+                    "latitude": 60.6333,
+                    "longitude": 25.3167
+                },
+                {
+                    "id": 11,
+                    "name": "Nurmijärvi",
+                    "latitude": 60.4667,
+                    "longitude": 24.8167
+                },
+                {
+                    "id": 12,
+                    "name": "Pornainen",
+                    "latitude": 60.4833,
+                    "longitude": 25.3667
+                },
+                {
+                    "id": 13,
+                    "name": "Porvoo",
+                    "latitude": 60.3953,
+                    "longitude": 25.6642
+                },
+                {
+                    "id": 14,
+                    "name": "Sipoo",
+                    "latitude": 60.3667,
+                    "longitude": 25.2667
+                },
+                {
+                    "id": 15,
+                    "name": "Tuusula",
+                    "latitude": 60.4167,
+                    "longitude": 25.0333
+                },
+                {
+                    "id": 16,
+                    "name": "Vihti",
+                    "latitude": 60.4167,
+                    "longitude": 24.3167
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "PIRKANMAA",
+            "code": "11",
+            "latitude": 61.6987,
+            "longitude": 23.7896,
+            "municipalityList": [
+                {
+                    "id": 17,
+                    "name": "Tampere",
+                    "latitude": 61.4991,
+                    "longitude": 23.7871
+                },
+                {
+                    "id": 18,
+                    "name": "Nokia",
+                    "latitude": 61.4667,
+                    "longitude": 23.5000
+                },
+                {
+                    "id": 19,
+                    "name": "Valkeakoski",
+                    "latitude": 61.2667,
+                    "longitude": 24.0333
+                },
+                {
+                    "id": 20,
+                    "name": "Kangasala",
+                    "latitude": 61.4667,
+                    "longitude": 24.0667
+                },
+                {
+                    "id": 21,
+                    "name": "Lempäälä",
+                    "latitude": 61.3167,
+                    "longitude": 23.7500
+                },
+                {
+                    "id": 22,
+                    "name": "Pirkkala",
+                    "latitude": 61.4667,
+                    "longitude": 23.6333
+                },
+                {
+                    "id": 23,
+                    "name": "Vesilahti",
+                    "latitude": 61.3167,
+                    "longitude": 23.6167
+                },
+                {
+                    "id": 24,
+                    "name": "Ylöjärvi",
+                    "latitude": 61.5500,
+                    "longitude": 23.5833
+                },
+                {
+                    "id": 25,
+                    "name": "Orivesi",
+                    "latitude": 61.6667,
+                    "longitude": 24.3667
+                },
+                {
+                    "id": 26,
+                    "name": "Kuru",
+                    "latitude": 61.8833,
+                    "longitude": 23.7167
+                },
+                {
+                    "id": 27,
+                    "name": "Ruovesi",
+                    "latitude": 61.9833,
+                    "longitude": 24.0667
+                },
+                {
+                    "id": 28,
+                    "name": "Mänttä-Vilppula",
+                    "latitude": 62.0333,
+                    "longitude": 24.6167
+                },
+                {
+                    "id": 29,
+                    "name": "Virrat",
+                    "latitude": 62.2333,
+                    "longitude": 23.7667
+                },
+                {
+                    "id": 30,
+                    "name": "Juupajoki",
+                    "latitude": 61.8000,
+                    "longitude": 24.3667
+                },
+                {
+                    "id": 31,
+                    "name": "Kihniö",
+                    "latitude": 62.2000,
+                    "longitude": 23.1833
+                },
+                {
+                    "id": 32,
+                    "name": "Parkano",
+                    "latitude": 61.8333,
+                    "longitude": 23.0167
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "VARSINAIS-SUOMI",
+            "code": "19",
+            "latitude": 60.7000,
+            "longitude": 22.3000,
+            "municipalityList": [
+                {
+                    "id": 33,
+                    "name": "Turku",
+                    "latitude": 60.4515,
+                    "longitude": 22.2687
+                },
+                {
+                    "id": 34,
+                    "name": "Kaarina",
+                    "latitude": 60.4167,
+                    "longitude": 22.4167
+                },
+                {
+                    "id": 35,
+                    "name": "Lieto",
+                    "latitude": 60.5000,
+                    "longitude": 22.4500
+                },
+                {
+                    "id": 36,
+                    "name": "Naantali",
+                    "latitude": 60.4667,
+                    "longitude": 22.0167
+                },
+                {
+                    "id": 37,
+                    "name": "Raisio",
+                    "latitude": 60.4833,
+                    "longitude": 22.1667
+                },
+                {
+                    "id": 38,
+                    "name": "Rusko",
+                    "latitude": 60.5333,
+                    "longitude": 22.2167
+                },
+                {
+                    "id": 39,
+                    "name": "Sauvo",
+                    "latitude": 60.3333,
+                    "longitude": 22.7000
+                },
+                {
+                    "id": 40,
+                    "name": "Vahto",
+                    "latitude": 60.6000,
+                    "longitude": 22.3000
+                },
+                {
+                    "id": 41,
+                    "name": "Aura",
+                    "latitude": 60.6500,
+                    "longitude": 22.5833
+                },
+                {
+                    "id": 42,
+                    "name": "Koski Tl",
+                    "latitude": 60.6500,
+                    "longitude": 23.1333
+                },
+                {
+                    "id": 43,
+                    "name": "Marttila",
+                    "latitude": 60.5833,
+                    "longitude": 22.9000
+                },
+                {
+                    "id": 44,
+                    "name": "Mynämäki",
+                    "latitude": 60.6833,
+                    "longitude": 21.9833
+                },
+                {
+                    "id": 45,
+                    "name": "Paimio",
+                    "latitude": 60.4500,
+                    "longitude": 22.6833
+                },
+                {
+                    "id": 46,
+                    "name": "Pöytyä",
+                    "latitude": 60.7167,
+                    "longitude": 22.6667
+                },
+                {
+                    "id": 47,
+                    "name": "Salo",
+                    "latitude": 60.3833,
+                    "longitude": 23.1333
+                },
+                {
+                    "id": 48,
+                    "name": "Somero",
+                    "latitude": 60.6167,
+                    "longitude": 23.6500
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "SATAKUNTA",
+            "code": "17",
+            "latitude": 61.5000,
+            "longitude": 22.0000,
+            "municipalityList": [
+                {
+                    "id": 49,
+                    "name": "Pori",
+                    "latitude": 61.4833,
+                    "longitude": 21.7833
+                },
+                {
+                    "id": 50,
+                    "name": "Rauma",
+                    "latitude": 61.1333,
+                    "longitude": 21.5000
+                },
+                {
+                    "id": 51,
+                    "name": "Ulvila",
+                    "latitude": 61.4333,
+                    "longitude": 21.8667
+                },
+                {
+                    "id": 52,
+                    "name": "Eura",
+                    "latitude": 61.1333,
+                    "longitude": 22.1333
+                },
+                {
+                    "id": 53,
+                    "name": "Eurajoki",
+                    "latitude": 61.2000,
+                    "longitude": 21.7333
+                },
+                {
+                    "id": 54,
+                    "name": "Harjavalta",
+                    "latitude": 61.3167,
+                    "longitude": 22.1333
+                },
+                {
+                    "id": 55,
+                    "name": "Huittinen",
+                    "latitude": 61.1833,
+                    "longitude": 22.7000
+                },
+                {
+                    "id": 56,
+                    "name": "Jämijärvi",
+                    "latitude": 61.8167,
+                    "longitude": 22.7000
+                },
+                {
+                    "id": 57,
+                    "name": "Kankaanpää",
+                    "latitude": 61.8000,
+                    "longitude": 22.4000
+                },
+                {
+                    "id": 58,
+                    "name": "Karvia",
+                    "latitude": 62.1333,
+                    "longitude": 22.5667
+                },
+                {
+                    "id": 59,
+                    "name": "Kokemäki",
+                    "latitude": 61.2500,
+                    "longitude": 22.3167
+                },
+                {
+                    "id": 60,
+                    "name": "Merikarvia",
+                    "latitude": 61.8500,
+                    "longitude": 21.5000
+                },
+                {
+                    "id": 61,
+                    "name": "Nakkila",
+                    "latitude": 61.3667,
+                    "longitude": 22.0000
+                },
+                {
+                    "id": 62,
+                    "name": "Noormarkku",
+                    "latitude": 61.5833,
+                    "longitude": 21.8667
+                },
+                {
+                    "id": 63,
+                    "name": "Pomarkku",
+                    "latitude": 61.7000,
+                    "longitude": 22.0000
+                },
+                {
+                    "id": 64,
+                    "name": "Punkalaidun",
+                    "latitude": 61.1167,
+                    "longitude": 23.1000
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "KANTA-HÄME",
+            "code": "06",
+            "latitude": 61.0000,
+            "longitude": 24.5000,
+            "municipalityList": [
+                {
+                    "id": 65,
+                    "name": "Hämeenlinna",
+                    "latitude": 61.0000,
+                    "longitude": 24.4500
+                },
+                {
+                    "id": 66,
+                    "name": "Forssa",
+                    "latitude": 60.8167,
+                    "longitude": 23.6167
+                },
+                {
+                    "id": 67,
+                    "name": "Riihimäki",
+                    "latitude": 60.7333,
+                    "longitude": 24.7667
+                },
+                {
+                    "id": 68,
+                    "name": "Akaa",
+                    "latitude": 61.1667,
+                    "longitude": 23.8667
+                },
+                {
+                    "id": 69,
+                    "name": "Hattula",
+                    "latitude": 61.0833,
+                    "longitude": 24.3667
+                },
+                {
+                    "id": 70,
+                    "name": "Hausjärvi",
+                    "latitude": 60.7833,
+                    "longitude": 24.9333
+                },
+                {
+                    "id": 71,
+                    "name": "Humppila",
+                    "latitude": 60.9167,
+                    "longitude": 23.3667
+                },
+                {
+                    "id": 72,
+                    "name": "Janakkala",
+                    "latitude": 60.9167,
+                    "longitude": 24.6000
+                },
+                {
+                    "id": 73,
+                    "name": "Jokioinen",
+                    "latitude": 60.8000,
+                    "longitude": 23.4833
+                },
+                {
+                    "id": 74,
+                    "name": "Loppi",
+                    "latitude": 60.7167,
+                    "longitude": 24.4500
+                },
+                {
+                    "id": 75,
+                    "name": "Tammela",
+                    "latitude": 60.8167,
+                    "longitude": 23.7667
+                },
+                {
+                    "id": 76,
+                    "name": "Urjala",
+                    "latitude": 61.0833,
+                    "longitude": 23.5333
+                },
+                {
+                    "id": 77,
+                    "name": "Valkeakoski",
+                    "latitude": 61.2667,
+                    "longitude": 24.0333
+                },
+                {
+                    "id": 78,
+                    "name": "Vesilahti",
+                    "latitude": 61.3167,
+                    "longitude": 23.6167
+                },
+                {
+                    "id": 79,
+                    "name": "Ypäjä",
+                    "latitude": 60.8167,
+                    "longitude": 23.2833
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "PÄIJÄT-HÄME",
+            "code": "16",
+            "latitude": 61.2000,
+            "longitude": 25.7000,
+            "municipalityList": [
+                {
+                    "id": 80,
+                    "name": "Lahti",
+                    "latitude": 60.9833,
+                    "longitude": 25.6500
+                },
+                {
+                    "id": 81,
+                    "name": "Heinola",
+                    "latitude": 61.2000,
+                    "longitude": 26.0333
+                },
+                {
+                    "id": 82,
+                    "name": "Hollola",
+                    "latitude": 61.0500,
+                    "longitude": 25.4333
+                },
+                {
+                    "id": 83,
+                    "name": "Asikkala",
+                    "latitude": 61.2167,
+                    "longitude": 25.5000
+                },
+                {
+                    "id": 84,
+                    "name": "Hartola",
+                    "latitude": 61.5833,
+                    "longitude": 26.0167
+                },
+                {
+                    "id": 85,
+                    "name": "Hämeenkoski",
+                    "latitude": 61.0167,
+                    "longitude": 25.1500
+                },
+                {
+                    "id": 86,
+                    "name": "Iitti",
+                    "latitude": 60.8833,
+                    "longitude": 26.3333
+                },
+                {
+                    "id": 87,
+                    "name": "Kärkölä",
+                    "latitude": 60.8667,
+                    "longitude": 25.2667
+                },
+                {
+                    "id": 88,
+                    "name": "Kouvola",
+                    "latitude": 60.8667,
+                    "longitude": 26.7000
+                },
+                {
+                    "id": 89,
+                    "name": "Kuhmoinen",
+                    "latitude": 61.5667,
+                    "longitude": 25.1833
+                },
+                {
+                    "id": 90,
+                    "name": "Luhanka",
+                    "latitude": 61.8000,
+                    "longitude": 25.7000
+                },
+                {
+                    "id": 91,
+                    "name": "Mäntyharju",
+                    "latitude": 61.4167,
+                    "longitude": 26.8833
+                },
+                {
+                    "id": 92,
+                    "name": "Nastola",
+                    "latitude": 60.9500,
+                    "longitude": 25.9333
+                },
+                {
+                    "id": 93,
+                    "name": "Orimattila",
+                    "latitude": 60.8000,
+                    "longitude": 25.7333
+                },
+                {
+                    "id": 94,
+                    "name": "Padasjoki",
+                    "latitude": 61.3500,
+                    "longitude": 25.2667
+                },
+                {
+                    "id": 95,
+                    "name": "Sysmä",
+                    "latitude": 61.5000,
+                    "longitude": 25.6833
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "KYMENLAAKSO",
+            "code": "09",
+            "latitude": 60.5000,
+            "longitude": 27.0000,
+            "municipalityList": [
+                {
+                    "id": 96,
+                    "name": "Kotka",
+                    "latitude": 60.4667,
+                    "longitude": 26.9167
+                },
+                {
+                    "id": 97,
+                    "name": "Kouvola",
+                    "latitude": 60.8667,
+                    "longitude": 26.7000
+                },
+                {
+                    "id": 98,
+                    "name": "Hamina",
+                    "latitude": 60.5667,
+                    "longitude": 27.2000
+                },
+                {
+                    "id": 99,
+                    "name": "Iitti",
+                    "latitude": 60.8833,
+                    "longitude": 26.3333
+                },
+                {
+                    "id": 100,
+                    "name": "Kotka",
+                    "latitude": 60.4667,
+                    "longitude": 26.9167
+                },
+                {
+                    "id": 101,
+                    "name": "Kouvola",
+                    "latitude": 60.8667,
+                    "longitude": 26.7000
+                },
+                {
+                    "id": 102,
+                    "name": "Mäntyharju",
+                    "latitude": 61.4167,
+                    "longitude": 26.8833
+                },
+                {
+                    "id": 103,
+                    "name": "Pyhtää",
+                    "latitude": 60.5000,
+                    "longitude": 26.5500
+                },
+                {
+                    "id": 104,
+                    "name": "Virolahti",
+                    "latitude": 60.5667,
+                    "longitude": 27.7000
+                },
+                {
+                    "id": 105,
+                    "name": "Valkeala",
+                    "latitude": 60.9500,
+                    "longitude": 26.8000
+                },
+                {
+                    "id": 106,
+                    "name": "Anjalankoski",
+                    "latitude": 60.8000,
+                    "longitude": 26.8167
+                },
+                {
+                    "id": 107,
+                    "name": "Elimäki",
+                    "latitude": 60.7167,
+                    "longitude": 26.4667
+                },
+                {
+                    "id": 108,
+                    "name": "Jaala",
+                    "latitude": 61.0500,
+                    "longitude": 26.4833
+                },
+                {
+                    "id": 109,
+                    "name": "Kotka",
+                    "latitude": 60.4667,
+                    "longitude": 26.9167
+                },
+                {
+                    "id": 110,
+                    "name": "Kouvola",
+                    "latitude": 60.8667,
+                    "longitude": 26.7000
+                },
+                {
+                    "id": 111,
+                    "name": "Kuusankoski",
+                    "latitude": 60.9000,
+                    "longitude": 26.6333
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "ETELÄ-KARJALA",
+            "code": "02",
+            "latitude": 61.0000,
+            "longitude": 28.0000,
+            "municipalityList": [
+                {
+                    "id": 112,
+                    "name": "Lappeenranta",
+                    "latitude": 61.0667,
+                    "longitude": 28.1833
+                },
+                {
+                    "id": 113,
+                    "name": "Imatra",
+                    "latitude": 61.1667,
+                    "longitude": 28.7667
+                },
+                {
+                    "id": 114,
+                    "name": "Joutseno",
+                    "latitude": 61.1167,
+                    "longitude": 28.5000
+                },
+                {
+                    "id": 115,
+                    "name": "Lemi",
+                    "latitude": 61.0667,
+                    "longitude": 27.8000
+                },
+                {
+                    "id": 116,
+                    "name": "Luumäki",
+                    "latitude": 60.9167,
+                    "longitude": 27.5833
+                },
+                {
+                    "id": 117,
+                    "name": "Parikkala",
+                    "latitude": 61.5500,
+                    "longitude": 29.5000
+                },
+                {
+                    "id": 118,
+                    "name": "Rautjärvi",
+                    "latitude": 61.4333,
+                    "longitude": 29.3500
+                },
+                {
+                    "id": 119,
+                    "name": "Ruokolahti",
+                    "latitude": 61.2833,
+                    "longitude": 28.8333
+                },
+                {
+                    "id": 120,
+                    "name": "Savitaipale",
+                    "latitude": 61.2000,
+                    "longitude": 27.7000
+                },
+                {
+                    "id": 121,
+                    "name": "Suomenniemi",
+                    "latitude": 61.3167,
+                    "longitude": 27.4500
+                },
+                {
+                    "id": 122,
+                    "name": "Taipalsaari",
+                    "latitude": 61.1500,
+                    "longitude": 28.0500
+                },
+                {
+                    "id": 123,
+                    "name": "Uukuniemi",
+                    "latitude": 61.1000,
+                    "longitude": 28.3000
+                },
+                {
+                    "id": 124,
+                    "name": "Ylämaa",
+                    "latitude": 60.8667,
+                    "longitude": 28.1167
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "KESKI-SUOMI",
+            "code": "08",
+            "latitude": 62.5000,
+            "longitude": 25.5000,
+            "municipalityList": [
+                {
+                    "id": 125,
+                    "name": "Jyväskylä",
+                    "latitude": 62.2333,
+                    "longitude": 25.7333
+                },
+                {
+                    "id": 126,
+                    "name": "Äänekoski",
+                    "latitude": 62.6000,
+                    "longitude": 25.7167
+                },
+                {
+                    "id": 127,
+                    "name": "Hankasalmi",
+                    "latitude": 62.3833,
+                    "longitude": 26.4333
+                },
+                {
+                    "id": 128,
+                    "name": "Joutsa",
+                    "latitude": 61.7500,
+                    "longitude": 26.1167
+                },
+                {
+                    "id": 129,
+                    "name": "Jämsä",
+                    "latitude": 61.8667,
+                    "longitude": 25.1833
+                },
+                {
+                    "id": 130,
+                    "name": "Jämsänkoski",
+                    "latitude": 61.9167,
+                    "longitude": 25.1833
+                },
+                {
+                    "id": 131,
+                    "name": "Kannonkoski",
+                    "latitude": 62.9667,
+                    "longitude": 25.2500
+                },
+                {
+                    "id": 132,
+                    "name": "Karstula",
+                    "latitude": 62.8667,
+                    "longitude": 24.8000
+                },
+                {
+                    "id": 133,
+                    "name": "Keuruu",
+                    "latitude": 62.2667,
+                    "longitude": 24.7000
+                },
+                {
+                    "id": 134,
+                    "name": "Kinnula",
+                    "latitude": 63.3667,
+                    "longitude": 24.9500
+                },
+                {
+                    "id": 135,
+                    "name": "Kivijärvi",
+                    "latitude": 63.1167,
+                    "longitude": 25.0833
+                },
+                {
+                    "id": 136,
+                    "name": "Konnevesi",
+                    "latitude": 62.6167,
+                    "longitude": 26.3167
+                },
+                {
+                    "id": 137,
+                    "name": "Kuhmoinen",
+                    "latitude": 61.5667,
+                    "longitude": 25.1833
+                },
+                {
+                    "id": 138,
+                    "name": "Kyyjärvi",
+                    "latitude": 63.0333,
+                    "longitude": 24.5667
+                },
+                {
+                    "id": 139,
+                    "name": "Laukaa",
+                    "latitude": 62.4167,
+                    "longitude": 25.9500
+                },
+                {
+                    "id": 140,
+                    "name": "Luhanka",
+                    "latitude": 61.8000,
+                    "longitude": 25.7000
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "ETELÄ-SAVO",
+            "code": "04",
+            "latitude": 61.5000,
+            "longitude": 27.5000,
+            "municipalityList": [
+                {
+                    "id": 141,
+                    "name": "Mikkeli",
+                    "latitude": 61.6833,
+                    "longitude": 27.2667
+                },
+                {
+                    "id": 142,
+                    "name": "Heinävesi",
+                    "latitude": 62.4333,
+                    "longitude": 28.6167
+                },
+                {
+                    "id": 143,
+                    "name": "Hirvensalmi",
+                    "latitude": 61.6333,
+                    "longitude": 26.8167
+                },
+                {
+                    "id": 144,
+                    "name": "Joroinen",
+                    "latitude": 62.1833,
+                    "longitude": 27.8333
+                },
+                {
+                    "id": 145,
+                    "name": "Juva",
+                    "latitude": 61.9000,
+                    "longitude": 27.8500
+                },
+                {
+                    "id": 146,
+                    "name": "Kangasniemi",
+                    "latitude": 61.9833,
+                    "longitude": 26.6333
+                },
+                {
+                    "id": 147,
+                    "name": "Kerimäki",
+                    "latitude": 62.1000,
+                    "longitude": 29.2833
+                },
+                {
+                    "id": 148,
+                    "name": "Mäntyharju",
+                    "latitude": 61.4167,
+                    "longitude": 26.8833
+                },
+                {
+                    "id": 149,
+                    "name": "Pertunmaa",
+                    "latitude": 61.5000,
+                    "longitude": 26.4833
+                },
+                {
+                    "id": 150,
+                    "name": "Pieksämäki",
+                    "latitude": 62.3000,
+                    "longitude": 27.1500
+                },
+                {
+                    "id": 151,
+                    "name": "Punkaharju",
+                    "latitude": 61.7500,
+                    "longitude": 29.3833
+                },
+                {
+                    "id": 152,
+                    "name": "Puumala",
+                    "latitude": 61.5167,
+                    "longitude": 28.1833
+                },
+                {
+                    "id": 153,
+                    "name": "Rantasalmi",
+                    "latitude": 62.0667,
+                    "longitude": 28.3000
+                },
+                {
+                    "id": 154,
+                    "name": "Ristiina",
+                    "latitude": 61.5000,
+                    "longitude": 27.2500
+                },
+                {
+                    "id": 155,
+                    "name": "Savonlinna",
+                    "latitude": 61.8667,
+                    "longitude": 28.8833
+                },
+                {
+                    "id": 156,
+                    "name": "Sulkava",
+                    "latitude": 61.7833,
+                    "longitude": 28.3667
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "POHJOIS-SAVO",
+            "code": "15",
+            "latitude": 63.0000,
+            "longitude": 27.0000,
+            "municipalityList": [
+                {
+                    "id": 157,
+                    "name": "Kuopio",
+                    "latitude": 62.9000,
+                    "longitude": 27.6833
+                },
+                {
+                    "id": 158,
+                    "name": "Iisalmi",
+                    "latitude": 63.5667,
+                    "longitude": 27.1833
+                },
+                {
+                    "id": 159,
+                    "name": "Varkaus",
+                    "latitude": 62.3167,
+                    "longitude": 27.8833
+                },
+                {
+                    "id": 160,
+                    "name": "Kaavi",
+                    "latitude": 62.9667,
+                    "longitude": 28.5000
+                },
+                {
+                    "id": 161,
+                    "name": "Karttula",
+                    "latitude": 62.8833,
+                    "longitude": 26.9667
+                },
+                {
+                    "id": 162,
+                    "name": "Keitele",
+                    "latitude": 63.1833,
+                    "longitude": 26.3500
+                },
+                {
+                    "id": 163,
+                    "name": "Kiuruvesi",
+                    "latitude": 63.6500,
+                    "longitude": 26.6167
+                },
+                {
+                    "id": 164,
+                    "name": "Lapinlahti",
+                    "latitude": 63.3667,
+                    "longitude": 27.4000
+                },
+                {
+                    "id": 165,
+                    "name": "Leppävirta",
+                    "latitude": 62.8000,
+                    "longitude": 27.7833
+                },
+                {
+                    "id": 166,
+                    "name": "Pielavesi",
+                    "latitude": 63.2333,
+                    "longitude": 26.7500
+                },
+                {
+                    "id": 167,
+                    "name": "Rautalampi",
+                    "latitude": 62.6167,
+                    "longitude": 26.8333
+                },
+                {
+                    "id": 168,
+                    "name": "Rautavaara",
+                    "latitude": 63.5000,
+                    "longitude": 28.3000
+                },
+                {
+                    "id": 169,
+                    "name": "Siilinjärvi",
+                    "latitude": 63.0833,
+                    "longitude": 27.6667
+                },
+                {
+                    "id": 170,
+                    "name": "Sonkajärvi",
+                    "latitude": 63.6667,
+                    "longitude": 27.5167
+                },
+                {
+                    "id": 171,
+                    "name": "Suonenjoki",
+                    "latitude": 62.6167,
+                    "longitude": 27.1167
+                },
+                {
+                    "id": 172,
+                    "name": "Tervo",
+                    "latitude": 62.9500,
+                    "longitude": 26.7500
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "POHJOIS-KARJALA",
+            "code": "13",
+            "latitude": 62.5000,
+            "longitude": 30.0000,
+            "municipalityList": [
+                {
+                    "id": 173,
+                    "name": "Joensuu",
+                    "latitude": 62.6000,
+                    "longitude": 29.7500
+                },
+                {
+                    "id": 174,
+                    "name": "Ilomantsi",
+                    "latitude": 62.6667,
+                    "longitude": 30.9333
+                },
+                {
+                    "id": 175,
+                    "name": "Juuka",
+                    "latitude": 63.2333,
+                    "longitude": 29.2500
+                },
+                {
+                    "id": 176,
+                    "name": "Kitee",
+                    "latitude": 62.1000,
+                    "longitude": 30.1333
+                },
+                {
+                    "id": 177,
+                    "name": "Kontiolahti",
+                    "latitude": 62.7667,
+                    "longitude": 29.8500
+                },
+                {
+                    "id": 178,
+                    "name": "Outokumpu",
+                    "latitude": 62.7167,
+                    "longitude": 29.0167
+                },
+                {
+                    "id": 179,
+                    "name": "Polvijärvi",
+                    "latitude": 62.8500,
+                    "longitude": 29.3667
+                },
+                {
+                    "id": 180,
+                    "name": "Rääkkylä",
+                    "latitude": 62.3167,
+                    "longitude": 29.6167
+                },
+                {
+                    "id": 181,
+                    "name": "Tohmajärvi",
+                    "latitude": 62.2167,
+                    "longitude": 30.3333
+                },
+                {
+                    "id": 182,
+                    "name": "Valtimo",
+                    "latitude": 63.6833,
+                    "longitude": 28.8167
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "KAINUU",
+            "code": "05",
+            "latitude": 64.0000,
+            "longitude": 27.5000,
+            "municipalityList": [
+                {
+                    "id": 183,
+                    "name": "Kajaani",
+                    "latitude": 64.2167,
+                    "longitude": 27.7333
+                },
+                {
+                    "id": 184,
+                    "name": "Hyrynsalmi",
+                    "latitude": 64.6667,
+                    "longitude": 28.5000
+                },
+                {
+                    "id": 185,
+                    "name": "Kuhmo",
+                    "latitude": 64.1333,
+                    "longitude": 29.5167
+                },
+                {
+                    "id": 186,
+                    "name": "Paltamo",
+                    "latitude": 64.4000,
+                    "longitude": 27.8333
+                },
+                {
+                    "id": 187,
+                    "name": "Puolanka",
+                    "latitude": 64.8667,
+                    "longitude": 27.6667
+                },
+                {
+                    "id": 188,
+                    "name": "Ristijärvi",
+                    "latitude": 64.5000,
+                    "longitude": 28.2167
+                },
+                {
+                    "id": 189,
+                    "name": "Sotkamo",
+                    "latitude": 64.1333,
+                    "longitude": 28.4000
+                },
+                {
+                    "id": 190,
+                    "name": "Suomussalmi",
+                    "latitude": 64.8833,
+                    "longitude": 28.9167
+                },
+                {
+                    "id": 191,
+                    "name": "Vaala",
+                    "latitude": 64.5667,
+                    "longitude": 26.8333
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "KESKI-POHJANMAA",
+            "code": "07",
+            "latitude": 63.5000,
+            "longitude": 23.0000,
+            "municipalityList": [
+                {
+                    "id": 192,
+                    "name": "Kokkola",
+                    "latitude": 63.8333,
+                    "longitude": 23.1167
+                },
+                {
+                    "id": 193,
+                    "name": "Halsua",
+                    "latitude": 63.4667,
+                    "longitude": 24.1667
+                },
+                {
+                    "id": 194,
+                    "name": "Kannus",
+                    "latitude": 63.9000,
+                    "longitude": 23.9000
+                },
+                {
+                    "id": 195,
+                    "name": "Kaustinen",
+                    "latitude": 63.5500,
+                    "longitude": 23.6833
+                },
+                {
+                    "id": 196,
+                    "name": "Kruunupyy",
+                    "latitude": 63.7167,
+                    "longitude": 23.0333
+                },
+                {
+                    "id": 197,
+                    "name": "Lestijärvi",
+                    "latitude": 63.5333,
+                    "longitude": 24.6500
+                },
+                {
+                    "id": 198,
+                    "name": "Perho",
+                    "latitude": 63.2167,
+                    "longitude": 24.4167
+                },
+                {
+                    "id": 199,
+                    "name": "Toholampi",
+                    "latitude": 63.7667,
+                    "longitude": 24.2500
+                },
+                {
+                    "id": 200,
+                    "name": "Veteli",
+                    "latitude": 63.4333,
+                    "longitude": 23.7833
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "POHJOIS-POHJANMAA",
+            "code": "14",
+            "latitude": 65.0000,
+            "longitude": 25.5000,
+            "municipalityList": [
+                {
+                    "id": 201,
+                    "name": "Oulu",
+                    "latitude": 65.0167,
+                    "longitude": 25.4667
+                },
+                {
+                    "id": 202,
+                    "name": "Hailuoto",
+                    "latitude": 65.0000,
+                    "longitude": 24.7167
+                },
+                {
+                    "id": 203,
+                    "name": "Haukipudas",
+                    "latitude": 65.1833,
+                    "longitude": 25.3500
+                },
+                {
+                    "id": 204,
+                    "name": "Ii",
+                    "latitude": 65.3167,
+                    "longitude": 25.3667
+                },
+                {
+                    "id": 205,
+                    "name": "Kempele",
+                    "latitude": 64.9167,
+                    "longitude": 25.5000
+                },
+                {
+                    "id": 206,
+                    "name": "Kiiminki",
+                    "latitude": 65.1333,
+                    "longitude": 25.8000
+                },
+                {
+                    "id": 207,
+                    "name": "Kärsämäki",
+                    "latitude": 63.9833,
+                    "longitude": 25.7500
+                },
+                {
+                    "id": 208,
+                    "name": "Liminka",
+                    "latitude": 64.8167,
+                    "longitude": 25.4167
+                },
+                {
+                    "id": 209,
+                    "name": "Lumijoki",
+                    "latitude": 64.8333,
+                    "longitude": 25.1833
+                },
+                {
+                    "id": 210,
+                    "name": "Muhos",
+                    "latitude": 64.8000,
+                    "longitude": 26.1833
+                },
+                {
+                    "id": 211,
+                    "name": "Nivala",
+                    "latitude": 63.9167,
+                    "longitude": 24.9667
+                },
+                {
+                    "id": 212,
+                    "name": "Oulainen",
+                    "latitude": 64.2667,
+                    "longitude": 24.8167
+                },
+                {
+                    "id": 213,
+                    "name": "Oulunsalo",
+                    "latitude": 64.9333,
+                    "longitude": 25.4000
+                },
+                {
+                    "id": 214,
+                    "name": "Pudasjärvi",
+                    "latitude": 65.3667,
+                    "longitude": 26.9167
+                },
+                {
+                    "id": 215,
+                    "name": "Pulkkila",
+                    "latitude": 64.2667,
+                    "longitude": 25.8667
+                },
+                {
+                    "id": 216,
+                    "name": "Pyhäjoki",
+                    "latitude": 64.4667,
+                    "longitude": 24.2500
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "LAPPI",
+            "code": "10",
+            "latitude": 67.0000,
+            "longitude": 26.0000,
+            "municipalityList": [
+                {
+                    "id": 217,
+                    "name": "Rovaniemi",
+                    "latitude": 66.5000,
+                    "longitude": 25.7167
+                },
+                {
+                    "id": 218,
+                    "name": "Kemi",
+                    "latitude": 65.7333,
+                    "longitude": 24.5667
+                },
+                {
+                    "id": 219,
+                    "name": "Tornio",
+                    "latitude": 65.8500,
+                    "longitude": 24.1500
+                },
+                {
+                    "id": 220,
+                    "name": "Enontekiö",
+                    "latitude": 68.3833,
+                    "longitude": 23.6333
+                },
+                {
+                    "id": 221,
+                    "name": "Inari",
+                    "latitude": 68.9000,
+                    "longitude": 27.0167
+                },
+                {
+                    "id": 222,
+                    "name": "Kemi",
+                    "latitude": 65.7333,
+                    "longitude": 24.5667
+                },
+                {
+                    "id": 223,
+                    "name": "Kemijärvi",
+                    "latitude": 66.7167,
+                    "longitude": 27.4167
+                },
+                {
+                    "id": 224,
+                    "name": "Keminmaa",
+                    "latitude": 65.8000,
+                    "longitude": 24.5333
+                },
+                {
+                    "id": 225,
+                    "name": "Kittilä",
+                    "latitude": 67.6500,
+                    "longitude": 24.9000
+                },
+                {
+                    "id": 226,
+                    "name": "Kolari",
+                    "latitude": 67.3333,
+                    "longitude": 23.7833
+                },
+                {
+                    "id": 227,
+                    "name": "Muonio",
+                    "latitude": 67.9500,
+                    "longitude": 23.7000
+                },
+                {
+                    "id": 228,
+                    "name": "Pelkosenniemi",
+                    "latitude": 67.1167,
+                    "longitude": 27.5167
+                },
+                {
+                    "id": 229,
+                    "name": "Pello",
+                    "latitude": 66.8167,
+                    "longitude": 23.9667
+                },
+                {
+                    "id": 230,
+                    "name": "Posio",
+                    "latitude": 66.1167,
+                    "longitude": 28.1667
+                },
+                {
+                    "id": 231,
+                    "name": "Ranua",
+                    "latitude": 65.9333,
+                    "longitude": 26.5167
+                },
+                {
+                    "id": 232,
+                    "name": "Salla",
+                    "latitude": 66.8333,
+                    "longitude": 28.6667
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "AHVENANMAA",
+            "code": "01",
+            "latitude": 60.2166,
+            "longitude": 19.9439,
+            "municipalityList": [
+                {
+                    "id": 233,
+                    "name": "Mariehamn",
+                    "latitude": 60.1000,
+                    "longitude": 19.9500
+                },
+                {
+                    "id": 234,
+                    "name": "Brändö",
+                    "latitude": 60.4167,
+                    "longitude": 21.0500
+                },
+                {
+                    "id": 235,
+                    "name": "Eckerö",
+                    "latitude": 60.2167,
+                    "longitude": 19.6167
+                },
+                {
+                    "id": 236,
+                    "name": "Finström",
+                    "latitude": 60.2167,
+                    "longitude": 19.9500
+                },
+                {
+                    "id": 237,
+                    "name": "Föglö",
+                    "latitude": 60.0167,
+                    "longitude": 20.4167
+                },
+                {
+                    "id": 238,
+                    "name": "Geta",
+                    "latitude": 60.3667,
+                    "longitude": 19.8500
+                },
+                {
+                    "id": 239,
+                    "name": "Hammarland",
+                    "latitude": 60.2167,
+                    "longitude": 19.7500
+                },
+                {
+                    "id": 240,
+                    "name": "Jomala",
+                    "latitude": 60.1500,
+                    "longitude": 19.9500
+                },
+                {
+                    "id": 241,
+                    "name": "Kumlinge",
+                    "latitude": 60.2667,
+                    "longitude": 20.7833
+                },
+                {
+                    "id": 242,
+                    "name": "Kökar",
+                    "latitude": 59.9167,
+                    "longitude": 20.9000
+                },
+                {
+                    "id": 243,
+                    "name": "Lemland",
+                    "latitude": 60.0833,
+                    "longitude": 20.0833
+                },
+                {
+                    "id": 244,
+                    "name": "Lumparland",
+                    "latitude": 60.1167,
+                    "longitude": 20.2500
+                },
+                {
+                    "id": 245,
+                    "name": "Maarianhamina",
+                    "latitude": 60.1000,
+                    "longitude": 19.9500
+                },
+                {
+                    "id": 246,
+                    "name": "Saltvik",
+                    "latitude": 60.2833,
+                    "longitude": 20.0500
+                },
+                {
+                    "id": 247,
+                    "name": "Sund",
+                    "latitude": 60.2500,
+                    "longitude": 20.1167
+                },
+                {
+                    "id": 248,
+                    "name": "Vårdö",
+                    "latitude": 60.2500,
+                    "longitude": 20.3833
+                }
+            ]
+        }
+    ]
+}

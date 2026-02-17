@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Manage Ads - Nirvana Astro</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background: #f6faf7;
+      color: #222;
+      font-family: 'Segoe UI', 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+    }
+    h1 {
+      margin: 32px 0 18px 0;
+      color: #219150;
+      font-size: 2em;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+    }
+    .ads-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 32px 24px;
+      margin: 0 auto;
+      max-width: 1200px;
+      width: 100%;
+      padding: 24px 0 48px 0;
+    }
+    .ad-section {
+      width: 100%;
+      min-width: 220px;
+      min-height: 260px;
+      background: #fff;
+      border-radius: 18px;
+      box-shadow: 0 2px 12px #ffe06644;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 18px 10px 16px 10px;
+      border: 1.5px solid #ffe066;
+      text-align: center;
+      transition: box-shadow 0.2s;
+    }
+    .ad-section img {
+      width: 80px;
+      height: 80px;
+      object-fit: cover;
+      border-radius: 12px;
+      margin-bottom: 10px;
+      box-shadow: 0 1px 6px #ffe06633;
+      cursor: pointer;
+      transition: box-shadow 0.2s;
+    }
+    .ad-section img:hover {
+      box-shadow: 0 4px 16px #ffe06699;
+    }
+    .ad-section input[type="text"],
+    .ad-section input[type="url"] {
+      width: 90%;
+      margin: 4px 0;
+      padding: 6px 8px;
+      border-radius: 6px;
+      border: 1px solid #ffe066;
+      font-size: 0.98em;
+      box-sizing: border-box;
+    }
+    .ad-section-title {
+      font-size: 1.08em;
+      color: #bfa600;
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+    .ad-section-desc {
+      font-size: 0.98em;
+      color: #888;
+      font-weight: normal;
+      margin-bottom: 10px;
+    }
+    .ad-url-form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 4px;
+      margin-top: 6px;
+      width: 100%;
+      justify-content: center;
+    }
+    .ad-url-form button {
+      background: #2ecc40;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      padding: 6px 14px;
+      font-weight: bold;
+      font-size: 1em;
+      cursor: pointer;
+      box-shadow: 0 2px 8px #b2dfdb44;
+      transition: background 0.2s;
+      margin-top: 4px;
+    }
+    .ad-url-form button:hover {
+      background: #219150;
+    }
+    .actions {
+      display: flex;
+      gap: 18px;
+      margin: 18px 0 0 0;
+      justify-content: center;
+      width: 100%;
+    }
+    .actions button {
+      background: #2ecc40;
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      padding: 10px 28px;
+      font-weight: bold;
+      font-size: 1.1em;
+      cursor: pointer;
+      box-shadow: 0 2px 8px #b2dfdb44;
+      transition: background 0.2s;
+    }
+    .actions button:hover {
+      background: #219150;
+    }
+    @media (max-width: 1100px) {
+      .ads-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    @media (max-width: 700px) {
+      .ads-grid {
+        grid-template-columns: 1fr;
+        gap: 18px 0;
+      }
+      .ad-section {
+        min-width: 0;
+        width: 98vw;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Manage Advertisement Slots</h1>
+  <div class="actions">
+    <button id="saveAll">Save All</button>
+    <button id="sendToMain">Send to Main Page</button>
+  </div>
+  <div class="ads-grid">
+    <!-- Ad sections will be rendered here by JS -->
+  </div>
+  <script>
+    // Ad data (same as in kundali_home.html)
+    const defaultAds = [
+      {
+        title: 'Learn Vedic Astrology',
+        desc: 'Free open-source resources for beginners.',
+        img: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80',
+        url: '',
+        key: 'ad_url_1'
+      },
+      {
+        title: 'Zodiac Signs Explained',
+        desc: 'Discover your Rashi and Nakshatra.',
+        img: 'https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80',
+        url: '',
+        key: 'ad_url_2'
+      },
+      {
+        title: 'Constellation Guide',
+        desc: 'Explore the night sky with open data.',
+        img: 'https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=400&q=80',
+        url: '',
+        key: 'ad_url_3'
+      },
+      {
+        title: 'Open Source Astro Tools',
+        desc: 'Try free astrology calculation software.',
+        img: 'https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80',
+        url: '',
+        key: 'ad_url_4'
+      },
+      {
+        title: 'Daily Horoscope',
+        desc: 'Get your free daily predictions online.',
+        img: 'https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80',
+        url: '',
+        key: 'ad_url_5'
+      },
+      {
+        title: 'Birth Chart Generator',
+        desc: 'Create your Janma Kundali instantly.',
+        img: 'https://images.unsplash.com/photo-1465101178521-c1a9136a3b99?auto=format&fit=crop&w=400&q=80',
+        url: '',
+        key: 'ad_url_6'
+      },
+      {
+        title: 'Astrology Community',
+        desc: 'Join open forums and discussions.',
+        img: 'https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80',
+        url: '',
+        key: 'ad_url_7'
+      },
+      {
+        title: 'Open Astro Data',
+        desc: 'Access free datasets for research.',
+        img: 'https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80',
+        url: '',
+        key: 'ad_url_8'
+      }
+    ];
+
+    function getAds() {
+      const saved = localStorage.getItem('astro_ads');
+      if (saved) {
+        try {
+          return JSON.parse(saved);
+        } catch {
+          return [...defaultAds];
+        }
+      }
+      return [...defaultAds];
+    }
+
+    function saveAds(ads) {
+      localStorage.setItem('astro_ads', JSON.stringify(ads));
+    }
+
+    function renderAds() {
+      const grid = document.querySelector('.ads-grid');
+      grid.innerHTML = '';
+      const ads = getAds();
+      ads.forEach((ad, idx) => {
+        const section = document.createElement('div');
+        section.className = 'ad-section';
+        section.innerHTML = `
+          <img src="${ad.img}" alt="${ad.title}" data-idx="${idx}" style="cursor:pointer;">
+          <form class="ad-url-form" onsubmit="return false;">
+            <input type="text" placeholder="Image URL" value="${ad.img}" class="img-input">
+            <input type="text" placeholder="Title" value="${ad.title}" class="title-input">
+            <input type="text" placeholder="Description" value="${ad.desc}" class="desc-input">
+            <input type="url" placeholder="Ad URL (https://...)" value="${ad.url || ''}" class="url-input">
+          </form>
+        `;
+        // Live preview for image
+        section.querySelector('.img-input').oninput = function(e) {
+          section.querySelector('img').src = e.target.value;
+        };
+        // Click image to go to URL if set
+        section.querySelector('img').onclick = function() {
+          const url = section.querySelector('.url-input').value;
+          if (url) window.open(url, '_blank');
+        };
+        grid.appendChild(section);
+      });
+    }
+
+    // Save all ads to localStorage
+    document.getElementById('saveAll').onclick = function() {
+      const grid = document.querySelector('.ads-grid');
+      const sections = grid.querySelectorAll('.ad-section');
+      const ads = [];
+      sections.forEach(section => {
+        ads.push({
+          img: section.querySelector('.img-input').value,
+          title: section.querySelector('.title-input').value,
+          desc: section.querySelector('.desc-input').value,
+          url: section.querySelector('.url-input').value,
+          key: '' // not used in this version
+        });
+      });
+      saveAds(ads);
+      renderAds();
+      alert('All ads saved!');
+    };
+
+    // Send to main page (reloads kundali_home.html)
+    document.getElementById('sendToMain').onclick = function() {
+      window.location.href = 'kundali_home.html';
+    };
+
+    renderAds();
+  </script>
+</body>
+</html> 
